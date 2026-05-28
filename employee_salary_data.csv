@@ -1,0 +1,1501 @@
+Age,Education,Department,Job_Title,Experience_Years,Num_Skills,Skills,Salary_USD,Salary_Label
+23,Master's,Sales,Account Manager,1,6,"Python, SQL, JavaScript, Data Analysis, Project Management, Power BI",66364.76,Low
+22,Bachelor's,Finance,CFO,1,5,"Project Management, Leadership, Cloud (AWS/GCP), Java, Data Analysis",55943.96,Low
+25,Bachelor's,Operations,Operations Manager,4,2,"Power BI, Communication",59233.54,Low
+22,Bachelor's,HR,Recruiter,0,7,"Machine Learning, Project Management, Java, Excel, Cloud (AWS/GCP), JavaScript, Communication",39691.22,Low
+26,Bachelor's,Finance,Financial Analyst,3,5,"Machine Learning, Python, JavaScript, Data Analysis, Leadership",62592.67,Low
+23,High School,IT,DevOps Engineer,3,2,"Data Analysis, SQL",42419.34,Low
+37,PhD,IT,Software Engineer,11,5,"Power BI, Leadership, Project Management, Excel, Data Analysis",108614.76,High
+28,Master's,Marketing,SEO Analyst,4,7,"Communication, Java, SQL, JavaScript, Data Analysis, Python, Power BI",70851.05,High
+22,Bachelor's,Data Science,ML Engineer,1,6,"Power BI, Communication, Python, Excel, Java, Project Management",60747.36,Low
+24,Master's,Sales,Sales Head,2,2,"Power BI, Communication",67006.29,Low
+38,Bachelor's,Finance,CFO,17,7,"Machine Learning, Cloud (AWS/GCP), Project Management, Java, Communication, SQL, Leadership",89419.75,High
+43,Bachelor's,IT,QA Engineer,22,5,"Data Analysis, Leadership, Communication, Power BI, SQL",101559.31,High
+23,High School,HR,Training Specialist,2,2,"Leadership, Excel",47652.84,Low
+32,Master's,Marketing,SEO Analyst,9,5,"JavaScript, Leadership, Java, Machine Learning, Communication",87988.72,High
+25,Master's,Sales,Sales Head,1,5,"Machine Learning, Power BI, Java, Cloud (AWS/GCP), Project Management",53104.39,Low
+27,Master's,Marketing,Marketing Manager,3,2,"Java, Communication",50936.35,Low
+22,Bachelor's,Data Science,Data Scientist,2,3,"SQL, Project Management, Leadership",66573.92,Low
+23,Bachelor's,Operations,Operations Manager,1,7,"Cloud (AWS/GCP), Data Analysis, Python, Communication, Java, SQL, Excel",77488.76,High
+25,Bachelor's,Data Science,Data Scientist,4,5,"SQL, Cloud (AWS/GCP), Power BI, Excel, Communication",72191.19,High
+24,Bachelor's,HR,Recruiter,2,2,"Python, Java",46405.04,Low
+33,Bachelor's,Sales,Sales Executive,12,2,"Data Analysis, Leadership",68136.39,Low
+30,Bachelor's,Sales,Sales Executive,9,2,"Java, Data Analysis",68062.77,Low
+25,Master's,Operations,Supply Chain Analyst,0,5,"SQL, Machine Learning, Power BI, Cloud (AWS/GCP), Project Management",59864.57,Low
+22,Master's,Sales,Account Manager,0,6,"Excel, Java, JavaScript, Project Management, Data Analysis, Leadership",56787.2,Low
+21,High School,Data Science,Data Scientist,3,5,"Power BI, Machine Learning, Project Management, Data Analysis, Excel",58018.37,Low
+23,Master's,Operations,Supply Chain Analyst,0,3,"Cloud (AWS/GCP), SQL, Python",69710.81,Low
+23,Bachelor's,HR,Recruiter,0,3,"Machine Learning, Excel, Communication",42514.51,Low
+29,Master's,Data Science,Data Analyst,5,3,"Cloud (AWS/GCP), JavaScript, Java",87047.48,High
+33,Master's,Data Science,ML Engineer,10,3,"Power BI, Java, JavaScript",83594.15,High
+30,Bachelor's,Sales,Sales Head,7,6,"Cloud (AWS/GCP), Machine Learning, JavaScript, SQL, Communication, Python",60902.79,Low
+22,Master's,IT,Software Engineer,0,2,"Leadership, SQL",72443.83,High
+23,Bachelor's,Operations,Operations Manager,0,5,"Java, Python, SQL, Communication, Power BI",47668.03,Low
+23,Bachelor's,Data Science,Data Analyst,2,4,"Machine Learning, Excel, Leadership, SQL",77509.33,High
+28,Bachelor's,Sales,Sales Executive,8,5,"Java, Communication, Data Analysis, Leadership, Machine Learning",71736.66,High
+26,PhD,Operations,Supply Chain Analyst,2,2,"Excel, Power BI",63845.27,Low
+25,Bachelor's,Marketing,Marketing Manager,4,6,"Leadership, Project Management, Excel, Machine Learning, JavaScript, Python",64655.67,Low
+22,Bachelor's,Sales,Sales Head,0,2,"Cloud (AWS/GCP), SQL",44196.08,Low
+25,Bachelor's,IT,DevOps Engineer,2,2,"Communication, Project Management",58983.99,Low
+25,Bachelor's,HR,Training Specialist,2,3,"JavaScript, Machine Learning, Python",50234.05,Low
+27,Bachelor's,IT,Software Engineer,5,6,"Leadership, Excel, Data Analysis, Cloud (AWS/GCP), Communication, Python",83509.37,High
+20,High School,Data Science,Data Analyst,2,2,"Power BI, Project Management",49749.46,Low
+40,PhD,Data Science,Data Scientist,15,6,"JavaScript, Data Analysis, Project Management, Excel, Python, Machine Learning",118624.99,High
+23,Bachelor's,Marketing,Content Writer,1,2,"Machine Learning, Project Management",45859.78,Low
+28,High School,Data Science,ML Engineer,9,2,"Python, Project Management",74725.96,High
+22,Master's,Operations,Supply Chain Analyst,0,3,"Java, Communication, Leadership",56382.25,Low
+21,High School,HR,Training Specialist,0,7,"Leadership, JavaScript, Python, Project Management, Data Analysis, Communication, Power BI",42871.24,Low
+23,Master's,Marketing,Marketing Manager,1,3,"Leadership, Cloud (AWS/GCP), Python",46527.29,Low
+23,Bachelor's,Finance,Financial Analyst,2,4,"SQL, Data Analysis, Python, Java",54467.74,Low
+44,Master's,IT,QA Engineer,20,7,"Leadership, Python, Project Management, Data Analysis, Machine Learning, JavaScript, Excel",123274.62,High
+24,Bachelor's,HR,HR Manager,3,4,"Leadership, Power BI, Communication, Project Management",56708.52,Low
+23,Bachelor's,IT,Software Engineer,3,3,"Java, Power BI, Project Management",70165.86,High
+25,Bachelor's,Finance,Accountant,4,7,"Communication, Cloud (AWS/GCP), Machine Learning, SQL, Data Analysis, Power BI, Leadership",55022.81,Low
+31,High School,Sales,Account Manager,11,4,"Python, Communication, Project Management, Excel",62429.68,Low
+37,Master's,Operations,Logistics Head,15,4,"Excel, Cloud (AWS/GCP), Python, Leadership",99111.29,High
+25,Master's,IT,Software Engineer,2,6,"Excel, Project Management, Power BI, Communication, Java, Cloud (AWS/GCP)",68339.35,Low
+30,Master's,Sales,Sales Head,8,4,"Project Management, Excel, Data Analysis, SQL",81087.25,High
+24,Bachelor's,IT,QA Engineer,2,2,"SQL, Communication",60938.92,Low
+26,Master's,IT,DevOps Engineer,2,7,"SQL, Project Management, Data Analysis, Java, Leadership, Communication, Power BI",76447.65,High
+21,High School,Operations,Operations Manager,1,4,"Power BI, Leadership, Excel, Python",32825.11,Low
+22,Master's,Data Science,Data Analyst,0,5,"Project Management, Cloud (AWS/GCP), Data Analysis, Power BI, Excel",64701.25,Low
+25,Bachelor's,Data Science,ML Engineer,3,5,"Cloud (AWS/GCP), JavaScript, Python, Java, Excel",68364.75,Low
+37,Bachelor's,Sales,Sales Head,17,5,"Java, Project Management, Leadership, JavaScript, Machine Learning",97684.52,High
+27,Master's,Finance,Accountant,2,2,"Data Analysis, Cloud (AWS/GCP)",61212.59,Low
+25,Bachelor's,Operations,Supply Chain Analyst,5,6,"Cloud (AWS/GCP), JavaScript, Communication, Machine Learning, Power BI, SQL",69115.06,Low
+27,PhD,Marketing,SEO Analyst,3,4,"Project Management, Excel, Cloud (AWS/GCP), Power BI",69244.77,Low
+23,Master's,Finance,Accountant,1,5,"Cloud (AWS/GCP), SQL, Power BI, Machine Learning, Leadership",61234.94,Low
+29,Bachelor's,Sales,Account Manager,9,7,"Leadership, Cloud (AWS/GCP), Data Analysis, Java, Excel, Communication, JavaScript",86733.74,High
+31,Bachelor's,HR,HR Manager,11,4,"JavaScript, Java, Cloud (AWS/GCP), Leadership",71356.61,High
+24,Bachelor's,Sales,Account Manager,1,6,"Communication, Leadership, SQL, Cloud (AWS/GCP), Data Analysis, Python",62498.44,Low
+27,PhD,HR,HR Manager,0,7,"Leadership, JavaScript, Power BI, Data Analysis, Machine Learning, Java, Excel",75862.6,High
+39,Master's,HR,Recruiter,14,6,"Power BI, Excel, Java, Python, JavaScript, Project Management",101597.73,High
+32,PhD,Marketing,SEO Analyst,8,2,"Project Management, Java",83112.1,High
+33,Bachelor's,IT,Software Engineer,10,5,"Excel, Power BI, Python, Data Analysis, Leadership",82766.02,High
+27,Bachelor's,IT,QA Engineer,7,6,"Project Management, Power BI, Python, Data Analysis, SQL, Machine Learning",59879.33,Low
+29,PhD,Finance,CFO,3,5,"Project Management, Cloud (AWS/GCP), Excel, Leadership, Power BI",94730.5,High
+40,Master's,Sales,Sales Head,17,7,"Communication, Excel, Project Management, Leadership, Machine Learning, Cloud (AWS/GCP), Data Analysis",98929.78,High
+27,Bachelor's,Data Science,Data Analyst,5,3,"Data Analysis, JavaScript, SQL",72997.9,High
+26,PhD,HR,HR Manager,0,5,"JavaScript, Leadership, Project Management, Power BI, Data Analysis",73760.76,High
+31,Master's,IT,DevOps Engineer,7,7,"JavaScript, Java, Project Management, Python, Communication, Machine Learning, Cloud (AWS/GCP)",76992.03,High
+27,High School,Sales,Account Manager,7,2,"Python, Excel",70347.82,High
+23,High School,Sales,Sales Executive,5,4,"Power BI, Cloud (AWS/GCP), Excel, JavaScript",54442.12,Low
+25,Master's,Finance,Accountant,3,4,"JavaScript, Java, Excel, Python",72764.26,High
+28,Bachelor's,Data Science,ML Engineer,5,5,"Power BI, SQL, Leadership, Machine Learning, JavaScript",75636.51,High
+20,High School,Data Science,ML Engineer,0,7,"Java, JavaScript, Cloud (AWS/GCP), Leadership, SQL, Machine Learning, Communication",56452.31,Low
+41,Master's,Sales,Sales Executive,17,4,"JavaScript, Python, Project Management, Communication",98173.06,High
+26,Master's,Finance,Accountant,2,6,"Leadership, Project Management, Power BI, Java, Communication, SQL",70167.6,High
+25,Master's,Finance,CFO,1,4,"Leadership, Cloud (AWS/GCP), Python, Machine Learning",69847.99,Low
+23,Master's,Data Science,ML Engineer,1,5,"Excel, Machine Learning, Python, Leadership, Cloud (AWS/GCP)",82668.88,High
+27,Bachelor's,Data Science,Data Scientist,5,3,"Data Analysis, Cloud (AWS/GCP), Excel",66870.1,Low
+31,Master's,Data Science,ML Engineer,7,3,"Communication, Project Management, Excel",83850.91,High
+26,Master's,Finance,CFO,1,3,"Excel, Communication, Project Management",62230.42,Low
+27,Master's,Marketing,Marketing Manager,4,3,"Leadership, Communication, Python",67017.77,Low
+22,Bachelor's,Finance,CFO,0,4,"JavaScript, Leadership, Python, Excel",46458.53,Low
+22,Bachelor's,Sales,Account Manager,1,6,"Project Management, Leadership, SQL, Communication, JavaScript, Java",58349.72,Low
+39,Bachelor's,Marketing,Content Writer,18,5,"SQL, Project Management, Excel, Cloud (AWS/GCP), Communication",85813.02,High
+24,Master's,IT,Software Engineer,2,5,"Cloud (AWS/GCP), Communication, JavaScript, Data Analysis, SQL",66147.03,Low
+25,PhD,HR,HR Manager,1,2,"Project Management, Java",55872.59,Low
+23,Bachelor's,Data Science,Data Scientist,3,7,"Cloud (AWS/GCP), Power BI, Java, Project Management, Machine Learning, Communication, Leadership",85722.62,High
+24,PhD,HR,HR Manager,0,7,"Project Management, Machine Learning, Java, Cloud (AWS/GCP), Communication, Leadership, SQL",61417.03,Low
+30,Master's,Operations,Operations Manager,7,3,"Data Analysis, Excel, Project Management",65141.44,Low
+25,Master's,Sales,Account Manager,2,5,"Python, Java, Communication, Excel, Leadership",60862.39,Low
+22,Master's,HR,Training Specialist,0,7,"Power BI, Leadership, Java, Python, Data Analysis, JavaScript, Communication",60307.16,Low
+20,Bachelor's,Marketing,Content Writer,0,4,"Leadership, Python, Project Management, Cloud (AWS/GCP)",53728.37,Low
+34,Bachelor's,Sales,Account Manager,11,6,"Cloud (AWS/GCP), Java, JavaScript, Excel, Leadership, Communication",76614.13,High
+27,PhD,Sales,Sales Head,3,3,"Cloud (AWS/GCP), Excel, Python",73189.59,High
+24,Bachelor's,Operations,Logistics Head,1,7,"Leadership, Project Management, Machine Learning, Power BI, Data Analysis, Python, Excel",64106.5,Low
+24,Master's,IT,QA Engineer,0,2,"Communication, Power BI",62614.58,Low
+24,Master's,Finance,Financial Analyst,0,6,"SQL, Java, Machine Learning, Communication, Cloud (AWS/GCP), Project Management",55736.06,Low
+31,Bachelor's,HR,Training Specialist,11,5,"Machine Learning, Project Management, Cloud (AWS/GCP), Communication, Java",68009.04,Low
+24,Bachelor's,Marketing,SEO Analyst,4,7,"JavaScript, Leadership, Excel, Python, Power BI, Cloud (AWS/GCP), Machine Learning",55206.09,Low
+24,Bachelor's,Sales,Sales Head,4,5,"Java, Python, Project Management, Machine Learning, Excel",53509.85,Low
+25,PhD,Data Science,ML Engineer,1,2,"Java, JavaScript",96812.25,High
+23,Master's,HR,HR Manager,1,7,"Machine Learning, Power BI, Data Analysis, Leadership, Cloud (AWS/GCP), Python, JavaScript",60904.27,Low
+27,Master's,Marketing,Marketing Manager,3,7,"Cloud (AWS/GCP), Excel, Project Management, Communication, Python, Java, Power BI",64938.56,Low
+20,Bachelor's,Operations,Logistics Head,0,2,"Power BI, SQL",56136.12,Low
+29,Master's,Finance,Financial Analyst,4,6,"Machine Learning, Excel, Leadership, Python, Project Management, Cloud (AWS/GCP)",84078.54,High
+27,Bachelor's,Sales,Sales Head,5,7,"JavaScript, Project Management, Python, Power BI, Data Analysis, Communication, Excel",57968.28,Low
+27,Master's,Data Science,Data Analyst,4,7,"Project Management, Excel, Communication, Java, Python, Cloud (AWS/GCP), SQL",82254.6,High
+25,Master's,Sales,Sales Head,1,6,"Machine Learning, SQL, Java, JavaScript, Communication, Project Management",84868.39,High
+27,Bachelor's,Finance,CFO,5,3,"Data Analysis, Java, JavaScript",65304.45,Low
+30,Master's,Finance,Financial Analyst,8,3,"Excel, JavaScript, Power BI",77120.08,High
+26,Master's,Marketing,SEO Analyst,4,3,"Python, Data Analysis, JavaScript",57997.76,Low
+45,Master's,IT,QA Engineer,20,5,"Power BI, Project Management, Python, Excel, Leadership",103002.0,High
+22,Bachelor's,Operations,Supply Chain Analyst,0,2,"Excel, Data Analysis",32975.0,Low
+20,High School,Operations,Logistics Head,2,7,"Java, Leadership, Project Management, Communication, Excel, Power BI, Data Analysis",38092.11,Low
+24,High School,Finance,Financial Analyst,3,5,"Cloud (AWS/GCP), Project Management, SQL, Excel, Communication",52182.22,Low
+25,Master's,IT,Software Engineer,0,7,"Machine Learning, Leadership, Excel, Project Management, Communication, JavaScript, Data Analysis",64043.72,Low
+36,High School,IT,DevOps Engineer,16,2,"Project Management, Java",68604.08,Low
+29,Master's,Marketing,SEO Analyst,5,5,"Leadership, Excel, Data Analysis, Cloud (AWS/GCP), Power BI",66943.02,Low
+19,High School,Data Science,ML Engineer,1,4,"JavaScript, Power BI, Machine Learning, Leadership",46609.16,Low
+24,Master's,Operations,Operations Manager,2,4,"Cloud (AWS/GCP), Leadership, Machine Learning, Python",68806.13,Low
+26,High School,Data Science,Data Analyst,5,4,"Data Analysis, Leadership, Cloud (AWS/GCP), JavaScript",54828.34,Low
+24,Bachelor's,IT,DevOps Engineer,1,6,"Communication, SQL, JavaScript, Leadership, Java, Project Management",50148.22,Low
+27,Bachelor's,HR,Training Specialist,6,4,"Python, Data Analysis, Machine Learning, SQL",57328.32,Low
+19,High School,Data Science,Data Scientist,1,3,"Machine Learning, Excel, Data Analysis",39047.15,Low
+26,Master's,HR,Recruiter,4,6,"Java, JavaScript, Cloud (AWS/GCP), Python, Machine Learning, Project Management",68752.49,Low
+36,Master's,Finance,Financial Analyst,13,2,"JavaScript, Machine Learning",92353.21,High
+21,Bachelor's,Marketing,SEO Analyst,1,2,"Excel, SQL",54994.27,Low
+33,Master's,Marketing,SEO Analyst,9,4,"Cloud (AWS/GCP), Leadership, Project Management, Machine Learning",75888.72,High
+31,Bachelor's,Data Science,ML Engineer,10,3,"Data Analysis, Java, Cloud (AWS/GCP)",78011.57,High
+29,Master's,IT,DevOps Engineer,4,7,"Power BI, JavaScript, Cloud (AWS/GCP), Python, Leadership, Project Management, Machine Learning",76580.38,High
+22,Bachelor's,Finance,Financial Analyst,2,4,"Java, Leadership, Machine Learning, Python",49286.32,Low
+25,Master's,Marketing,Content Writer,2,2,"Python, Communication",62197.5,Low
+30,PhD,Marketing,SEO Analyst,4,5,"Data Analysis, SQL, Excel, Communication, Cloud (AWS/GCP)",75289.14,High
+25,Master's,IT,Software Engineer,1,3,"Cloud (AWS/GCP), Excel, SQL",79359.24,High
+28,Master's,Sales,Account Manager,6,6,"Java, Machine Learning, Project Management, Python, Communication, Cloud (AWS/GCP)",80157.37,High
+23,Bachelor's,Data Science,Data Analyst,2,4,"Python, Excel, Project Management, Leadership",66151.3,Low
+22,Master's,Operations,Supply Chain Analyst,0,7,"Leadership, JavaScript, Machine Learning, SQL, Java, Communication, Power BI",55499.8,Low
+23,Master's,Sales,Sales Executive,0,3,"Excel, Power BI, Project Management",58207.26,Low
+25,Bachelor's,Data Science,Data Analyst,2,2,"Power BI, Machine Learning",71820.24,High
+44,Master's,Marketing,Marketing Manager,20,5,"Project Management, Power BI, Machine Learning, JavaScript, SQL",121995.9,High
+25,Bachelor's,Operations,Operations Manager,2,6,"Excel, SQL, JavaScript, Python, Data Analysis, Cloud (AWS/GCP)",67391.51,Low
+23,Bachelor's,HR,HR Manager,0,3,"SQL, Project Management, Cloud (AWS/GCP)",41698.77,Low
+22,Bachelor's,HR,Recruiter,1,7,"Cloud (AWS/GCP), SQL, Machine Learning, Project Management, Python, Data Analysis, Leadership",49370.61,Low
+27,Bachelor's,Marketing,Content Writer,4,2,"Python, Project Management",58354.12,Low
+24,Bachelor's,Finance,Accountant,2,4,"JavaScript, Power BI, Cloud (AWS/GCP), Machine Learning",45965.68,Low
+44,Bachelor's,Sales,Sales Executive,23,6,"Power BI, Machine Learning, Data Analysis, Java, Project Management, Leadership",98737.24,High
+30,Master's,Operations,Logistics Head,6,3,"Python, Excel, Java",69758.15,Low
+21,Bachelor's,IT,Software Engineer,1,5,"Machine Learning, Python, SQL, Power BI, Project Management",69660.75,Low
+20,High School,IT,Software Engineer,0,7,"Cloud (AWS/GCP), Java, SQL, Leadership, Communication, Excel, JavaScript",48538.94,Low
+22,Bachelor's,Marketing,SEO Analyst,1,5,"JavaScript, Machine Learning, Communication, Power BI, SQL",36474.63,Low
+45,Bachelor's,Marketing,Content Writer,24,2,"Leadership, JavaScript",112382.04,High
+33,Master's,Marketing,SEO Analyst,9,7,"Leadership, Machine Learning, Communication, Data Analysis, SQL, Power BI, JavaScript",93499.09,High
+24,Master's,IT,QA Engineer,1,7,"Cloud (AWS/GCP), Project Management, Python, Communication, Leadership, Power BI, SQL",92716.51,High
+23,Bachelor's,HR,HR Manager,2,3,"Power BI, Cloud (AWS/GCP), Leadership",41227.71,Low
+28,Master's,Marketing,Marketing Manager,5,7,"Cloud (AWS/GCP), Excel, Power BI, Communication, JavaScript, SQL, Leadership",78869.11,High
+31,Bachelor's,HR,Recruiter,10,4,"SQL, Leadership, Project Management, Python",67410.09,Low
+30,Master's,IT,DevOps Engineer,6,3,"Excel, Java, Communication",80901.24,High
+24,Bachelor's,Sales,Sales Head,3,2,"Data Analysis, Leadership",58609.3,Low
+25,Master's,HR,Training Specialist,3,7,"Machine Learning, Project Management, SQL, Communication, Leadership, Cloud (AWS/GCP), Excel",63785.96,Low
+30,Bachelor's,IT,Software Engineer,8,5,"Excel, Cloud (AWS/GCP), Machine Learning, Project Management, Communication",70461.36,High
+42,Master's,HR,HR Manager,20,3,"SQL, Cloud (AWS/GCP), JavaScript",110860.57,High
+25,Master's,HR,HR Manager,0,2,"Java, Communication",62774.4,Low
+28,Master's,Data Science,Data Analyst,6,5,"Java, Python, Cloud (AWS/GCP), Excel, Power BI",100496.65,High
+19,High School,Operations,Logistics Head,1,2,"Leadership, Excel",37116.27,Low
+25,Bachelor's,Data Science,Data Scientist,5,6,"Project Management, Java, Excel, SQL, Communication, Cloud (AWS/GCP)",63579.52,Low
+20,Bachelor's,Operations,Logistics Head,0,2,"SQL, Cloud (AWS/GCP)",58209.53,Low
+35,Bachelor's,Marketing,Marketing Manager,15,6,"Communication, SQL, Project Management, Data Analysis, JavaScript, Cloud (AWS/GCP)",85014.71,High
+36,PhD,Finance,Accountant,10,2,"Machine Learning, Excel",98547.17,High
+28,PhD,HR,Training Specialist,3,4,"Data Analysis, Java, Leadership, Python",68951.07,Low
+24,Bachelor's,Operations,Logistics Head,1,4,"Cloud (AWS/GCP), Power BI, Project Management, Python",41812.37,Low
+20,High School,Sales,Sales Executive,0,2,"Leadership, Python",31176.98,Low
+30,Master's,Data Science,Data Scientist,5,5,"Data Analysis, Java, Python, JavaScript, Project Management",95176.64,High
+20,Bachelor's,HR,Recruiter,0,2,"Power BI, Project Management",65697.24,Low
+34,Bachelor's,Data Science,ML Engineer,11,5,"Cloud (AWS/GCP), Excel, Communication, Project Management, Machine Learning",78214.84,High
+21,Bachelor's,Finance,Financial Analyst,0,6,"Python, Cloud (AWS/GCP), Power BI, JavaScript, Machine Learning, Excel",51105.51,Low
+24,High School,IT,Software Engineer,5,7,"Machine Learning, Excel, SQL, Cloud (AWS/GCP), Communication, Leadership, Power BI",56246.75,Low
+29,Master's,Finance,CFO,7,3,"SQL, Communication, JavaScript",88821.77,High
+26,Bachelor's,Finance,Financial Analyst,3,2,"Data Analysis, Cloud (AWS/GCP)",76654.75,High
+26,Bachelor's,Marketing,Content Writer,5,3,"Cloud (AWS/GCP), SQL, Power BI",43976.24,Low
+30,PhD,IT,QA Engineer,4,5,"Excel, Java, Power BI, Python, Machine Learning",94436.66,High
+34,Master's,Marketing,Marketing Manager,12,7,"Project Management, JavaScript, Power BI, Excel, Python, Communication, Java",92999.36,High
+23,Master's,IT,DevOps Engineer,0,7,"Data Analysis, Python, Project Management, Excel, Communication, JavaScript, SQL",66220.32,Low
+23,Master's,HR,Training Specialist,1,7,"Cloud (AWS/GCP), Java, Data Analysis, JavaScript, Communication, Python, Project Management",57023.38,Low
+37,High School,Data Science,ML Engineer,16,5,"JavaScript, Project Management, Communication, Java, Power BI",104375.56,High
+25,PhD,Data Science,ML Engineer,0,6,"Cloud (AWS/GCP), Project Management, Java, Data Analysis, Communication, Excel",91276.8,High
+22,Bachelor's,Finance,CFO,2,5,"Data Analysis, Java, Python, Project Management, Communication",62583.34,Low
+22,High School,Data Science,ML Engineer,1,4,"Leadership, Machine Learning, Data Analysis, Java",38585.93,Low
+23,Bachelor's,Operations,Operations Manager,1,6,"Machine Learning, Python, Leadership, Java, Excel, Communication",44920.64,Low
+29,Bachelor's,Sales,Sales Head,9,3,"Machine Learning, Excel, Leadership",76968.25,High
+24,Bachelor's,IT,QA Engineer,1,4,"Communication, JavaScript, Excel, Python",57622.9,Low
+40,Master's,Finance,CFO,15,2,"JavaScript, SQL",92837.93,High
+41,Master's,IT,Software Engineer,17,2,"Power BI, Excel",96530.14,High
+25,Master's,Operations,Operations Manager,0,2,"Leadership, JavaScript",54507.65,Low
+26,Master's,Sales,Sales Head,2,5,"Leadership, Project Management, Excel, Power BI, Python",73516.68,High
+21,Bachelor's,Operations,Logistics Head,1,6,"Machine Learning, Cloud (AWS/GCP), Leadership, Excel, Data Analysis, Python",55637.57,Low
+37,Bachelor's,Sales,Sales Head,14,5,"Java, JavaScript, Machine Learning, Cloud (AWS/GCP), Python",79964.25,High
+23,Bachelor's,HR,HR Manager,0,4,"Data Analysis, Power BI, Leadership, Machine Learning",41311.41,Low
+29,Master's,Operations,Logistics Head,5,6,"Leadership, SQL, Java, Communication, JavaScript, Power BI",75996.56,High
+31,Bachelor's,Finance,Accountant,8,5,"JavaScript, Excel, Machine Learning, SQL, Leadership",73699.45,High
+29,Bachelor's,IT,QA Engineer,7,3,"Python, SQL, JavaScript",78945.47,High
+30,Master's,IT,DevOps Engineer,7,3,"Excel, JavaScript, Project Management",73809.49,High
+24,Master's,Marketing,SEO Analyst,2,3,"Python, Machine Learning, Data Analysis",49108.34,Low
+23,Master's,Marketing,Marketing Manager,0,4,"Python, Project Management, Communication, Java",54866.78,Low
+25,Bachelor's,HR,HR Manager,3,4,"Leadership, Python, Machine Learning, Java",54907.1,Low
+32,Bachelor's,Sales,Sales Executive,11,7,"Communication, Power BI, Excel, JavaScript, Java, SQL, Project Management",79153.18,High
+27,PhD,HR,HR Manager,1,4,"Excel, Data Analysis, Python, JavaScript",70442.4,High
+24,Master's,IT,Software Engineer,2,5,"JavaScript, Project Management, Power BI, Leadership, SQL",76420.24,High
+25,Master's,HR,Recruiter,3,2,"JavaScript, Power BI",51816.35,Low
+26,Master's,HR,Training Specialist,3,4,"Cloud (AWS/GCP), Power BI, Python, JavaScript",69167.37,Low
+28,Master's,Finance,Financial Analyst,4,6,"Leadership, Java, SQL, Communication, Python, Project Management",68773.25,Low
+27,Master's,Marketing,SEO Analyst,2,3,"Excel, Cloud (AWS/GCP), Java",59786.2,Low
+19,High School,Data Science,Data Scientist,0,7,"Cloud (AWS/GCP), Power BI, Machine Learning, Data Analysis, SQL, Python, Java",42260.52,Low
+19,High School,Marketing,SEO Analyst,1,5,"Leadership, Python, Communication, Cloud (AWS/GCP), Project Management",31007.75,Low
+24,Bachelor's,Marketing,SEO Analyst,2,4,"Machine Learning, SQL, Python, Leadership",64417.32,Low
+25,Bachelor's,Marketing,Marketing Manager,4,2,"SQL, Project Management",55064.8,Low
+25,Master's,IT,Software Engineer,1,2,"Java, Communication",61118.93,Low
+20,High School,Marketing,Marketing Manager,0,7,"SQL, Project Management, Power BI, Excel, Communication, Cloud (AWS/GCP), Python",42912.78,Low
+23,Bachelor's,IT,QA Engineer,1,5,"Power BI, Java, Excel, Cloud (AWS/GCP), Leadership",72058.34,High
+25,PhD,IT,Software Engineer,0,2,"SQL, Python",74079.45,High
+29,Master's,HR,Recruiter,5,3,"Data Analysis, Python, Project Management",61697.72,Low
+25,Bachelor's,IT,QA Engineer,2,4,"Machine Learning, Cloud (AWS/GCP), Excel, SQL",54029.56,Low
+25,Bachelor's,IT,DevOps Engineer,3,4,"Project Management, Excel, Machine Learning, Communication",65871.84,Low
+22,Bachelor's,Data Science,Data Scientist,1,3,"Data Analysis, Machine Learning, Cloud (AWS/GCP)",64291.38,Low
+30,Bachelor's,HR,Recruiter,8,3,"Java, Leadership, Power BI",70087.57,High
+26,Bachelor's,Operations,Operations Manager,5,4,"Python, SQL, Java, Communication",48212.36,Low
+27,Master's,Finance,Financial Analyst,2,4,"Java, Power BI, SQL, Leadership",66928.89,Low
+32,PhD,Data Science,Data Analyst,8,6,"Project Management, Machine Learning, Cloud (AWS/GCP), Excel, Java, Python",96944.16,High
+37,Bachelor's,IT,QA Engineer,16,3,"Cloud (AWS/GCP), Project Management, Machine Learning",94302.73,High
+27,Bachelor's,HR,Training Specialist,7,3,"JavaScript, Java, Project Management",62382.85,Low
+24,Master's,Sales,Account Manager,0,2,"Cloud (AWS/GCP), Python",44174.82,Low
+32,Master's,Finance,Financial Analyst,10,4,"Java, Project Management, Data Analysis, SQL",78948.69,High
+26,Master's,Operations,Logistics Head,2,5,"Communication, Data Analysis, Power BI, Cloud (AWS/GCP), Excel",59653.11,Low
+23,Bachelor's,HR,Training Specialist,0,5,"Python, Cloud (AWS/GCP), Leadership, Machine Learning, Power BI",59255.02,Low
+27,Master's,IT,QA Engineer,3,3,"Machine Learning, Data Analysis, Project Management",75564.9,High
+24,Master's,Marketing,Content Writer,0,5,"JavaScript, Machine Learning, Communication, Data Analysis, SQL",66245.48,Low
+28,PhD,Sales,Sales Executive,2,3,"Machine Learning, SQL, Data Analysis",63294.61,Low
+36,Master's,Operations,Logistics Head,12,5,"Power BI, Leadership, SQL, Data Analysis, Communication",89614.66,High
+21,Bachelor's,Data Science,Data Analyst,0,3,"Project Management, Data Analysis, Machine Learning",50823.36,Low
+22,Master's,HR,Training Specialist,0,3,"SQL, Python, Power BI",44431.96,Low
+26,Bachelor's,IT,Software Engineer,4,3,"Cloud (AWS/GCP), Data Analysis, JavaScript",61162.39,Low
+20,Bachelor's,Data Science,ML Engineer,0,3,"JavaScript, Data Analysis, Communication",71951.51,High
+31,Master's,IT,Software Engineer,6,4,"Machine Learning, SQL, Cloud (AWS/GCP), Project Management",63313.47,Low
+27,Bachelor's,IT,DevOps Engineer,4,4,"Cloud (AWS/GCP), Data Analysis, Leadership, Communication",61505.04,Low
+27,Bachelor's,Operations,Operations Manager,4,5,"Machine Learning, Leadership, JavaScript, Communication, Power BI",42487.58,Low
+28,High School,Marketing,SEO Analyst,7,4,"Java, Power BI, Excel, Machine Learning",55457.69,Low
+27,Master's,IT,Software Engineer,3,3,"SQL, JavaScript, Power BI",61806.76,Low
+32,PhD,Finance,CFO,8,4,"Machine Learning, Python, Power BI, Leadership",82121.51,High
+26,Bachelor's,Operations,Supply Chain Analyst,5,2,"Java, Excel",50237.32,Low
+29,Bachelor's,Operations,Logistics Head,6,4,"Project Management, Power BI, Excel, Machine Learning",67836.2,Low
+20,Bachelor's,Sales,Account Manager,0,6,"SQL, Project Management, Machine Learning, Excel, Communication, JavaScript",40117.25,Low
+26,Master's,Operations,Logistics Head,2,6,"Communication, Project Management, Leadership, Data Analysis, Java, Python",75317.32,High
+33,Master's,Data Science,ML Engineer,9,3,"Cloud (AWS/GCP), SQL, Java",99654.13,High
+21,High School,Marketing,Marketing Manager,0,3,"Leadership, Project Management, Power BI",21002.25,Low
+27,Master's,Data Science,Data Scientist,3,3,"Java, Communication, Python",84947.66,High
+28,PhD,HR,Training Specialist,4,4,"Power BI, Excel, Python, Data Analysis",82394.53,High
+25,PhD,Sales,Account Manager,0,7,"Java, JavaScript, Power BI, Project Management, SQL, Excel, Communication",76852.58,High
+29,Master's,IT,DevOps Engineer,7,5,"Project Management, Cloud (AWS/GCP), Excel, Python, Java",80794.33,High
+30,PhD,Finance,Accountant,5,5,"Cloud (AWS/GCP), Communication, Machine Learning, Excel, Python",89333.78,High
+25,Master's,Marketing,Marketing Manager,1,6,"JavaScript, Project Management, Leadership, Python, SQL, Java",83000.22,High
+23,Master's,Sales,Sales Head,0,5,"Power BI, Machine Learning, JavaScript, Communication, SQL",57333.48,Low
+25,Bachelor's,Finance,Accountant,3,7,"JavaScript, SQL, Cloud (AWS/GCP), Project Management, Python, Excel, Machine Learning",73938.18,High
+23,Bachelor's,Data Science,Data Analyst,0,5,"Machine Learning, Project Management, Excel, Cloud (AWS/GCP), Power BI",55589.2,Low
+24,Bachelor's,Sales,Sales Executive,4,7,"Cloud (AWS/GCP), Python, SQL, Project Management, Data Analysis, Machine Learning, Leadership",59272.54,Low
+28,PhD,Sales,Sales Head,3,3,"Cloud (AWS/GCP), Data Analysis, Leadership",89134.5,High
+23,High School,HR,HR Manager,4,6,"Java, Leadership, Power BI, Project Management, Data Analysis, SQL",47862.71,Low
+27,PhD,Data Science,ML Engineer,1,4,"Leadership, SQL, Machine Learning, Power BI",82765.96,High
+23,Bachelor's,Marketing,Marketing Manager,1,3,"Excel, Data Analysis, Java",47837.69,Low
+32,Master's,Marketing,Content Writer,9,7,"Power BI, Machine Learning, Communication, Python, Cloud (AWS/GCP), JavaScript, Project Management",82821.6,High
+23,Bachelor's,IT,QA Engineer,3,6,"Data Analysis, Project Management, JavaScript, Excel, Cloud (AWS/GCP), Java",59238.71,Low
+29,Bachelor's,Data Science,Data Scientist,8,3,"Project Management, Data Analysis, Machine Learning",77551.35,High
+36,Master's,Marketing,SEO Analyst,14,3,"Machine Learning, Leadership, SQL",87240.18,High
+22,Bachelor's,Marketing,Content Writer,1,5,"Java, SQL, Cloud (AWS/GCP), Project Management, Data Analysis",49793.01,Low
+26,Master's,Sales,Sales Head,1,6,"Data Analysis, Machine Learning, Python, Leadership, SQL, Excel",59351.75,Low
+21,High School,Operations,Supply Chain Analyst,1,4,"Excel, Cloud (AWS/GCP), Communication, JavaScript",43488.13,Low
+31,Master's,Data Science,Data Analyst,8,3,"Java, JavaScript, Power BI",76561.85,High
+23,High School,Operations,Logistics Head,3,2,"Java, Excel",39181.68,Low
+20,High School,Finance,Financial Analyst,0,2,"Cloud (AWS/GCP), Leadership",20000.0,Low
+28,Bachelor's,Data Science,Data Scientist,7,3,"Machine Learning, Java, Communication",83784.66,High
+23,Bachelor's,Operations,Supply Chain Analyst,3,5,"Machine Learning, SQL, Power BI, Excel, Java",52929.16,Low
+19,High School,IT,QA Engineer,1,5,"Power BI, Data Analysis, Python, Communication, Project Management",51513.36,Low
+25,Master's,Finance,CFO,3,4,"Power BI, Communication, Leadership, Cloud (AWS/GCP)",64775.87,Low
+24,Master's,Sales,Sales Executive,1,5,"JavaScript, Machine Learning, Leadership, Python, Data Analysis",51668.53,Low
+35,Master's,Sales,Account Manager,13,2,"Communication, Java",93725.54,High
+36,Bachelor's,IT,Software Engineer,14,4,"Cloud (AWS/GCP), Communication, Leadership, SQL",93123.18,High
+23,Bachelor's,Finance,CFO,1,3,"Project Management, Communication, Cloud (AWS/GCP)",53191.78,Low
+22,Master's,Sales,Sales Head,0,4,"JavaScript, SQL, Leadership, Communication",50445.71,Low
+21,Bachelor's,Finance,Accountant,1,7,"Excel, Communication, Python, Java, Leadership, JavaScript, Machine Learning",43704.43,Low
+39,PhD,Sales,Sales Head,14,3,"Data Analysis, Cloud (AWS/GCP), Leadership",106918.49,High
+32,Bachelor's,Operations,Supply Chain Analyst,11,7,"Java, Machine Learning, Python, Leadership, Excel, Communication, SQL",84022.62,High
+33,Master's,Marketing,SEO Analyst,10,4,"JavaScript, Communication, Power BI, SQL",82587.48,High
+23,Bachelor's,Sales,Account Manager,3,4,"Python, SQL, Leadership, JavaScript",51808.97,Low
+27,Master's,Data Science,Data Analyst,3,3,"JavaScript, Java, SQL",79929.66,High
+36,High School,HR,Training Specialist,15,4,"JavaScript, Project Management, Cloud (AWS/GCP), Data Analysis",66635.76,Low
+29,Bachelor's,Sales,Sales Head,7,5,"Python, Power BI, Project Management, Java, Communication",72774.17,High
+32,Bachelor's,HR,HR Manager,10,2,"Machine Learning, Project Management",48982.18,Low
+25,Bachelor's,Operations,Operations Manager,2,6,"Leadership, Power BI, SQL, Python, Communication, Excel",49147.97,Low
+26,Master's,HR,Recruiter,2,3,"Power BI, Python, Leadership",63147.23,Low
+36,Bachelor's,Operations,Operations Manager,13,5,"SQL, Python, Java, Power BI, Project Management",72367.69,High
+30,Bachelor's,Data Science,ML Engineer,8,6,"Project Management, Power BI, Leadership, Machine Learning, Cloud (AWS/GCP), Python",81882.07,High
+31,Bachelor's,Operations,Supply Chain Analyst,8,6,"Project Management, JavaScript, Python, Leadership, Excel, Cloud (AWS/GCP)",68547.76,Low
+23,Bachelor's,IT,QA Engineer,0,3,"Excel, Power BI, JavaScript",48438.25,Low
+23,Bachelor's,Finance,Accountant,0,4,"Power BI, Leadership, Java, Data Analysis",56469.38,Low
+31,Master's,IT,Software Engineer,8,3,"Power BI, Project Management, Cloud (AWS/GCP)",83056.42,High
+23,Bachelor's,Finance,Accountant,0,3,"JavaScript, Java, Machine Learning",57559.55,Low
+32,Bachelor's,Operations,Supply Chain Analyst,9,6,"Python, Machine Learning, Leadership, Communication, Excel, JavaScript",61460.62,Low
+33,Bachelor's,HR,Training Specialist,11,6,"Cloud (AWS/GCP), Machine Learning, SQL, Leadership, Communication, Java",79721.17,High
+25,Master's,Marketing,Content Writer,0,7,"Machine Learning, Power BI, SQL, Java, Leadership, Data Analysis, Excel",52398.5,Low
+23,Bachelor's,Data Science,Data Scientist,3,4,"SQL, Power BI, Cloud (AWS/GCP), JavaScript",66293.11,Low
+45,Master's,Operations,Logistics Head,20,4,"Communication, Java, SQL, Project Management",101266.3,High
+34,Master's,HR,Training Specialist,10,3,"Excel, Communication, Machine Learning",73186.87,High
+33,Master's,HR,Training Specialist,8,5,"Excel, SQL, Data Analysis, Python, Cloud (AWS/GCP)",80264.91,High
+26,Master's,Data Science,Data Analyst,1,5,"JavaScript, Project Management, Python, Data Analysis, Java",67994.38,Low
+35,Master's,Marketing,SEO Analyst,10,7,"Cloud (AWS/GCP), Communication, Java, Project Management, Python, Power BI, Data Analysis",86141.92,High
+24,Master's,HR,HR Manager,2,4,"Java, SQL, Project Management, Python",66014.67,Low
+25,Bachelor's,Sales,Sales Executive,3,7,"Communication, Power BI, Java, JavaScript, Project Management, Python, Machine Learning",60491.9,Low
+23,Bachelor's,HR,Recruiter,0,5,"Java, Excel, Communication, Cloud (AWS/GCP), SQL",41292.96,Low
+30,Bachelor's,Sales,Sales Executive,7,2,"JavaScript, Power BI",62922.0,Low
+27,Bachelor's,HR,Training Specialist,7,4,"Leadership, Power BI, Machine Learning, Java",63680.13,Low
+39,Master's,Marketing,Content Writer,14,3,"Excel, Power BI, Leadership",75621.76,High
+31,Bachelor's,Operations,Supply Chain Analyst,9,5,"JavaScript, Project Management, Leadership, Machine Learning, Python",74476.62,High
+23,Bachelor's,Operations,Logistics Head,3,7,"JavaScript, Power BI, Leadership, Cloud (AWS/GCP), Machine Learning, Data Analysis, Project Management",51491.76,Low
+21,Bachelor's,Data Science,Data Scientist,0,3,"Excel, Python, Communication",53093.69,Low
+27,Master's,Marketing,SEO Analyst,5,2,"Java, Leadership",70268.85,High
+28,PhD,Marketing,SEO Analyst,4,5,"Data Analysis, Communication, Power BI, Leadership, JavaScript",86063.22,High
+25,Master's,Sales,Sales Head,0,4,"SQL, Power BI, Leadership, Python",49871.93,Low
+26,Bachelor's,Finance,CFO,4,6,"SQL, Excel, JavaScript, Communication, Java, Data Analysis",80829.38,High
+27,Bachelor's,IT,DevOps Engineer,5,2,"Cloud (AWS/GCP), Machine Learning",67271.18,Low
+23,Master's,Sales,Sales Executive,0,7,"Cloud (AWS/GCP), Project Management, JavaScript, Java, Data Analysis, Python, Communication",75741.56,High
+23,Bachelor's,Sales,Sales Executive,1,2,"Python, Leadership",51819.42,Low
+29,Master's,Finance,CFO,6,4,"SQL, Power BI, Leadership, Project Management",73162.7,High
+33,Master's,HR,Recruiter,10,4,"Leadership, Project Management, JavaScript, Power BI",87605.81,High
+27,Master's,HR,Training Specialist,3,7,"Machine Learning, Communication, Data Analysis, Excel, Python, Project Management, SQL",66416.5,Low
+40,Master's,Sales,Sales Head,16,3,"Leadership, JavaScript, SQL",114043.25,High
+29,Bachelor's,Marketing,SEO Analyst,9,5,"Project Management, Machine Learning, Cloud (AWS/GCP), Data Analysis, SQL",73714.8,High
+29,Master's,HR,Training Specialist,4,2,"Cloud (AWS/GCP), Data Analysis",60909.1,Low
+22,Master's,Sales,Account Manager,0,4,"Project Management, Cloud (AWS/GCP), Excel, Communication",66489.67,Low
+32,Master's,Finance,Financial Analyst,9,2,"Project Management, Java",83978.48,High
+29,Master's,Data Science,Data Analyst,5,7,"Communication, Machine Learning, Java, Python, JavaScript, Power BI, SQL",83696.07,High
+25,PhD,Finance,Financial Analyst,0,4,"Machine Learning, Power BI, Project Management, Python",81281.0,High
+20,Bachelor's,Finance,Accountant,0,4,"Communication, Cloud (AWS/GCP), Python, JavaScript",67096.27,Low
+42,Bachelor's,HR,Recruiter,22,6,"Excel, JavaScript, Leadership, Data Analysis, SQL, Python",103089.38,High
+28,Master's,IT,QA Engineer,5,3,"Power BI, Project Management, Python",76085.14,High
+36,Master's,Operations,Operations Manager,14,5,"Java, Project Management, SQL, Power BI, Data Analysis",92706.16,High
+30,Bachelor's,Sales,Account Manager,10,3,"Excel, JavaScript, Leadership",73151.88,High
+21,Bachelor's,Data Science,Data Analyst,0,7,"Project Management, Python, Cloud (AWS/GCP), Java, Excel, Data Analysis, SQL",63634.13,Low
+26,High School,Finance,Accountant,6,7,"SQL, Cloud (AWS/GCP), Excel, Java, Python, Communication, JavaScript",62926.91,Low
+33,Bachelor's,Operations,Operations Manager,11,2,"Project Management, Java",67560.72,Low
+26,Bachelor's,IT,QA Engineer,3,6,"SQL, Python, Excel, Communication, Power BI, Java",51079.89,Low
+40,High School,Finance,Accountant,19,3,"Excel, Project Management, Communication",92182.06,High
+45,Bachelor's,HR,Training Specialist,22,7,"Data Analysis, Machine Learning, Leadership, Python, Power BI, Java, Cloud (AWS/GCP)",102048.41,High
+27,Master's,Operations,Logistics Head,4,5,"Data Analysis, Communication, Power BI, Excel, Python",68649.3,Low
+30,PhD,Finance,Financial Analyst,6,7,"Communication, SQL, Project Management, Leadership, Machine Learning, Data Analysis, Power BI",100064.19,High
+25,Master's,Operations,Logistics Head,1,7,"Machine Learning, Communication, Java, Data Analysis, JavaScript, Power BI, Excel",88073.86,High
+29,Master's,Marketing,Marketing Manager,7,2,"Leadership, Machine Learning",86735.47,High
+31,Master's,Finance,Financial Analyst,8,7,"Python, Excel, Java, Power BI, JavaScript, Leadership, Cloud (AWS/GCP)",82656.86,High
+38,PhD,HR,HR Manager,11,4,"Python, SQL, Cloud (AWS/GCP), Project Management",84786.71,High
+25,Master's,Operations,Logistics Head,2,4,"Java, Communication, Project Management, Excel",64277.95,Low
+22,Bachelor's,Finance,Financial Analyst,2,2,"Leadership, Java",54448.5,Low
+23,Bachelor's,Data Science,Data Analyst,3,6,"Project Management, Communication, Machine Learning, Excel, Cloud (AWS/GCP), Python",78926.22,High
+30,PhD,Sales,Account Manager,5,5,"Excel, JavaScript, Leadership, Python, Java",91323.03,High
+25,Bachelor's,Operations,Operations Manager,3,4,"Leadership, Communication, Power BI, Machine Learning",63904.21,Low
+39,Bachelor's,Sales,Sales Head,17,6,"Data Analysis, Excel, Machine Learning, Project Management, Java, JavaScript",86229.37,High
+38,PhD,IT,Software Engineer,13,3,"Communication, Project Management, Power BI",124807.83,High
+24,Bachelor's,Operations,Logistics Head,3,4,"Java, SQL, Python, Data Analysis",49302.7,Low
+24,Bachelor's,HR,HR Manager,3,2,"Project Management, Leadership",52449.24,Low
+21,Bachelor's,Data Science,ML Engineer,1,2,"Leadership, Machine Learning",60056.2,Low
+22,Bachelor's,Sales,Account Manager,0,2,"Leadership, Machine Learning",57228.94,Low
+28,Master's,Marketing,Marketing Manager,5,4,"JavaScript, Power BI, Communication, Python",64892.95,Low
+30,PhD,Finance,Accountant,4,5,"Java, JavaScript, Cloud (AWS/GCP), Data Analysis, Communication",63300.85,Low
+21,Bachelor's,Operations,Logistics Head,0,7,"Communication, Leadership, Machine Learning, Cloud (AWS/GCP), Data Analysis, Java, SQL",52337.13,Low
+25,Master's,IT,Software Engineer,3,4,"Java, Machine Learning, Excel, Cloud (AWS/GCP)",65124.4,Low
+26,Bachelor's,Operations,Logistics Head,3,3,"JavaScript, Machine Learning, Leadership",51899.35,Low
+27,Master's,Finance,CFO,3,4,"Java, Python, Excel, Power BI",76281.47,High
+32,Bachelor's,Marketing,Content Writer,12,4,"Power BI, Data Analysis, Excel, Python",80041.19,High
+27,Master's,Finance,Accountant,3,7,"Data Analysis, Machine Learning, Power BI, Java, Excel, Python, SQL",59986.25,Low
+27,Bachelor's,Sales,Sales Executive,4,5,"Power BI, Excel, Machine Learning, Cloud (AWS/GCP), Leadership",51825.5,Low
+30,Master's,Data Science,Data Scientist,5,5,"Machine Learning, Cloud (AWS/GCP), Python, JavaScript, Communication",88667.54,High
+31,Master's,Operations,Operations Manager,8,7,"Project Management, Machine Learning, Excel, Leadership, JavaScript, Python, Communication",65877.51,Low
+21,High School,Sales,Sales Executive,0,4,"Excel, Data Analysis, Communication, Python",32437.62,Low
+31,Master's,Marketing,Marketing Manager,8,5,"Java, Power BI, Machine Learning, Python, JavaScript",87920.36,High
+24,Bachelor's,Finance,Financial Analyst,2,5,"Leadership, Data Analysis, Python, Power BI, Java",55799.37,Low
+27,Master's,Marketing,Marketing Manager,4,2,"Communication, Python",62622.7,Low
+37,Bachelor's,IT,DevOps Engineer,14,6,"Data Analysis, Python, Java, Cloud (AWS/GCP), Leadership, Power BI",84112.79,High
+29,Master's,Data Science,Data Scientist,7,6,"SQL, Java, Machine Learning, Python, Excel, JavaScript",95404.47,High
+24,Bachelor's,IT,DevOps Engineer,2,3,"Excel, JavaScript, Python",49608.76,Low
+21,High School,Data Science,Data Scientist,2,6,"SQL, Project Management, Data Analysis, JavaScript, Excel, Machine Learning",33549.46,Low
+32,Bachelor's,HR,Recruiter,10,6,"Machine Learning, Leadership, Communication, Power BI, Excel, Python",73131.52,High
+31,Master's,Marketing,Marketing Manager,8,6,"Java, Excel, Communication, Python, Power BI, SQL",88438.87,High
+29,Master's,Finance,Financial Analyst,4,2,"Project Management, Communication",68504.91,Low
+23,Bachelor's,Finance,Accountant,1,3,"Data Analysis, Excel, Java",50350.52,Low
+20,Bachelor's,HR,Training Specialist,0,7,"Java, Leadership, Excel, JavaScript, Communication, Data Analysis, Python",45298.45,Low
+25,Bachelor's,Marketing,Marketing Manager,3,5,"Project Management, Java, Power BI, Leadership, Cloud (AWS/GCP)",61921.33,Low
+22,Bachelor's,Sales,Account Manager,1,5,"JavaScript, Data Analysis, Excel, Power BI, Machine Learning",49262.95,Low
+32,Bachelor's,HR,Recruiter,9,6,"Power BI, Communication, Leadership, Python, JavaScript, SQL",66403.04,Low
+27,Bachelor's,Finance,Financial Analyst,7,5,"Communication, Project Management, Cloud (AWS/GCP), SQL, Leadership",68818.22,Low
+19,High School,Data Science,ML Engineer,1,5,"Excel, Communication, Leadership, Project Management, Cloud (AWS/GCP)",50516.97,Low
+24,Master's,IT,DevOps Engineer,2,6,"Machine Learning, SQL, Java, Leadership, Python, Communication",59662.75,Low
+21,Bachelor's,Sales,Sales Head,1,2,"Data Analysis, SQL",45844.39,Low
+21,Bachelor's,Sales,Sales Executive,1,2,"Communication, Data Analysis",55226.58,Low
+26,Bachelor's,Marketing,Marketing Manager,3,5,"Power BI, Data Analysis, Leadership, Excel, Project Management",53388.88,Low
+23,Bachelor's,Operations,Operations Manager,0,4,"Leadership, Data Analysis, Java, Cloud (AWS/GCP)",44819.84,Low
+27,Master's,Marketing,Content Writer,2,5,"Project Management, Cloud (AWS/GCP), JavaScript, Power BI, Machine Learning",67443.89,Low
+28,Master's,Marketing,SEO Analyst,6,2,"Java, Python",68539.86,Low
+41,Bachelor's,IT,QA Engineer,20,4,"Excel, Leadership, Machine Learning, Project Management",110516.64,High
+31,Bachelor's,Operations,Supply Chain Analyst,10,2,"Project Management, JavaScript",60799.57,Low
+44,Master's,Sales,Account Manager,20,5,"Communication, Data Analysis, Python, Java, JavaScript",123352.38,High
+25,Master's,Operations,Supply Chain Analyst,3,4,"SQL, Power BI, Python, Communication",58319.47,Low
+28,High School,HR,Training Specialist,7,5,"Python, Project Management, SQL, Data Analysis, Cloud (AWS/GCP)",39531.79,Low
+20,High School,Data Science,Data Scientist,2,5,"Java, SQL, Cloud (AWS/GCP), Project Management, Machine Learning",35659.11,Low
+23,Bachelor's,HR,Training Specialist,1,4,"Power BI, Leadership, Python, Java",55622.51,Low
+31,Bachelor's,Finance,Accountant,8,6,"Python, Cloud (AWS/GCP), Communication, Data Analysis, Excel, JavaScript",93990.94,High
+19,High School,Marketing,Marketing Manager,1,6,"Leadership, Java, Machine Learning, Communication, Power BI, Cloud (AWS/GCP)",41733.7,Low
+24,Master's,Marketing,SEO Analyst,2,7,"Machine Learning, Leadership, JavaScript, SQL, Cloud (AWS/GCP), Project Management, Communication",72226.98,High
+22,Master's,Finance,Financial Analyst,0,7,"Power BI, Java, Data Analysis, Excel, Project Management, JavaScript, Python",70835.78,High
+35,Master's,HR,Recruiter,10,6,"Data Analysis, JavaScript, Python, Power BI, Machine Learning, Java",82108.54,High
+31,Master's,Data Science,Data Scientist,7,4,"Java, SQL, Python, Power BI",83796.35,High
+27,PhD,Operations,Logistics Head,0,4,"JavaScript, Project Management, Power BI, Java",58861.79,Low
+33,Bachelor's,Sales,Account Manager,10,5,"Python, Cloud (AWS/GCP), Power BI, Machine Learning, Leadership",71895.22,High
+33,PhD,IT,QA Engineer,6,3,"SQL, Cloud (AWS/GCP), Excel",94780.36,High
+41,PhD,Sales,Sales Executive,15,4,"Project Management, Python, Data Analysis, Cloud (AWS/GCP)",97644.52,High
+28,Bachelor's,Data Science,Data Scientist,5,6,"Machine Learning, Leadership, JavaScript, Cloud (AWS/GCP), Excel, Communication",75285.22,High
+37,Bachelor's,Operations,Supply Chain Analyst,17,2,"Excel, SQL",72449.8,High
+32,Master's,HR,HR Manager,8,6,"Java, Leadership, Excel, Power BI, JavaScript, SQL",75772.22,High
+26,Master's,Sales,Account Manager,1,7,"Python, Data Analysis, Project Management, Power BI, Excel, Cloud (AWS/GCP), SQL",71101.76,High
+24,Master's,HR,Training Specialist,2,2,"Power BI, Project Management",61599.2,Low
+28,Master's,Finance,Financial Analyst,4,4,"Java, Communication, Data Analysis, Cloud (AWS/GCP)",65329.77,Low
+28,Master's,Sales,Account Manager,3,5,"Power BI, JavaScript, Data Analysis, Machine Learning, Excel",57179.93,Low
+33,PhD,Data Science,Data Analyst,6,2,"Java, Leadership",96786.73,High
+28,Master's,HR,HR Manager,4,5,"Communication, Leadership, Machine Learning, Cloud (AWS/GCP), JavaScript",60317.36,Low
+25,Bachelor's,Operations,Supply Chain Analyst,3,5,"Cloud (AWS/GCP), Power BI, Leadership, Communication, Project Management",60939.67,Low
+31,Bachelor's,Marketing,Marketing Manager,11,3,"Excel, Communication, Power BI",65899.3,Low
+26,Bachelor's,Data Science,Data Scientist,5,5,"Cloud (AWS/GCP), Project Management, JavaScript, Machine Learning, Python",62662.01,Low
+30,Bachelor's,Finance,Financial Analyst,10,4,"Python, Data Analysis, Power BI, Leadership",84411.71,High
+21,High School,Operations,Operations Manager,3,2,"JavaScript, Machine Learning",39088.93,Low
+23,Bachelor's,Marketing,SEO Analyst,1,4,"Project Management, Java, Cloud (AWS/GCP), Python",46398.69,Low
+18,High School,Sales,Account Manager,0,7,"Project Management, Python, Machine Learning, JavaScript, Cloud (AWS/GCP), Data Analysis, Power BI",34591.3,Low
+24,Master's,Operations,Supply Chain Analyst,2,4,"Project Management, Cloud (AWS/GCP), Leadership, Python",64569.93,Low
+28,Master's,Marketing,Content Writer,3,6,"Leadership, Python, Communication, Cloud (AWS/GCP), SQL, Excel",57472.34,Low
+28,Bachelor's,IT,DevOps Engineer,7,4,"Python, Data Analysis, Project Management, JavaScript",70679.6,High
+27,Bachelor's,Data Science,ML Engineer,7,4,"JavaScript, Leadership, Communication, Power BI",87543.86,High
+26,Master's,HR,Recruiter,3,4,"Machine Learning, Communication, Data Analysis, Excel",68421.4,Low
+28,Bachelor's,Finance,Accountant,7,4,"Project Management, Machine Learning, Data Analysis, Leadership",74463.56,High
+21,Bachelor's,Operations,Logistics Head,0,3,"Communication, Power BI, JavaScript",44319.38,Low
+27,Bachelor's,Finance,Financial Analyst,4,3,"Data Analysis, Excel, Java",63245.95,Low
+35,Master's,HR,Training Specialist,13,6,"Python, Cloud (AWS/GCP), Leadership, Communication, Project Management, Data Analysis",91338.59,High
+21,High School,Operations,Supply Chain Analyst,1,2,"Java, Project Management",37581.26,Low
+28,Bachelor's,IT,Software Engineer,6,3,"Communication, Data Analysis, Leadership",76680.56,High
+24,PhD,IT,QA Engineer,0,5,"Communication, Project Management, Data Analysis, Python, Java",62683.43,Low
+28,Master's,Sales,Account Manager,6,6,"Data Analysis, Communication, Java, Power BI, JavaScript, Project Management",85673.06,High
+38,PhD,Data Science,Data Analyst,14,5,"Project Management, Leadership, Machine Learning, Java, Cloud (AWS/GCP)",115632.38,High
+26,High School,IT,Software Engineer,6,7,"Power BI, Leadership, Excel, Data Analysis, Machine Learning, Communication, Python",64096.87,Low
+29,Master's,Operations,Supply Chain Analyst,4,5,"Machine Learning, Java, Leadership, Power BI, Communication",57521.94,Low
+24,Master's,Finance,CFO,0,6,"Machine Learning, Java, Cloud (AWS/GCP), Project Management, Data Analysis, Leadership",76247.52,High
+30,Master's,Finance,Accountant,8,7,"Data Analysis, Communication, SQL, JavaScript, Machine Learning, Power BI, Cloud (AWS/GCP)",87306.14,High
+26,Master's,Data Science,Data Scientist,2,2,"Project Management, Communication",81619.61,High
+22,Bachelor's,Finance,Financial Analyst,0,3,"Excel, JavaScript, Leadership",39920.15,Low
+24,Bachelor's,IT,QA Engineer,4,4,"JavaScript, Python, Communication, Power BI",72642.61,High
+41,PhD,IT,Software Engineer,14,6,"Data Analysis, Power BI, Python, Java, Machine Learning, SQL",102334.5,High
+40,Bachelor's,Finance,Accountant,17,7,"Communication, Power BI, Machine Learning, Python, Cloud (AWS/GCP), Java, Project Management",98915.81,High
+21,Bachelor's,Finance,Financial Analyst,1,5,"SQL, Communication, Java, Excel, Power BI",56982.3,Low
+28,Bachelor's,Finance,Financial Analyst,5,5,"Project Management, Python, Excel, Java, Power BI",77810.39,High
+24,Master's,Marketing,SEO Analyst,1,3,"SQL, Java, Python",52582.48,Low
+36,Bachelor's,Operations,Operations Manager,15,3,"Leadership, SQL, Communication",85324.41,High
+22,Bachelor's,Marketing,SEO Analyst,2,3,"Cloud (AWS/GCP), Python, Power BI",46499.88,Low
+31,Master's,Operations,Supply Chain Analyst,9,4,"Python, Excel, Data Analysis, Cloud (AWS/GCP)",73442.31,High
+39,High School,HR,Training Specialist,18,5,"Communication, Leadership, Python, Data Analysis, Power BI",70395.76,High
+31,Master's,Finance,CFO,7,5,"Machine Learning, Communication, Project Management, Power BI, Cloud (AWS/GCP)",68502.21,Low
+24,Master's,HR,Training Specialist,2,7,"Project Management, Communication, Cloud (AWS/GCP), Machine Learning, Python, Excel, Power BI",46174.66,Low
+28,Master's,Finance,CFO,6,4,"Python, Data Analysis, Leadership, Project Management",78193.33,High
+23,Bachelor's,Finance,Financial Analyst,1,2,"Java, Python",49920.82,Low
+42,Bachelor's,Operations,Operations Manager,22,4,"Excel, Cloud (AWS/GCP), Communication, Python",109209.14,High
+31,Master's,Finance,Financial Analyst,6,6,"Data Analysis, SQL, Excel, Communication, Leadership, Cloud (AWS/GCP)",81675.11,High
+21,Bachelor's,Finance,Accountant,0,4,"Communication, Excel, Leadership, Power BI",43433.18,Low
+27,High School,Operations,Logistics Head,7,4,"Leadership, Excel, SQL, Cloud (AWS/GCP)",54616.84,Low
+27,Master's,HR,HR Manager,2,2,"Cloud (AWS/GCP), Power BI",40236.63,Low
+21,High School,Sales,Sales Executive,1,2,"JavaScript, Java",40964.29,Low
+23,Bachelor's,IT,QA Engineer,3,7,"Python, SQL, Leadership, Java, Excel, Communication, JavaScript",58215.48,Low
+45,Bachelor's,IT,QA Engineer,25,5,"Machine Learning, Data Analysis, Excel, Java, Python",120816.99,High
+26,Bachelor's,HR,Recruiter,3,6,"JavaScript, Cloud (AWS/GCP), Machine Learning, Excel, Java, Communication",51313.26,Low
+29,Bachelor's,Marketing,SEO Analyst,7,6,"SQL, Power BI, Cloud (AWS/GCP), Leadership, Python, Machine Learning",72832.55,High
+32,Bachelor's,Data Science,Data Analyst,10,7,"Cloud (AWS/GCP), Machine Learning, Project Management, Java, Communication, SQL, Excel",103958.17,High
+29,Master's,HR,Training Specialist,6,4,"Excel, Project Management, Leadership, Communication",78519.85,High
+25,Bachelor's,IT,DevOps Engineer,2,5,"Python, Java, Power BI, Project Management, Leadership",56383.66,Low
+37,Bachelor's,IT,QA Engineer,17,2,"Excel, Project Management",78632.24,High
+24,Master's,Marketing,Marketing Manager,1,6,"Communication, Excel, Java, Leadership, Data Analysis, Machine Learning",64271.95,Low
+35,Bachelor's,Operations,Logistics Head,14,7,"Java, Leadership, Cloud (AWS/GCP), Power BI, Communication, Project Management, Python",79365.09,High
+34,PhD,Marketing,Content Writer,7,3,"Machine Learning, Power BI, Java",85544.58,High
+28,Bachelor's,HR,HR Manager,5,3,"Cloud (AWS/GCP), Excel, Python",49121.57,Low
+25,Bachelor's,IT,DevOps Engineer,3,5,"Data Analysis, JavaScript, Machine Learning, Project Management, Java",48746.46,Low
+26,High School,Marketing,Marketing Manager,6,5,"Communication, JavaScript, Leadership, Power BI, Project Management",54161.45,Low
+25,Bachelor's,Finance,Financial Analyst,4,3,"Communication, JavaScript, Machine Learning",55894.57,Low
+37,Master's,Data Science,ML Engineer,13,7,"Python, SQL, Data Analysis, Project Management, Java, Power BI, JavaScript",107457.51,High
+24,Bachelor's,Data Science,Data Scientist,4,2,"Cloud (AWS/GCP), Java",68651.76,Low
+21,Bachelor's,HR,HR Manager,0,4,"Machine Learning, Communication, Power BI, JavaScript",47927.13,Low
+25,Master's,Data Science,Data Scientist,2,2,"Project Management, Machine Learning",68179.81,Low
+29,PhD,HR,HR Manager,4,4,"Excel, Java, Data Analysis, Cloud (AWS/GCP)",76175.78,High
+31,Bachelor's,Marketing,Content Writer,11,7,"SQL, JavaScript, Project Management, Cloud (AWS/GCP), Data Analysis, Excel, Java",88510.61,High
+31,Bachelor's,Finance,Accountant,10,5,"Project Management, Data Analysis, Excel, JavaScript, Java",70745.37,High
+24,Bachelor's,Data Science,ML Engineer,1,7,"Communication, Excel, Java, Cloud (AWS/GCP), SQL, Power BI, Leadership",70138.98,High
+27,Master's,Finance,CFO,3,5,"JavaScript, Machine Learning, Data Analysis, Leadership, Cloud (AWS/GCP)",84801.31,High
+22,Bachelor's,Sales,Account Manager,1,5,"Machine Learning, Java, Python, Data Analysis, Leadership",57611.85,Low
+22,Bachelor's,Marketing,SEO Analyst,2,3,"Project Management, JavaScript, Data Analysis",47210.42,Low
+22,Bachelor's,IT,Software Engineer,2,7,"Python, Machine Learning, Project Management, Excel, SQL, JavaScript, Communication",67790.96,Low
+25,Master's,Marketing,Content Writer,2,6,"Excel, Project Management, Power BI, Leadership, Machine Learning, Java",51960.72,Low
+29,Master's,Finance,Financial Analyst,6,6,"Power BI, Java, Leadership, Excel, Machine Learning, Data Analysis",75895.27,High
+28,PhD,IT,DevOps Engineer,4,5,"Java, Leadership, Machine Learning, Cloud (AWS/GCP), Communication",87467.73,High
+25,Bachelor's,Sales,Sales Executive,5,4,"Excel, Communication, Data Analysis, Leadership",52686.7,Low
+26,Master's,IT,Software Engineer,3,5,"Project Management, Machine Learning, JavaScript, Python, Cloud (AWS/GCP)",82673.59,High
+36,Master's,Data Science,Data Scientist,12,2,"Communication, Cloud (AWS/GCP)",98682.42,High
+28,Master's,Marketing,Content Writer,5,2,"Excel, Power BI",85724.15,High
+25,Bachelor's,Finance,Financial Analyst,4,5,"Leadership, Python, Data Analysis, Excel, Communication",65992.24,Low
+28,Master's,Sales,Account Manager,5,5,"Leadership, Java, Machine Learning, Power BI, Python",64155.32,Low
+28,PhD,HR,Recruiter,2,4,"Data Analysis, Cloud (AWS/GCP), Power BI, Communication",79935.57,High
+19,High School,Data Science,Data Analyst,0,4,"Leadership, JavaScript, Machine Learning, Power BI",52023.38,Low
+23,Master's,Finance,Accountant,1,3,"Leadership, Machine Learning, Cloud (AWS/GCP)",70571.21,High
+25,Bachelor's,Marketing,Content Writer,5,6,"Cloud (AWS/GCP), Machine Learning, Communication, Excel, JavaScript, Power BI",57659.07,Low
+26,Bachelor's,HR,Training Specialist,3,5,"Data Analysis, JavaScript, SQL, Leadership, Power BI",42602.9,Low
+32,High School,Sales,Sales Executive,14,4,"JavaScript, Machine Learning, Leadership, SQL",63187.68,Low
+23,Bachelor's,Data Science,Data Analyst,2,4,"Cloud (AWS/GCP), Machine Learning, Project Management, Python",63050.19,Low
+39,Bachelor's,HR,Recruiter,17,4,"Data Analysis, Cloud (AWS/GCP), Excel, Project Management",94211.26,High
+32,Bachelor's,Finance,Financial Analyst,9,3,"Java, Python, SQL",71839.21,High
+28,Master's,Operations,Supply Chain Analyst,3,6,"Python, SQL, Power BI, Communication, Excel, JavaScript",73943.07,High
+26,Bachelor's,Marketing,SEO Analyst,5,5,"Communication, Power BI, Machine Learning, Python, Cloud (AWS/GCP)",57896.71,Low
+23,Bachelor's,Marketing,SEO Analyst,0,5,"Machine Learning, Data Analysis, Power BI, Cloud (AWS/GCP), Excel",58623.56,Low
+29,Bachelor's,Operations,Operations Manager,7,3,"Project Management, Communication, SQL",65053.87,Low
+42,Master's,IT,DevOps Engineer,18,4,"Data Analysis, Excel, Machine Learning, Communication",104990.2,High
+23,Bachelor's,IT,DevOps Engineer,3,7,"Cloud (AWS/GCP), Communication, Java, Project Management, Leadership, SQL, Machine Learning",66159.59,Low
+24,Bachelor's,IT,QA Engineer,3,2,"Java, Excel",64516.66,Low
+19,High School,IT,QA Engineer,1,2,"Python, Data Analysis",44999.87,Low
+26,Master's,IT,Software Engineer,1,3,"Power BI, SQL, Python",72447.32,High
+26,Master's,Data Science,Data Analyst,4,4,"Cloud (AWS/GCP), JavaScript, Java, Excel",76580.62,High
+41,PhD,HR,HR Manager,15,6,"Project Management, Cloud (AWS/GCP), Power BI, Communication, SQL, JavaScript",105360.18,High
+27,Master's,Marketing,Content Writer,4,4,"Project Management, Power BI, Data Analysis, Java",69543.58,Low
+31,PhD,IT,QA Engineer,4,5,"Java, Python, Data Analysis, JavaScript, Leadership",83154.86,High
+22,Master's,Finance,CFO,0,2,"Leadership, JavaScript",61547.04,Low
+20,Bachelor's,Marketing,Content Writer,0,4,"JavaScript, Java, Power BI, Machine Learning",34722.45,Low
+19,High School,Operations,Logistics Head,1,5,"Java, Machine Learning, Excel, Leadership, Python",45058.4,Low
+40,Master's,HR,Training Specialist,15,3,"JavaScript, Excel, SQL",100308.85,High
+26,High School,Finance,CFO,8,7,"Java, Data Analysis, Project Management, Machine Learning, JavaScript, Power BI, Leadership",64245.27,Low
+33,Master's,Sales,Sales Head,8,4,"JavaScript, Excel, Communication, Cloud (AWS/GCP)",76444.08,High
+24,Bachelor's,Operations,Operations Manager,2,7,"Communication, Machine Learning, Python, Leadership, Cloud (AWS/GCP), Power BI, JavaScript",59842.99,Low
+25,Master's,Marketing,Content Writer,0,7,"Data Analysis, Python, Cloud (AWS/GCP), JavaScript, SQL, Leadership, Java",55858.54,Low
+44,Bachelor's,Finance,CFO,23,6,"Power BI, JavaScript, Project Management, Java, Python, SQL",116770.51,High
+26,Bachelor's,Marketing,Content Writer,4,6,"Power BI, Communication, Excel, JavaScript, SQL, Leadership",57323.82,Low
+22,Bachelor's,Sales,Sales Executive,2,3,"Communication, Leadership, Machine Learning",35484.05,Low
+39,PhD,IT,QA Engineer,14,2,"Excel, Machine Learning",108796.05,High
+34,Bachelor's,HR,Training Specialist,13,5,"Java, Data Analysis, Power BI, Communication, Python",76262.73,High
+23,Bachelor's,HR,Recruiter,2,7,"Project Management, SQL, Machine Learning, JavaScript, Excel, Java, Data Analysis",42859.77,Low
+21,High School,IT,DevOps Engineer,0,6,"Project Management, SQL, Data Analysis, Machine Learning, Cloud (AWS/GCP), Java",57007.0,Low
+24,Master's,Sales,Sales Executive,0,3,"Excel, Machine Learning, Project Management",52474.85,Low
+26,Master's,Marketing,Marketing Manager,4,2,"Machine Learning, Communication",64791.47,Low
+45,Bachelor's,IT,DevOps Engineer,22,2,"Excel, Project Management",100850.67,High
+23,Bachelor's,HR,HR Manager,0,3,"Machine Learning, Communication, Excel",49325.61,Low
+28,Bachelor's,Operations,Logistics Head,7,7,"Communication, Data Analysis, SQL, Python, Cloud (AWS/GCP), Power BI, Java",78316.51,High
+26,Bachelor's,Sales,Sales Executive,4,7,"Power BI, Data Analysis, SQL, Python, Leadership, Cloud (AWS/GCP), Project Management",61784.18,Low
+24,High School,Finance,Accountant,6,2,"Java, SQL",52017.51,Low
+33,Bachelor's,Marketing,SEO Analyst,13,3,"SQL, Java, JavaScript",75010.5,High
+31,Bachelor's,Data Science,Data Analyst,9,6,"Data Analysis, Java, Excel, JavaScript, Power BI, Python",69384.41,Low
+24,Master's,Marketing,Content Writer,0,3,"Cloud (AWS/GCP), Power BI, Project Management",57828.05,Low
+18,High School,Sales,Account Manager,0,5,"JavaScript, Leadership, Power BI, Project Management, Excel",28403.38,Low
+23,Bachelor's,HR,Recruiter,3,4,"Leadership, Project Management, Excel, Communication",68265.19,Low
+34,Master's,Sales,Sales Head,11,4,"Leadership, Power BI, Communication, JavaScript",90255.64,High
+24,Master's,HR,HR Manager,0,6,"Power BI, SQL, Data Analysis, Cloud (AWS/GCP), Java, Python",63933.96,Low
+23,Bachelor's,HR,HR Manager,1,2,"Cloud (AWS/GCP), SQL",35630.59,Low
+27,Master's,Sales,Sales Executive,4,7,"Cloud (AWS/GCP), Leadership, Excel, JavaScript, Machine Learning, Java, Project Management",63481.44,Low
+25,High School,HR,HR Manager,7,6,"Communication, Leadership, JavaScript, Cloud (AWS/GCP), Data Analysis, Excel",48223.24,Low
+30,High School,Data Science,Data Scientist,11,5,"JavaScript, Machine Learning, Communication, Excel, Project Management",68822.73,Low
+33,Bachelor's,HR,HR Manager,12,2,"Project Management, Communication",71823.34,High
+41,PhD,Marketing,Marketing Manager,15,6,"JavaScript, Cloud (AWS/GCP), Data Analysis, Project Management, Excel, Java",90987.65,High
+26,Bachelor's,Sales,Account Manager,3,6,"Excel, Leadership, Machine Learning, SQL, JavaScript, Project Management",44896.76,Low
+29,Master's,HR,Recruiter,7,4,"Project Management, Machine Learning, Excel, Cloud (AWS/GCP)",71523.06,High
+25,Master's,Finance,Accountant,0,6,"Machine Learning, Communication, Java, SQL, Data Analysis, JavaScript",57721.48,Low
+39,Bachelor's,Operations,Operations Manager,16,4,"SQL, Project Management, Excel, Power BI",94473.55,High
+29,Bachelor's,Data Science,ML Engineer,7,4,"Communication, Data Analysis, Power BI, Leadership",67513.55,Low
+35,Bachelor's,Data Science,ML Engineer,14,6,"Data Analysis, SQL, Python, Power BI, Java, Machine Learning",100150.34,High
+24,High School,Marketing,Content Writer,6,5,"SQL, Cloud (AWS/GCP), JavaScript, Machine Learning, Project Management",55825.77,Low
+21,Bachelor's,IT,Software Engineer,0,4,"Leadership, Excel, Project Management, Communication",55444.79,Low
+19,High School,Data Science,ML Engineer,0,2,"Machine Learning, Leadership",47709.08,Low
+21,Bachelor's,IT,Software Engineer,0,6,"Machine Learning, Data Analysis, SQL, Python, JavaScript, Java",61826.76,Low
+29,Master's,Marketing,SEO Analyst,7,6,"JavaScript, Machine Learning, Excel, Java, Python, Cloud (AWS/GCP)",89216.11,High
+28,High School,Marketing,SEO Analyst,8,4,"Communication, Cloud (AWS/GCP), Machine Learning, Excel",69802.91,Low
+24,Bachelor's,Sales,Sales Head,3,6,"Excel, Cloud (AWS/GCP), Machine Learning, SQL, JavaScript, Power BI",57940.34,Low
+20,Bachelor's,HR,Training Specialist,0,2,"Data Analysis, Power BI",37188.82,Low
+23,Bachelor's,Finance,Financial Analyst,1,7,"Excel, Java, Project Management, Data Analysis, Communication, Leadership, Python",63649.85,Low
+28,Master's,Marketing,Marketing Manager,5,5,"Excel, Project Management, Data Analysis, JavaScript, Cloud (AWS/GCP)",72823.93,High
+29,Bachelor's,HR,HR Manager,6,2,"Power BI, Cloud (AWS/GCP)",68242.68,Low
+30,PhD,IT,QA Engineer,4,7,"Leadership, SQL, Data Analysis, Communication, Python, Java, Power BI",85275.24,High
+31,Bachelor's,Finance,CFO,9,4,"Cloud (AWS/GCP), Leadership, Java, Machine Learning",73508.0,High
+28,Master's,Data Science,Data Scientist,4,5,"JavaScript, Java, SQL, Cloud (AWS/GCP), Power BI",90962.4,High
+22,Bachelor's,HR,HR Manager,1,6,"Project Management, Python, Machine Learning, JavaScript, SQL, Power BI",63914.51,Low
+23,Bachelor's,Finance,Accountant,1,6,"JavaScript, Data Analysis, Power BI, Communication, Project Management, Excel",45881.02,Low
+33,Bachelor's,Operations,Logistics Head,11,4,"Machine Learning, Python, Java, JavaScript",91406.83,High
+25,Master's,Operations,Operations Manager,3,2,"JavaScript, Python",54988.37,Low
+24,Master's,Operations,Logistics Head,1,5,"Project Management, JavaScript, Data Analysis, Leadership, Python",50196.71,Low
+23,Bachelor's,HR,Recruiter,2,2,"Data Analysis, JavaScript",54180.1,Low
+24,Bachelor's,HR,Training Specialist,3,3,"SQL, Project Management, JavaScript",71464.99,High
+31,Bachelor's,IT,QA Engineer,9,5,"Excel, Power BI, SQL, Leadership, Communication",71515.27,High
+27,Master's,Sales,Sales Executive,3,2,"SQL, Python",74435.8,High
+21,Bachelor's,Finance,CFO,0,5,"SQL, Java, Excel, Power BI, Leadership",56932.74,Low
+23,Master's,Data Science,ML Engineer,1,7,"SQL, Project Management, Excel, Leadership, Machine Learning, Python, JavaScript",92667.99,High
+24,Bachelor's,IT,DevOps Engineer,2,5,"JavaScript, Python, Leadership, Power BI, Excel",66204.62,Low
+36,Master's,Marketing,SEO Analyst,14,5,"Machine Learning, SQL, Python, Excel, JavaScript",100781.73,High
+20,High School,Marketing,SEO Analyst,1,4,"Data Analysis, Machine Learning, JavaScript, SQL",34031.77,Low
+27,Bachelor's,Data Science,Data Scientist,6,5,"Project Management, SQL, Leadership, Data Analysis, Excel",75395.54,High
+36,Bachelor's,Marketing,SEO Analyst,14,5,"Java, Machine Learning, Power BI, Cloud (AWS/GCP), JavaScript",84741.44,High
+26,Master's,Finance,CFO,3,6,"Leadership, Java, Python, Project Management, Excel, Communication",76723.56,High
+28,Bachelor's,Data Science,Data Scientist,8,3,"Communication, Python, Project Management",80156.32,High
+31,Master's,Sales,Account Manager,9,7,"Power BI, Java, Data Analysis, Machine Learning, JavaScript, Project Management, SQL",81024.62,High
+24,Master's,IT,QA Engineer,0,2,"Cloud (AWS/GCP), Power BI",68655.11,Low
+38,Bachelor's,HR,Training Specialist,17,4,"Cloud (AWS/GCP), Leadership, Communication, Data Analysis",99088.8,High
+21,Bachelor's,Data Science,Data Analyst,1,3,"Java, Power BI, Project Management",54393.78,Low
+34,Bachelor's,IT,DevOps Engineer,11,5,"Excel, Python, Power BI, Communication, Cloud (AWS/GCP)",79529.1,High
+27,PhD,Finance,Accountant,2,4,"Excel, JavaScript, Power BI, Java",76216.47,High
+30,PhD,Operations,Operations Manager,6,7,"JavaScript, Java, Communication, Excel, Power BI, Leadership, Project Management",92140.91,High
+20,Bachelor's,IT,DevOps Engineer,0,4,"Leadership, JavaScript, Cloud (AWS/GCP), Java",46487.91,Low
+27,Bachelor's,Data Science,Data Analyst,5,6,"Data Analysis, Excel, Power BI, Java, Python, Cloud (AWS/GCP)",71635.22,High
+27,Bachelor's,IT,QA Engineer,6,5,"Cloud (AWS/GCP), Python, Java, Communication, JavaScript",73885.01,High
+27,Bachelor's,Data Science,ML Engineer,4,2,"SQL, Data Analysis",59998.31,Low
+25,Master's,Sales,Sales Executive,2,2,"SQL, Data Analysis",55200.53,Low
+25,Bachelor's,Sales,Sales Executive,2,5,"Data Analysis, Machine Learning, Power BI, Project Management, Cloud (AWS/GCP)",58436.5,Low
+24,Master's,Marketing,Content Writer,0,2,"Data Analysis, Power BI",40544.96,Low
+39,PhD,HR,Recruiter,15,6,"Excel, JavaScript, Leadership, Power BI, Java, Communication",104510.19,High
+25,Bachelor's,Sales,Sales Executive,4,3,"Machine Learning, SQL, Power BI",50140.63,Low
+24,PhD,Marketing,SEO Analyst,0,7,"Cloud (AWS/GCP), Data Analysis, Communication, Leadership, JavaScript, Java, Power BI",82023.01,High
+32,PhD,IT,DevOps Engineer,5,6,"Project Management, Excel, Java, Python, JavaScript, Data Analysis",90435.64,High
+20,Bachelor's,Finance,Financial Analyst,0,3,"Project Management, SQL, Leadership",53812.42,Low
+23,Bachelor's,Data Science,ML Engineer,0,6,"Machine Learning, Power BI, JavaScript, Python, Leadership, Cloud (AWS/GCP)",65508.78,Low
+33,PhD,Marketing,SEO Analyst,7,3,"Leadership, Machine Learning, SQL",90954.86,High
+24,Bachelor's,Sales,Sales Head,1,6,"Data Analysis, JavaScript, Java, Leadership, Power BI, Python",57738.37,Low
+24,Master's,IT,DevOps Engineer,1,7,"SQL, Python, Communication, JavaScript, Cloud (AWS/GCP), Excel, Data Analysis",81743.42,High
+28,Master's,Data Science,Data Analyst,3,5,"JavaScript, Leadership, Cloud (AWS/GCP), Data Analysis, Machine Learning",82839.98,High
+35,PhD,Finance,Financial Analyst,8,7,"Communication, Excel, Python, Leadership, Machine Learning, JavaScript, Java",94632.05,High
+26,Master's,Marketing,Marketing Manager,3,4,"Cloud (AWS/GCP), Machine Learning, SQL, Python",56437.06,Low
+28,Master's,HR,Training Specialist,3,4,"Leadership, Project Management, Power BI, Java",59852.23,Low
+29,Bachelor's,Data Science,Data Analyst,6,5,"SQL, Project Management, Data Analysis, Power BI, Communication",66728.95,Low
+25,Master's,HR,HR Manager,3,6,"Machine Learning, Python, Leadership, Data Analysis, Excel, SQL",49499.24,Low
+24,Bachelor's,HR,Training Specialist,3,5,"Project Management, Python, SQL, Cloud (AWS/GCP), JavaScript",55539.62,Low
+23,Bachelor's,Finance,CFO,0,6,"SQL, Excel, Cloud (AWS/GCP), Machine Learning, Communication, Leadership",54843.37,Low
+28,Master's,Data Science,Data Analyst,3,6,"Cloud (AWS/GCP), Data Analysis, JavaScript, Java, Machine Learning, Excel",79039.85,High
+33,Bachelor's,IT,QA Engineer,11,6,"Data Analysis, Leadership, Communication, SQL, Java, Machine Learning",86859.07,High
+24,Bachelor's,Sales,Sales Executive,1,5,"Project Management, Machine Learning, Leadership, Cloud (AWS/GCP), Excel",51806.06,Low
+20,Bachelor's,Sales,Sales Executive,0,6,"Machine Learning, Project Management, Python, Communication, Leadership, Data Analysis",39997.49,Low
+27,Master's,IT,QA Engineer,4,7,"SQL, Machine Learning, Cloud (AWS/GCP), Excel, Power BI, Project Management, Data Analysis",81186.52,High
+24,Master's,Sales,Sales Executive,2,6,"Power BI, Python, Communication, Project Management, JavaScript, Leadership",76731.68,High
+24,Bachelor's,IT,Software Engineer,2,6,"JavaScript, SQL, Data Analysis, Leadership, Communication, Project Management",41859.13,Low
+27,Master's,Operations,Operations Manager,3,5,"Project Management, Excel, Cloud (AWS/GCP), SQL, Communication",69034.53,Low
+47,Bachelor's,Data Science,Data Scientist,25,3,"SQL, Communication, Machine Learning",113386.0,High
+24,Bachelor's,Finance,Financial Analyst,2,2,"Java, Leadership",49101.14,Low
+23,Bachelor's,HR,Training Specialist,1,4,"JavaScript, Machine Learning, Leadership, Java",38296.29,Low
+28,Bachelor's,Marketing,SEO Analyst,8,6,"Communication, SQL, Data Analysis, Machine Learning, Cloud (AWS/GCP), JavaScript",73601.35,High
+27,Bachelor's,HR,Recruiter,5,4,"Communication, Machine Learning, SQL, Leadership",60880.48,Low
+42,PhD,Operations,Supply Chain Analyst,15,4,"Project Management, Power BI, Leadership, Cloud (AWS/GCP)",115311.45,High
+33,Bachelor's,Sales,Sales Executive,13,7,"Data Analysis, Java, Python, JavaScript, Power BI, Cloud (AWS/GCP), Excel",74942.81,High
+24,Bachelor's,IT,Software Engineer,3,6,"Leadership, JavaScript, Excel, Project Management, SQL, Power BI",77038.64,High
+40,Bachelor's,Sales,Account Manager,18,3,"Python, Cloud (AWS/GCP), SQL",71891.49,High
+23,Bachelor's,Data Science,Data Scientist,1,7,"Excel, Java, Python, JavaScript, Power BI, Project Management, SQL",77825.85,High
+20,Bachelor's,Marketing,Content Writer,0,6,"Excel, Java, JavaScript, Project Management, Machine Learning, Leadership",40758.52,Low
+34,High School,Marketing,SEO Analyst,14,5,"Data Analysis, Project Management, Java, SQL, Cloud (AWS/GCP)",60831.88,Low
+24,Master's,Data Science,Data Scientist,2,3,"Excel, SQL, Project Management",78787.18,High
+30,Master's,Data Science,Data Scientist,7,7,"JavaScript, Cloud (AWS/GCP), Java, Communication, Leadership, Power BI, SQL",91620.02,High
+23,Bachelor's,IT,QA Engineer,3,5,"Communication, Java, Leadership, Excel, JavaScript",63681.97,Low
+26,Master's,Marketing,Content Writer,1,7,"Power BI, Cloud (AWS/GCP), Excel, SQL, Java, Project Management, Communication",58366.06,Low
+23,Bachelor's,Data Science,ML Engineer,3,2,"Machine Learning, Python",63684.51,Low
+22,Bachelor's,Operations,Supply Chain Analyst,0,5,"JavaScript, Python, Project Management, Excel, SQL",50958.82,Low
+23,Bachelor's,HR,Recruiter,0,5,"Leadership, Excel, Cloud (AWS/GCP), Java, Project Management",39762.54,Low
+22,Master's,Operations,Supply Chain Analyst,0,5,"SQL, Excel, JavaScript, Machine Learning, Leadership",53514.43,Low
+24,Bachelor's,Marketing,Marketing Manager,4,2,"Leadership, Data Analysis",55343.88,Low
+24,Bachelor's,HR,Recruiter,4,6,"Cloud (AWS/GCP), Communication, Python, Power BI, JavaScript, Project Management",56532.56,Low
+36,Bachelor's,Sales,Account Manager,15,7,"Project Management, Communication, Excel, SQL, Python, JavaScript, Data Analysis",95611.23,High
+24,Master's,Operations,Logistics Head,0,7,"JavaScript, Python, Leadership, Excel, Data Analysis, Project Management, Communication",53137.1,Low
+25,Bachelor's,Sales,Sales Executive,2,6,"Power BI, Machine Learning, Java, Cloud (AWS/GCP), SQL, Data Analysis",56627.46,Low
+24,Bachelor's,Sales,Sales Executive,1,7,"Project Management, Communication, Java, Machine Learning, JavaScript, Excel, Python",50387.55,Low
+27,Master's,HR,HR Manager,5,4,"Machine Learning, Python, Java, Data Analysis",60851.68,Low
+26,Master's,Data Science,ML Engineer,3,4,"Communication, Data Analysis, SQL, Cloud (AWS/GCP)",74242.49,High
+24,Bachelor's,Marketing,Marketing Manager,1,3,"Leadership, Cloud (AWS/GCP), Machine Learning",53908.31,Low
+30,Bachelor's,Marketing,Marketing Manager,9,6,"Leadership, Power BI, Python, Communication, SQL, Data Analysis",74620.3,High
+22,Bachelor's,Operations,Operations Manager,2,3,"Excel, Leadership, Communication",44310.13,Low
+29,Master's,Data Science,ML Engineer,4,7,"SQL, Machine Learning, Project Management, Power BI, Communication, Excel, Java",76494.09,High
+30,Master's,Data Science,Data Analyst,6,3,"Data Analysis, Communication, JavaScript",95267.93,High
+34,PhD,HR,HR Manager,9,6,"Power BI, Excel, Machine Learning, JavaScript, Python, Leadership",74386.55,High
+25,Bachelor's,IT,DevOps Engineer,5,7,"Cloud (AWS/GCP), Data Analysis, JavaScript, SQL, Communication, Java, Project Management",76286.87,High
+28,Bachelor's,Operations,Operations Manager,6,4,"Java, JavaScript, Excel, Leadership",63947.08,Low
+28,Bachelor's,Data Science,ML Engineer,7,7,"Data Analysis, Machine Learning, Excel, Cloud (AWS/GCP), SQL, Java, Leadership",67510.52,Low
+41,Master's,Data Science,ML Engineer,18,3,"Machine Learning, Leadership, Data Analysis",116787.92,High
+26,Master's,HR,Training Specialist,1,7,"Data Analysis, Power BI, Communication, Cloud (AWS/GCP), Leadership, Java, Machine Learning",67218.29,Low
+31,Master's,Finance,Financial Analyst,8,2,"Communication, Power BI",76935.06,High
+28,Bachelor's,Data Science,Data Analyst,7,6,"Power BI, Python, Java, Machine Learning, Communication, SQL",77702.2,High
+38,Bachelor's,Operations,Operations Manager,16,6,"Leadership, Project Management, Machine Learning, Cloud (AWS/GCP), Power BI, SQL",97160.39,High
+42,PhD,HR,Training Specialist,15,5,"Excel, Communication, Power BI, Data Analysis, Project Management",123172.58,High
+27,Bachelor's,HR,Recruiter,4,5,"Excel, Leadership, JavaScript, Power BI, Java",69417.32,Low
+24,Bachelor's,Marketing,SEO Analyst,4,6,"Machine Learning, Java, Excel, Communication, JavaScript, Power BI",58682.27,Low
+31,PhD,Data Science,Data Scientist,5,2,"Leadership, Data Analysis",93706.5,High
+24,Bachelor's,IT,Software Engineer,1,7,"Communication, JavaScript, Leadership, Cloud (AWS/GCP), SQL, Excel, Machine Learning",45902.67,Low
+23,Bachelor's,Marketing,Marketing Manager,3,7,"Excel, Cloud (AWS/GCP), Data Analysis, Project Management, Java, Machine Learning, JavaScript",56075.67,Low
+35,PhD,Sales,Account Manager,9,7,"Excel, Java, Cloud (AWS/GCP), SQL, Python, Project Management, Machine Learning",108153.86,High
+27,PhD,Operations,Logistics Head,0,3,"Cloud (AWS/GCP), Excel, Power BI",78528.4,High
+36,Bachelor's,Operations,Supply Chain Analyst,14,7,"Power BI, SQL, JavaScript, Cloud (AWS/GCP), Leadership, Excel, Java",99150.64,High
+23,Bachelor's,HR,Recruiter,0,4,"Power BI, Python, Java, Communication",52718.3,Low
+22,Bachelor's,Operations,Supply Chain Analyst,1,5,"JavaScript, Python, SQL, Machine Learning, Leadership",58580.17,Low
+28,PhD,Marketing,Content Writer,1,5,"SQL, Java, Project Management, Data Analysis, JavaScript",64937.58,Low
+26,Master's,Data Science,ML Engineer,1,7,"Machine Learning, Cloud (AWS/GCP), SQL, JavaScript, Project Management, Leadership, Python",68065.07,Low
+37,PhD,IT,DevOps Engineer,11,6,"Machine Learning, JavaScript, Excel, Python, Leadership, Cloud (AWS/GCP)",105328.76,High
+22,Bachelor's,Sales,Account Manager,2,6,"Project Management, Excel, Power BI, Leadership, Java, Data Analysis",51288.42,Low
+27,Master's,HR,HR Manager,4,2,"Communication, Python",53677.4,Low
+27,Bachelor's,IT,Software Engineer,7,2,"Power BI, Communication",55412.58,Low
+38,High School,Marketing,Content Writer,20,5,"Communication, Project Management, Leadership, Data Analysis, SQL",81971.34,High
+27,Master's,Finance,Financial Analyst,4,4,"Python, Leadership, Communication, SQL",75514.71,High
+33,Master's,Finance,CFO,9,3,"Leadership, Python, Cloud (AWS/GCP)",79962.44,High
+25,PhD,Sales,Account Manager,1,3,"Leadership, Power BI, Project Management",73021.88,High
+21,Bachelor's,Marketing,Marketing Manager,0,4,"Power BI, Project Management, Data Analysis, Java",43004.84,Low
+24,Bachelor's,IT,Software Engineer,3,6,"Excel, Data Analysis, Python, Project Management, Leadership, Power BI",64399.62,Low
+29,PhD,Data Science,Data Scientist,5,3,"Power BI, Excel, JavaScript",106871.48,High
+25,High School,HR,Recruiter,7,7,"Power BI, Machine Learning, Leadership, Project Management, Python, Excel, Communication",59372.46,Low
+36,Master's,HR,Recruiter,13,7,"Data Analysis, SQL, Project Management, Communication, Python, Machine Learning, Java",103924.18,High
+29,Master's,IT,QA Engineer,7,6,"Project Management, Communication, Machine Learning, SQL, Data Analysis, Python",85047.1,High
+23,High School,Marketing,Marketing Manager,2,3,"Leadership, Data Analysis, Cloud (AWS/GCP)",36680.1,Low
+22,Bachelor's,Sales,Account Manager,1,4,"Power BI, Communication, Leadership, Data Analysis",31279.5,Low
+28,PhD,Operations,Operations Manager,2,7,"Excel, Leadership, Project Management, Communication, Power BI, Data Analysis, Java",70082.19,High
+23,Master's,Finance,Financial Analyst,1,7,"Machine Learning, Python, Leadership, Excel, Power BI, Project Management, SQL",73748.32,High
+36,High School,Finance,CFO,16,6,"SQL, Java, Data Analysis, Power BI, Cloud (AWS/GCP), JavaScript",78548.35,High
+22,High School,Finance,Accountant,3,7,"Leadership, Java, Data Analysis, SQL, JavaScript, Excel, Python",34039.3,Low
+23,Master's,Data Science,Data Analyst,0,7,"JavaScript, Power BI, Excel, Machine Learning, Python, Data Analysis, Cloud (AWS/GCP)",83733.09,High
+27,Master's,Finance,Accountant,4,3,"JavaScript, Power BI, Machine Learning",59295.06,Low
+24,Bachelor's,Marketing,Marketing Manager,1,7,"Python, Communication, Cloud (AWS/GCP), Power BI, Project Management, Data Analysis, JavaScript",43314.02,Low
+21,Bachelor's,Finance,Accountant,1,7,"Cloud (AWS/GCP), SQL, Excel, JavaScript, Python, Data Analysis, Leadership",58238.37,Low
+24,Bachelor's,Finance,Financial Analyst,2,3,"Power BI, Excel, Leadership",58194.58,Low
+33,PhD,Operations,Operations Manager,7,5,"Data Analysis, SQL, Communication, JavaScript, Python",95270.78,High
+27,Bachelor's,Finance,Accountant,6,3,"Data Analysis, Power BI, Python",61934.03,Low
+31,Bachelor's,Data Science,Data Analyst,10,6,"Excel, Communication, Power BI, Machine Learning, SQL, JavaScript",78364.34,High
+39,PhD,Finance,Accountant,14,4,"Communication, Cloud (AWS/GCP), Power BI, Python",117722.61,High
+28,Bachelor's,Marketing,Marketing Manager,6,4,"Leadership, Python, Cloud (AWS/GCP), Project Management",65634.69,Low
+33,High School,IT,QA Engineer,14,5,"Data Analysis, Cloud (AWS/GCP), Java, Excel, Python",86168.66,High
+33,Bachelor's,Data Science,ML Engineer,13,5,"SQL, Excel, Leadership, JavaScript, Project Management",89332.31,High
+40,PhD,Operations,Operations Manager,15,7,"Machine Learning, Data Analysis, Java, Cloud (AWS/GCP), Project Management, Excel, Leadership",109666.42,High
+31,Master's,IT,QA Engineer,8,6,"Machine Learning, Excel, Python, Cloud (AWS/GCP), Data Analysis, Leadership",89280.0,High
+25,Master's,Marketing,SEO Analyst,2,6,"Project Management, Data Analysis, Excel, Communication, Power BI, Python",55948.76,Low
+27,Bachelor's,Finance,CFO,6,6,"Python, Communication, JavaScript, Power BI, Leadership, Machine Learning",76099.06,High
+20,High School,Finance,Accountant,0,2,"JavaScript, Leadership",29450.45,Low
+23,Master's,Finance,Financial Analyst,1,6,"Java, Project Management, Communication, Python, Data Analysis, JavaScript",75682.3,High
+24,High School,HR,HR Manager,3,2,"Leadership, JavaScript",32555.71,Low
+25,Bachelor's,IT,Software Engineer,5,2,"Communication, Leadership",63222.25,Low
+23,Bachelor's,Finance,CFO,1,6,"Java, Python, Cloud (AWS/GCP), Communication, Machine Learning, Leadership",48851.53,Low
+26,Bachelor's,HR,Recruiter,6,6,"Project Management, Cloud (AWS/GCP), Python, Power BI, SQL, Excel",80541.09,High
+26,Master's,Sales,Account Manager,1,3,"Project Management, Communication, SQL",54905.64,Low
+24,Master's,IT,DevOps Engineer,0,4,"Power BI, Python, Communication, Machine Learning",67784.85,Low
+22,High School,Data Science,Data Scientist,4,6,"Machine Learning, Leadership, Excel, SQL, Data Analysis, Project Management",48276.09,Low
+31,Bachelor's,Data Science,ML Engineer,8,3,"Cloud (AWS/GCP), Java, Communication",73941.39,High
+29,Master's,Marketing,SEO Analyst,4,2,"Excel, Python",58934.05,Low
+33,Master's,Finance,Financial Analyst,8,5,"JavaScript, Cloud (AWS/GCP), SQL, Machine Learning, Python",79689.65,High
+27,PhD,Finance,Accountant,2,3,"Java, Project Management, Leadership",76292.39,High
+26,PhD,Marketing,Marketing Manager,2,6,"Data Analysis, Cloud (AWS/GCP), JavaScript, Communication, Machine Learning, SQL",74106.21,High
+28,Bachelor's,Sales,Sales Executive,5,3,"Machine Learning, SQL, JavaScript",49994.97,Low
+35,Bachelor's,Data Science,Data Scientist,14,3,"Python, Java, Leadership",84659.24,High
+25,Master's,Sales,Account Manager,1,6,"Machine Learning, Excel, Java, Leadership, Cloud (AWS/GCP), Data Analysis",59843.51,Low
+33,Master's,Marketing,SEO Analyst,10,2,"Python, Leadership",82192.35,High
+29,Master's,IT,Software Engineer,4,7,"Communication, Power BI, JavaScript, Leadership, Data Analysis, Java, Project Management",78444.18,High
+23,Bachelor's,Sales,Sales Executive,2,6,"SQL, Power BI, Cloud (AWS/GCP), Java, Data Analysis, Communication",59600.86,Low
+26,Bachelor's,Operations,Logistics Head,4,4,"Python, Data Analysis, Machine Learning, Cloud (AWS/GCP)",50487.11,Low
+26,Bachelor's,IT,Software Engineer,5,7,"Java, Power BI, Cloud (AWS/GCP), Project Management, JavaScript, Machine Learning, Data Analysis",73741.52,High
+26,PhD,Operations,Operations Manager,0,4,"JavaScript, SQL, Java, Python",78593.39,High
+23,Bachelor's,HR,HR Manager,3,7,"JavaScript, Power BI, Leadership, Cloud (AWS/GCP), Excel, Data Analysis, Project Management",31551.9,Low
+31,Master's,Operations,Logistics Head,8,4,"Python, SQL, Project Management, Communication",65447.66,Low
+29,Master's,Finance,Financial Analyst,4,7,"Java, Excel, Cloud (AWS/GCP), Power BI, Communication, Leadership, Machine Learning",81581.68,High
+24,Master's,Marketing,Content Writer,2,3,"Java, Machine Learning, Power BI",52597.07,Low
+29,Bachelor's,HR,Recruiter,6,3,"Data Analysis, Java, JavaScript",63284.3,Low
+29,High School,Marketing,SEO Analyst,8,4,"Communication, Leadership, Data Analysis, Excel",51545.3,Low
+23,Bachelor's,Sales,Sales Executive,0,5,"Communication, Python, Machine Learning, JavaScript, Java",47390.8,Low
+34,High School,Data Science,ML Engineer,13,3,"Machine Learning, Project Management, Python",79491.91,High
+30,Bachelor's,IT,QA Engineer,9,3,"Leadership, Java, Communication",72334.94,High
+22,Bachelor's,IT,QA Engineer,1,4,"Project Management, Excel, Python, Data Analysis",65086.21,Low
+21,High School,HR,Training Specialist,3,6,"Power BI, JavaScript, Communication, Cloud (AWS/GCP), Machine Learning, Leadership",42357.07,Low
+29,Bachelor's,Marketing,SEO Analyst,7,4,"Cloud (AWS/GCP), Leadership, Excel, JavaScript",63132.38,Low
+28,Master's,Sales,Sales Executive,6,3,"Excel, Project Management, Power BI",70194.75,High
+26,Master's,Operations,Operations Manager,3,2,"Project Management, Communication",60586.37,Low
+20,High School,IT,Software Engineer,2,3,"Java, Excel, Power BI",39293.39,Low
+26,Master's,Finance,Financial Analyst,1,6,"Power BI, Python, Data Analysis, Java, Machine Learning, JavaScript",77695.27,High
+27,PhD,IT,Software Engineer,0,5,"Data Analysis, JavaScript, Cloud (AWS/GCP), Leadership, Python",88295.11,High
+33,Master's,Finance,Accountant,9,3,"Machine Learning, SQL, Leadership",80378.92,High
+22,High School,Sales,Sales Head,2,5,"Project Management, Excel, Leadership, Communication, Power BI",42878.69,Low
+22,Master's,Marketing,Marketing Manager,0,7,"Power BI, Python, JavaScript, Cloud (AWS/GCP), Project Management, Java, Data Analysis",57961.0,Low
+26,Bachelor's,Marketing,Content Writer,4,6,"Excel, Machine Learning, Data Analysis, SQL, Power BI, Leadership",48173.08,Low
+25,Master's,Finance,Accountant,2,5,"Project Management, Cloud (AWS/GCP), Python, Excel, Data Analysis",63772.4,Low
+28,Bachelor's,Operations,Logistics Head,5,7,"Java, Machine Learning, Project Management, Leadership, Cloud (AWS/GCP), Power BI, JavaScript",70536.61,High
+25,Master's,Operations,Operations Manager,3,4,"Python, SQL, Cloud (AWS/GCP), Project Management",60732.35,Low
+26,Bachelor's,HR,Recruiter,5,5,"SQL, Leadership, Communication, Project Management, Machine Learning",42425.89,Low
+29,Bachelor's,Data Science,Data Scientist,9,3,"Excel, Power BI, SQL",79861.6,High
+37,Bachelor's,Finance,Accountant,17,3,"SQL, Java, Leadership",99985.74,High
+24,Bachelor's,Marketing,Marketing Manager,1,7,"Machine Learning, Project Management, JavaScript, Python, Java, Data Analysis, Communication",47946.92,Low
+28,Master's,Sales,Account Manager,4,7,"SQL, Power BI, Project Management, Leadership, Excel, Cloud (AWS/GCP), JavaScript",75418.98,High
+25,Master's,HR,Recruiter,0,6,"Power BI, Python, Java, Data Analysis, Cloud (AWS/GCP), Communication",63684.31,Low
+22,Bachelor's,Finance,Accountant,1,4,"Cloud (AWS/GCP), Leadership, Java, Python",56944.54,Low
+21,Bachelor's,Finance,CFO,1,6,"Power BI, SQL, Data Analysis, Cloud (AWS/GCP), Machine Learning, Python",55785.07,Low
+31,Master's,Operations,Logistics Head,9,4,"SQL, Java, Excel, Cloud (AWS/GCP)",75493.2,High
+25,Master's,Sales,Sales Executive,1,7,"Project Management, Machine Learning, Cloud (AWS/GCP), JavaScript, Java, Excel, Data Analysis",61742.85,Low
+27,Bachelor's,Operations,Operations Manager,4,3,"SQL, Leadership, Communication",51391.45,Low
+24,Bachelor's,Data Science,ML Engineer,4,2,"JavaScript, Machine Learning",66110.92,Low
+27,Master's,Marketing,Content Writer,3,7,"Python, Communication, Project Management, Data Analysis, Cloud (AWS/GCP), Power BI, Excel",73945.63,High
+32,Bachelor's,HR,HR Manager,9,6,"Power BI, JavaScript, Communication, Leadership, Data Analysis, Java",71786.97,High
+28,Master's,Marketing,Content Writer,5,2,"SQL, Python",68007.89,Low
+43,Bachelor's,IT,Software Engineer,21,5,"SQL, Leadership, Cloud (AWS/GCP), Data Analysis, Project Management",108201.09,High
+25,Bachelor's,Finance,Financial Analyst,3,3,"Python, Cloud (AWS/GCP), SQL",62699.85,Low
+28,PhD,HR,Training Specialist,3,2,"Excel, SQL",86369.85,High
+29,Master's,IT,DevOps Engineer,7,5,"Machine Learning, Excel, Cloud (AWS/GCP), Python, JavaScript",93307.12,High
+30,PhD,Sales,Account Manager,3,7,"Project Management, SQL, Python, Leadership, Data Analysis, Communication, Power BI",79292.66,High
+28,Bachelor's,Sales,Sales Head,5,5,"Machine Learning, Leadership, Java, Project Management, SQL",52478.75,Low
+27,Bachelor's,Data Science,Data Scientist,6,5,"SQL, Communication, Java, Power BI, Data Analysis",60979.48,Low
+22,Bachelor's,Finance,Financial Analyst,0,2,"Python, Cloud (AWS/GCP)",47170.89,Low
+28,Bachelor's,Sales,Account Manager,5,5,"Cloud (AWS/GCP), Project Management, Excel, Machine Learning, Leadership",67536.29,Low
+23,Bachelor's,Sales,Account Manager,1,6,"Project Management, SQL, JavaScript, Java, Excel, Machine Learning",44362.31,Low
+21,High School,IT,DevOps Engineer,2,7,"Cloud (AWS/GCP), Machine Learning, Power BI, Data Analysis, Excel, Java, Leadership",51761.08,Low
+27,High School,HR,HR Manager,8,7,"Java, Project Management, Power BI, Cloud (AWS/GCP), JavaScript, Python, Machine Learning",58059.64,Low
+27,Master's,Marketing,Marketing Manager,4,2,"Java, Machine Learning",70229.02,High
+38,High School,IT,DevOps Engineer,20,3,"Java, Communication, JavaScript",80521.96,High
+32,Bachelor's,HR,HR Manager,9,2,"JavaScript, SQL",60470.67,Low
+21,High School,Data Science,Data Scientist,3,3,"Leadership, Excel, Machine Learning",55090.68,Low
+21,High School,Operations,Supply Chain Analyst,3,6,"JavaScript, Data Analysis, Leadership, Communication, SQL, Power BI",41902.94,Low
+29,Bachelor's,Sales,Sales Executive,8,6,"Java, JavaScript, Data Analysis, Leadership, Power BI, Cloud (AWS/GCP)",74389.6,High
+36,Master's,HR,Recruiter,11,6,"Machine Learning, JavaScript, Data Analysis, Communication, Cloud (AWS/GCP), Project Management",94416.39,High
+23,Master's,Data Science,Data Scientist,0,3,"Java, Leadership, Python",79391.46,High
+24,Bachelor's,Marketing,Content Writer,1,4,"JavaScript, Python, Leadership, Project Management",43832.9,Low
+21,Bachelor's,Marketing,Marketing Manager,0,4,"Excel, Power BI, Data Analysis, Leadership",45048.17,Low
+32,Bachelor's,Sales,Sales Head,11,2,"Project Management, Leadership",52664.14,Low
+23,Bachelor's,Data Science,Data Scientist,3,6,"Excel, Project Management, Communication, Cloud (AWS/GCP), SQL, Machine Learning",68646.02,Low
+38,High School,Finance,CFO,20,4,"Machine Learning, JavaScript, Java, Excel",103912.39,High
+24,PhD,Operations,Supply Chain Analyst,0,3,"Communication, SQL, Python",51368.55,Low
+24,Master's,Finance,CFO,0,7,"Java, Cloud (AWS/GCP), Data Analysis, Project Management, Leadership, SQL, Communication",78321.92,High
+25,Bachelor's,HR,HR Manager,2,2,"Data Analysis, Leadership",49313.74,Low
+25,Bachelor's,Sales,Account Manager,5,5,"Power BI, Java, Python, Machine Learning, Leadership",58730.35,Low
+24,Bachelor's,Operations,Operations Manager,1,5,"Python, Excel, Data Analysis, JavaScript, Project Management",59523.8,Low
+24,Bachelor's,Finance,CFO,2,3,"Data Analysis, Project Management, Java",58574.36,Low
+21,Bachelor's,IT,QA Engineer,0,4,"Power BI, JavaScript, Leadership, Machine Learning",48071.43,Low
+26,Master's,Marketing,Content Writer,1,3,"Data Analysis, Project Management, Power BI",63650.97,Low
+28,Bachelor's,HR,HR Manager,7,5,"Communication, Project Management, Cloud (AWS/GCP), Python, SQL",62330.04,Low
+35,Master's,Marketing,Marketing Manager,11,5,"Data Analysis, Python, SQL, JavaScript, Leadership",88112.23,High
+25,Bachelor's,Sales,Sales Executive,4,3,"JavaScript, Java, Project Management",47117.52,Low
+31,Bachelor's,Sales,Account Manager,11,7,"Excel, Java, Machine Learning, Python, JavaScript, Project Management, Power BI",78032.3,High
+24,Master's,IT,DevOps Engineer,0,2,"Python, SQL",71730.86,High
+23,Bachelor's,HR,HR Manager,0,2,"Power BI, Machine Learning",31719.34,Low
+27,PhD,IT,DevOps Engineer,1,2,"Power BI, Machine Learning",93992.34,High
+23,Bachelor's,Finance,Accountant,1,5,"Java, Python, Leadership, Power BI, Excel",53401.0,Low
+23,Bachelor's,IT,DevOps Engineer,3,6,"Project Management, Communication, JavaScript, Excel, Java, Python",54038.84,Low
+26,Bachelor's,Operations,Operations Manager,4,5,"Cloud (AWS/GCP), Leadership, SQL, Communication, Python",58806.68,Low
+29,Master's,Finance,Financial Analyst,4,4,"Excel, SQL, Power BI, JavaScript",84693.74,High
+39,Bachelor's,Data Science,Data Scientist,18,5,"Data Analysis, Power BI, SQL, Cloud (AWS/GCP), Python",98622.63,High
+40,PhD,Marketing,Marketing Manager,15,5,"Project Management, Machine Learning, JavaScript, Python, Data Analysis",115647.49,High
+28,Master's,Sales,Sales Head,3,5,"Power BI, Python, SQL, Leadership, Communication",72407.02,High
+30,Master's,Finance,Accountant,6,7,"Data Analysis, SQL, Leadership, Java, Python, Cloud (AWS/GCP), Excel",76984.16,High
+25,Master's,Sales,Sales Head,1,5,"Excel, SQL, JavaScript, Python, Power BI",77108.95,High
+25,High School,Marketing,SEO Analyst,6,7,"SQL, Power BI, Machine Learning, Project Management, JavaScript, Leadership, Python",59404.7,Low
+25,Bachelor's,Finance,Accountant,2,7,"Data Analysis, Communication, Power BI, Excel, Project Management, Machine Learning, Leadership",63981.69,Low
+31,Bachelor's,Finance,CFO,10,6,"Data Analysis, Cloud (AWS/GCP), Power BI, Excel, Communication, Machine Learning",73068.01,High
+25,Master's,Operations,Operations Manager,1,3,"Project Management, Data Analysis, Communication",59356.42,Low
+26,Bachelor's,Sales,Sales Executive,4,4,"Communication, SQL, Project Management, Python",46071.09,Low
+24,Bachelor's,Data Science,Data Scientist,2,7,"Machine Learning, SQL, Data Analysis, Power BI, Communication, JavaScript, Cloud (AWS/GCP)",64075.39,Low
+24,Bachelor's,IT,QA Engineer,2,7,"Python, Leadership, Machine Learning, Project Management, SQL, Communication, Excel",61763.8,Low
+23,Bachelor's,Marketing,Content Writer,1,5,"Python, Power BI, Excel, Leadership, Java",50019.43,Low
+27,Master's,Marketing,Content Writer,2,6,"Java, Machine Learning, Data Analysis, Project Management, JavaScript, Communication",60906.79,Low
+25,Master's,Finance,Financial Analyst,1,2,"Data Analysis, JavaScript",55760.48,Low
+30,PhD,Marketing,Content Writer,5,3,"Data Analysis, Project Management, Power BI",82998.6,High
+30,Bachelor's,Marketing,Content Writer,7,5,"Leadership, Data Analysis, JavaScript, Java, Cloud (AWS/GCP)",71031.27,High
+41,PhD,Marketing,SEO Analyst,15,7,"Cloud (AWS/GCP), Communication, Machine Learning, Project Management, Data Analysis, Power BI, SQL",116119.86,High
+43,Master's,Sales,Sales Executive,20,7,"Excel, Python, Power BI, Java, JavaScript, Machine Learning, Leadership",100639.14,High
+40,PhD,IT,DevOps Engineer,15,7,"Excel, Leadership, SQL, Power BI, Machine Learning, Cloud (AWS/GCP), JavaScript",122025.58,High
+29,Master's,Marketing,Content Writer,5,4,"Excel, JavaScript, Machine Learning, SQL",78837.74,High
+24,Master's,Operations,Operations Manager,0,3,"Java, Communication, Project Management",69207.58,Low
+27,Bachelor's,Finance,CFO,5,2,"Machine Learning, SQL",74876.08,High
+27,Bachelor's,HR,HR Manager,7,3,"Excel, Power BI, Machine Learning",72242.73,High
+27,Bachelor's,Operations,Supply Chain Analyst,5,6,"Machine Learning, Java, Communication, Power BI, Data Analysis, Project Management",49466.03,Low
+26,Master's,Marketing,Marketing Manager,4,4,"Data Analysis, Python, Leadership, JavaScript",68961.7,Low
+24,PhD,HR,HR Manager,0,5,"Machine Learning, Java, Leadership, Power BI, JavaScript",72705.13,High
+22,Master's,Operations,Logistics Head,0,4,"Machine Learning, Cloud (AWS/GCP), JavaScript, SQL",51695.39,Low
+24,Bachelor's,HR,HR Manager,4,4,"Cloud (AWS/GCP), JavaScript, Python, Project Management",48560.51,Low
+26,Bachelor's,Marketing,Content Writer,4,6,"Cloud (AWS/GCP), Communication, Data Analysis, Project Management, Excel, Leadership",44686.33,Low
+34,Master's,Operations,Supply Chain Analyst,12,2,"Data Analysis, Python",73663.39,High
+38,Master's,HR,HR Manager,16,3,"Power BI, JavaScript, Java",106141.94,High
+19,High School,HR,Training Specialist,0,6,"Communication, Java, Leadership, Python, Cloud (AWS/GCP), Power BI",20034.52,Low
+39,Bachelor's,IT,Software Engineer,17,7,"JavaScript, Machine Learning, SQL, Data Analysis, Java, Leadership, Excel",97152.93,High
+24,Bachelor's,Sales,Sales Executive,2,5,"Cloud (AWS/GCP), JavaScript, Python, Project Management, Data Analysis",45933.83,Low
+29,Master's,Data Science,ML Engineer,4,2,"Data Analysis, Communication",76914.06,High
+27,Bachelor's,Operations,Operations Manager,4,3,"Python, Power BI, Excel",53920.22,Low
+32,Bachelor's,Sales,Sales Head,12,5,"Excel, Project Management, Machine Learning, Data Analysis, Java",79993.71,High
+27,Master's,Marketing,Content Writer,2,4,"Python, Data Analysis, SQL, Power BI",60630.57,Low
+27,Master's,Finance,Accountant,2,2,"Machine Learning, Project Management",64471.1,Low
+19,High School,Finance,Financial Analyst,0,7,"Java, Power BI, Data Analysis, Cloud (AWS/GCP), SQL, Machine Learning, Communication",51920.38,Low
+34,PhD,Sales,Account Manager,8,6,"Excel, Project Management, Power BI, Machine Learning, JavaScript, Data Analysis",79256.5,High
+20,Bachelor's,IT,Software Engineer,0,7,"SQL, Cloud (AWS/GCP), Communication, JavaScript, Excel, Java, Power BI",51888.98,Low
+25,Master's,IT,Software Engineer,2,6,"Cloud (AWS/GCP), Leadership, Python, Machine Learning, Power BI, Java",64743.95,Low
+28,Bachelor's,IT,DevOps Engineer,6,2,"SQL, Communication",52795.68,Low
+25,Bachelor's,Sales,Account Manager,2,7,"Java, Excel, Machine Learning, Leadership, JavaScript, Communication, Python",76269.98,High
+21,Bachelor's,Finance,CFO,1,2,"Python, Machine Learning",52458.71,Low
+30,Bachelor's,IT,Software Engineer,7,5,"JavaScript, Cloud (AWS/GCP), Python, Excel, Power BI",82201.65,High
+28,Bachelor's,Operations,Operations Manager,8,2,"Cloud (AWS/GCP), Leadership",75316.35,High
+27,Bachelor's,IT,QA Engineer,4,3,"Communication, Power BI, Cloud (AWS/GCP)",58079.11,Low
+24,Master's,IT,QA Engineer,1,5,"Cloud (AWS/GCP), JavaScript, Project Management, Data Analysis, Communication",73274.78,High
+31,Master's,HR,Training Specialist,7,6,"Project Management, JavaScript, Machine Learning, SQL, Communication, Cloud (AWS/GCP)",62352.68,Low
+23,Master's,IT,QA Engineer,1,3,"Machine Learning, Power BI, Project Management",69998.94,Low
+43,Bachelor's,Marketing,Content Writer,20,7,"Leadership, Communication, JavaScript, Machine Learning, Excel, Python, Java",93196.64,High
+30,Bachelor's,Marketing,Content Writer,9,6,"Python, Machine Learning, Data Analysis, Project Management, SQL, Leadership",71024.03,High
+30,Master's,Finance,CFO,6,7,"Java, Leadership, Machine Learning, Data Analysis, Cloud (AWS/GCP), JavaScript, Python",89121.71,High
+39,PhD,Marketing,Marketing Manager,15,6,"Python, Java, Cloud (AWS/GCP), Project Management, Machine Learning, Leadership",113806.67,High
+42,Master's,Data Science,ML Engineer,20,4,"Communication, Python, Machine Learning, Leadership",126807.77,High
+40,Master's,HR,Recruiter,16,2,"Machine Learning, Cloud (AWS/GCP)",88280.68,High
+27,PhD,IT,QA Engineer,3,3,"Excel, Project Management, Data Analysis",85648.31,High
+31,Master's,HR,Recruiter,7,3,"Cloud (AWS/GCP), Python, JavaScript",69502.79,Low
+31,PhD,Operations,Operations Manager,5,5,"Machine Learning, JavaScript, Python, Excel, Leadership",82290.79,High
+21,Bachelor's,IT,QA Engineer,0,6,"Excel, Data Analysis, JavaScript, Java, Leadership, Machine Learning",60255.4,Low
+36,Master's,Finance,Financial Analyst,13,3,"SQL, Excel, Machine Learning",89421.7,High
+26,PhD,Operations,Supply Chain Analyst,0,7,"Excel, Cloud (AWS/GCP), Python, Power BI, Communication, Leadership, JavaScript",76560.75,High
+23,Bachelor's,Marketing,Content Writer,3,5,"JavaScript, Communication, Machine Learning, Data Analysis, Project Management",45610.86,Low
+27,High School,Operations,Operations Manager,7,6,"Python, SQL, Communication, Project Management, Leadership, Java",52144.61,Low
+23,Bachelor's,Sales,Sales Head,1,3,"Java, Machine Learning, Excel",47567.95,Low
+23,Master's,Data Science,Data Analyst,0,2,"Project Management, Leadership",70497.36,High
+24,Master's,IT,DevOps Engineer,0,4,"Python, Excel, Machine Learning, Data Analysis",62427.46,Low
+23,High School,HR,Training Specialist,2,7,"Excel, Cloud (AWS/GCP), JavaScript, Leadership, Project Management, Java, Data Analysis",35330.69,Low
+27,Master's,Sales,Account Manager,2,4,"Java, Communication, Cloud (AWS/GCP), JavaScript",69348.93,Low
+31,Master's,Marketing,SEO Analyst,8,2,"Excel, Project Management",78656.03,High
+27,Master's,Finance,CFO,3,7,"Excel, Leadership, Data Analysis, Power BI, Machine Learning, Communication, Project Management",76587.53,High
+28,Master's,HR,Training Specialist,6,2,"Machine Learning, Project Management",67178.58,Low
+22,Bachelor's,Data Science,Data Scientist,1,7,"Excel, JavaScript, Data Analysis, Python, Power BI, Leadership, SQL",59057.02,Low
+22,High School,HR,HR Manager,2,3,"Cloud (AWS/GCP), Communication, Java",40267.88,Low
+22,High School,Finance,CFO,3,4,"Cloud (AWS/GCP), SQL, Project Management, Power BI",48996.08,Low
+46,Bachelor's,HR,Training Specialist,25,6,"Java, Machine Learning, Cloud (AWS/GCP), Leadership, Excel, Communication",113214.93,High
+41,Master's,IT,Software Engineer,19,3,"Power BI, Cloud (AWS/GCP), JavaScript",120794.22,High
+24,Bachelor's,Operations,Logistics Head,4,7,"Python, Machine Learning, Data Analysis, Java, JavaScript, Communication, Project Management",48239.21,Low
+27,Master's,Data Science,Data Analyst,2,7,"Leadership, Project Management, Machine Learning, Cloud (AWS/GCP), Python, Power BI, SQL",81654.45,High
+27,Master's,Finance,Financial Analyst,3,5,"Power BI, Data Analysis, Leadership, Cloud (AWS/GCP), Communication",78462.45,High
+31,Bachelor's,Marketing,Marketing Manager,9,6,"JavaScript, Data Analysis, Machine Learning, SQL, Excel, Leadership",70188.07,High
+26,Bachelor's,Sales,Sales Head,5,4,"Project Management, Data Analysis, Java, JavaScript",71474.05,High
+26,Bachelor's,Sales,Account Manager,3,2,"Power BI, SQL",50879.94,Low
+26,Master's,Operations,Logistics Head,2,5,"SQL, JavaScript, Leadership, Machine Learning, Power BI",73487.42,High
+21,Bachelor's,Sales,Sales Head,0,2,"SQL, Machine Learning",49415.95,Low
+27,Master's,Sales,Sales Head,3,2,"Data Analysis, Machine Learning",55281.98,Low
+27,Master's,IT,DevOps Engineer,5,4,"Python, Leadership, Project Management, Java",64690.55,Low
+36,Bachelor's,Operations,Operations Manager,13,3,"Data Analysis, JavaScript, Leadership",77991.25,High
+25,Bachelor's,Sales,Account Manager,3,5,"Python, Machine Learning, Cloud (AWS/GCP), Project Management, JavaScript",60919.69,Low
+27,Bachelor's,Operations,Supply Chain Analyst,6,6,"JavaScript, Excel, Project Management, Data Analysis, Python, SQL",53436.25,Low
+28,Bachelor's,HR,HR Manager,5,3,"Power BI, Project Management, Machine Learning",58086.42,Low
+29,Bachelor's,Sales,Sales Executive,7,4,"Communication, Data Analysis, JavaScript, SQL",71884.36,High
+41,Bachelor's,Operations,Logistics Head,18,5,"Cloud (AWS/GCP), Data Analysis, Java, Python, Leadership",95748.75,High
+25,Master's,Finance,Accountant,2,6,"SQL, Cloud (AWS/GCP), JavaScript, Python, Data Analysis, Project Management",74288.22,High
+28,PhD,Data Science,Data Analyst,2,3,"Machine Learning, Communication, Leadership",91699.85,High
+34,Master's,IT,QA Engineer,12,6,"Leadership, Data Analysis, Machine Learning, Communication, Excel, SQL",95853.03,High
+24,Bachelor's,Sales,Sales Executive,1,4,"Excel, Machine Learning, Data Analysis, JavaScript",52353.04,Low
+25,Master's,Marketing,SEO Analyst,3,5,"Machine Learning, JavaScript, Project Management, Data Analysis, Java",57587.73,Low
+24,Bachelor's,HR,HR Manager,1,7,"Excel, Machine Learning, Power BI, Leadership, JavaScript, Python, Project Management",39418.33,Low
+25,Bachelor's,Sales,Sales Head,3,5,"Power BI, Cloud (AWS/GCP), Machine Learning, Java, Communication",50222.89,Low
+26,Master's,Operations,Supply Chain Analyst,2,5,"Leadership, Python, SQL, Communication, Power BI",72364.4,High
+24,Bachelor's,HR,Training Specialist,3,7,"Python, Communication, Machine Learning, Java, Excel, Data Analysis, Project Management",65931.41,Low
+32,Master's,Data Science,Data Analyst,9,5,"Communication, Machine Learning, Java, Excel, Python",94198.14,High
+26,Master's,HR,Recruiter,2,5,"Power BI, Data Analysis, Python, Leadership, Project Management",62968.87,Low
+35,PhD,Sales,Sales Executive,9,3,"Excel, SQL, Power BI",82177.37,High
+45,Master's,Finance,Financial Analyst,20,6,"Project Management, Power BI, JavaScript, Communication, Machine Learning, SQL",117333.23,High
+20,Bachelor's,Data Science,Data Analyst,0,4,"Cloud (AWS/GCP), Machine Learning, Data Analysis, Python",46975.18,Low
+26,Master's,HR,Training Specialist,3,6,"Power BI, Leadership, Cloud (AWS/GCP), Excel, Python, Java",60757.17,Low
+34,Master's,Data Science,Data Analyst,9,7,"Project Management, SQL, Excel, Machine Learning, Power BI, Leadership, Cloud (AWS/GCP)",103366.91,High
+24,Bachelor's,Sales,Sales Executive,2,6,"Project Management, JavaScript, SQL, Cloud (AWS/GCP), Data Analysis, Python",60255.19,Low
+36,Master's,Data Science,ML Engineer,12,3,"Java, Excel, Machine Learning",92721.22,High
+31,Bachelor's,HR,Recruiter,10,4,"Communication, SQL, Cloud (AWS/GCP), Java",72772.23,High
+31,Bachelor's,Data Science,Data Analyst,10,6,"Project Management, Java, Leadership, Communication, Machine Learning, Data Analysis",83960.8,High
+25,Bachelor's,IT,Software Engineer,5,6,"Cloud (AWS/GCP), Python, Project Management, SQL, Java, Communication",76453.85,High
+26,Bachelor's,IT,Software Engineer,6,6,"Cloud (AWS/GCP), JavaScript, Machine Learning, Project Management, Data Analysis, Communication",63009.53,Low
+22,Bachelor's,HR,Recruiter,1,4,"Project Management, Python, Cloud (AWS/GCP), Leadership",50466.12,Low
+21,Bachelor's,Finance,Financial Analyst,1,3,"Python, Communication, Power BI",57155.11,Low
+23,Bachelor's,Finance,CFO,0,6,"Leadership, Communication, Java, SQL, Cloud (AWS/GCP), Excel",68462.08,Low
+24,Master's,HR,Recruiter,0,5,"Java, Cloud (AWS/GCP), Data Analysis, JavaScript, Project Management",61926.92,Low
+30,Bachelor's,Marketing,Marketing Manager,9,4,"Data Analysis, SQL, Excel, Power BI",58340.58,Low
+33,PhD,HR,Training Specialist,7,4,"Power BI, Project Management, Leadership, Cloud (AWS/GCP)",88660.25,High
+22,Bachelor's,Sales,Sales Executive,1,5,"Python, Leadership, Cloud (AWS/GCP), Data Analysis, JavaScript",45747.02,Low
+20,Bachelor's,Operations,Operations Manager,0,7,"SQL, Java, Machine Learning, Communication, Leadership, Excel, Power BI",60886.75,Low
+27,Master's,HR,Training Specialist,2,3,"Leadership, JavaScript, Cloud (AWS/GCP)",64292.72,Low
+30,Bachelor's,IT,DevOps Engineer,10,2,"Python, Cloud (AWS/GCP)",76405.39,High
+22,Bachelor's,Sales,Sales Head,0,7,"Communication, SQL, Excel, Machine Learning, JavaScript, Python, Power BI",53216.71,Low
+29,Bachelor's,Data Science,Data Scientist,9,6,"Power BI, SQL, Data Analysis, Project Management, Excel, Communication",99048.67,High
+24,Master's,IT,QA Engineer,0,7,"Project Management, SQL, Python, Data Analysis, Java, Communication, Excel",70901.91,High
+32,Bachelor's,Marketing,Content Writer,9,5,"SQL, Machine Learning, Excel, Java, Data Analysis",48978.0,Low
+30,Bachelor's,Finance,CFO,9,5,"Python, SQL, Power BI, Project Management, Excel",70080.45,High
+35,Bachelor's,Finance,CFO,13,5,"Project Management, Leadership, JavaScript, Data Analysis, SQL",78398.67,High
+28,Master's,Sales,Sales Executive,4,7,"Machine Learning, Data Analysis, Power BI, Communication, Excel, Java, Project Management",75389.25,High
+32,Master's,Sales,Account Manager,7,2,"Project Management, JavaScript",87391.54,High
+27,Master's,Operations,Supply Chain Analyst,4,3,"Power BI, Data Analysis, Java",59810.44,Low
+25,Master's,Finance,Accountant,3,5,"Power BI, Project Management, Machine Learning, Data Analysis, Python",69873.37,Low
+30,Master's,IT,DevOps Engineer,6,5,"Cloud (AWS/GCP), Python, Java, Data Analysis, Power BI",82797.25,High
+24,Bachelor's,Data Science,Data Analyst,3,3,"SQL, JavaScript, Python",67163.13,Low
+22,Master's,Sales,Sales Executive,0,5,"Excel, Cloud (AWS/GCP), Machine Learning, Python, Leadership",53962.39,Low
+30,Master's,IT,QA Engineer,7,6,"SQL, Cloud (AWS/GCP), Machine Learning, Python, Project Management, Communication",92623.35,High
+26,Master's,IT,Software Engineer,2,2,"Leadership, Communication",73392.54,High
+28,Bachelor's,Operations,Supply Chain Analyst,6,7,"Project Management, Communication, Power BI, Cloud (AWS/GCP), SQL, Leadership, Machine Learning",65549.05,Low
+22,High School,IT,DevOps Engineer,2,3,"Java, Power BI, Communication",41792.74,Low
+27,PhD,IT,Software Engineer,0,5,"Project Management, Excel, Java, SQL, Python",85952.55,High
+24,Master's,Marketing,SEO Analyst,1,6,"Python, Leadership, Communication, SQL, Java, Data Analysis",78720.97,High
+18,High School,Marketing,SEO Analyst,0,3,"Power BI, Data Analysis, Machine Learning",38902.34,Low
+26,Bachelor's,Data Science,ML Engineer,6,2,"SQL, Leadership",73394.96,High
+28,PhD,Data Science,ML Engineer,3,4,"SQL, Java, Python, Communication",82018.43,High
+27,Bachelor's,Sales,Sales Executive,7,2,"Power BI, Project Management",62958.24,Low
+44,Bachelor's,HR,HR Manager,23,3,"Java, Python, Project Management",89486.4,High
+22,Bachelor's,Marketing,Marketing Manager,0,5,"Java, SQL, Machine Learning, Communication, Power BI",49403.71,Low
+21,High School,Data Science,Data Analyst,2,4,"Excel, Machine Learning, Power BI, Communication",46767.31,Low
+26,PhD,Marketing,SEO Analyst,1,2,"JavaScript, Leadership",73266.4,High
+37,Master's,Finance,Accountant,14,2,"Python, Machine Learning",85949.91,High
+30,Bachelor's,Finance,Accountant,7,5,"Project Management, Data Analysis, SQL, Excel, Communication",82105.93,High
+35,PhD,IT,QA Engineer,10,5,"Project Management, Excel, Leadership, Cloud (AWS/GCP), Data Analysis",109711.32,High
+20,High School,Marketing,Content Writer,2,6,"Data Analysis, Excel, Python, Power BI, Java, Machine Learning",34541.97,Low
+23,Bachelor's,Marketing,Marketing Manager,2,5,"Machine Learning, Cloud (AWS/GCP), Data Analysis, Communication, Leadership",39377.36,Low
+48,Bachelor's,Marketing,SEO Analyst,25,7,"Communication, Machine Learning, Python, SQL, Java, Data Analysis, Cloud (AWS/GCP)",94709.11,High
+28,Bachelor's,Data Science,ML Engineer,5,5,"Excel, Leadership, SQL, Java, Power BI",72911.18,High
+21,Bachelor's,Marketing,Marketing Manager,1,5,"Java, Leadership, Cloud (AWS/GCP), Excel, Power BI",47860.63,Low
+27,Bachelor's,Marketing,Content Writer,5,3,"Machine Learning, Python, Excel",63390.22,Low
+27,PhD,Finance,Accountant,1,6,"Project Management, Cloud (AWS/GCP), Power BI, Leadership, Communication, JavaScript",73423.77,High
+29,Bachelor's,Operations,Supply Chain Analyst,7,4,"Machine Learning, Java, Excel, Power BI",65977.82,Low
+22,Bachelor's,IT,Software Engineer,1,4,"Cloud (AWS/GCP), JavaScript, Data Analysis, Java",45408.73,Low
+26,Bachelor's,HR,Recruiter,4,7,"Excel, Leadership, Java, Data Analysis, Communication, Cloud (AWS/GCP), SQL",46574.34,Low
+22,Bachelor's,Operations,Supply Chain Analyst,1,2,"Data Analysis, Communication",29992.87,Low
+26,Bachelor's,Data Science,Data Analyst,6,7,"Project Management, Data Analysis, JavaScript, Excel, Java, Leadership, Cloud (AWS/GCP)",78515.75,High
+27,PhD,IT,Software Engineer,2,3,"Python, Cloud (AWS/GCP), Data Analysis",78664.01,High
+25,Master's,Finance,Accountant,0,2,"JavaScript, Cloud (AWS/GCP)",63989.69,Low
+26,PhD,Operations,Logistics Head,1,4,"Communication, Power BI, Machine Learning, Cloud (AWS/GCP)",52475.29,Low
+22,Bachelor's,Finance,Accountant,2,6,"Machine Learning, Python, Leadership, Data Analysis, SQL, Cloud (AWS/GCP)",54455.99,Low
+28,Bachelor's,IT,Software Engineer,5,2,"Machine Learning, Power BI",69603.19,Low
+24,Master's,Finance,CFO,1,3,"Leadership, Communication, SQL",51336.61,Low
+39,High School,IT,QA Engineer,20,5,"Java, Communication, JavaScript, Machine Learning, Power BI",86045.84,High
+26,Master's,Marketing,Content Writer,3,6,"Cloud (AWS/GCP), Excel, Python, JavaScript, Leadership, Communication",66880.14,Low
+27,Master's,Sales,Account Manager,4,2,"Cloud (AWS/GCP), Project Management",49941.11,Low
+25,Bachelor's,Finance,CFO,2,7,"Data Analysis, Excel, Machine Learning, Python, Communication, Leadership, JavaScript",52011.92,Low
+24,Bachelor's,Marketing,Marketing Manager,3,7,"Excel, Communication, JavaScript, SQL, Java, Project Management, Machine Learning",64447.1,Low
+21,Bachelor's,Finance,CFO,0,3,"Data Analysis, Machine Learning, Power BI",63984.18,Low
+22,Master's,Operations,Logistics Head,0,3,"Data Analysis, Power BI, Cloud (AWS/GCP)",49695.48,Low
+33,Master's,HR,Recruiter,10,4,"Communication, JavaScript, Python, Java",92636.31,High
+27,Master's,Marketing,SEO Analyst,2,7,"Power BI, Project Management, Excel, Communication, Python, JavaScript, Cloud (AWS/GCP)",76244.18,High
+23,Master's,Marketing,Content Writer,1,5,"Power BI, Python, JavaScript, Project Management, Java",69277.39,Low
+34,Master's,Marketing,Marketing Manager,10,3,"Data Analysis, Project Management, Cloud (AWS/GCP)",78255.66,High
+30,Bachelor's,Data Science,Data Scientist,10,7,"Python, JavaScript, SQL, Communication, Machine Learning, Project Management, Data Analysis",93407.54,High
+28,Master's,Operations,Logistics Head,4,4,"Communication, Java, Excel, Power BI",68369.69,Low
+28,Master's,Sales,Account Manager,5,4,"Python, Machine Learning, Excel, Communication",77491.49,High
+36,Bachelor's,IT,QA Engineer,14,4,"Project Management, Excel, SQL, Java",86969.81,High
+31,Bachelor's,IT,Software Engineer,8,6,"Data Analysis, Power BI, Communication, JavaScript, Cloud (AWS/GCP), Project Management",64717.88,Low
+44,Master's,HR,Training Specialist,20,6,"Excel, Communication, Java, Leadership, SQL, Machine Learning",108377.65,High
+27,PhD,HR,HR Manager,1,4,"Communication, Cloud (AWS/GCP), Python, Project Management",49699.03,Low
+26,Bachelor's,Data Science,Data Scientist,6,4,"Excel, Power BI, Cloud (AWS/GCP), Java",82168.56,High
+27,Master's,Data Science,ML Engineer,2,4,"Machine Learning, Communication, Project Management, Power BI",92924.93,High
+34,Bachelor's,Finance,Financial Analyst,13,6,"Leadership, Communication, Java, Power BI, Data Analysis, SQL",101821.76,High
+28,Master's,Finance,Accountant,4,6,"Machine Learning, JavaScript, Data Analysis, Leadership, Python, Project Management",74589.53,High
+24,Master's,Operations,Logistics Head,0,7,"Cloud (AWS/GCP), SQL, JavaScript, Power BI, Project Management, Excel, Communication",66711.73,Low
+36,PhD,Operations,Supply Chain Analyst,9,4,"Communication, Java, Leadership, SQL",89975.56,High
+24,Master's,IT,QA Engineer,1,7,"SQL, Machine Learning, Excel, Leadership, Python, Cloud (AWS/GCP), JavaScript",65786.56,Low
+36,Bachelor's,Finance,Accountant,14,7,"Data Analysis, Communication, Machine Learning, Python, JavaScript, Project Management, Excel",85215.54,High
+31,PhD,Operations,Supply Chain Analyst,6,5,"Java, Cloud (AWS/GCP), Data Analysis, Excel, Power BI",97213.19,High
+20,Bachelor's,IT,Software Engineer,0,2,"SQL, Python",49830.3,Low
+24,Master's,HR,Recruiter,1,2,"Cloud (AWS/GCP), Java",48614.39,Low
+23,Bachelor's,Operations,Logistics Head,1,2,"Power BI, JavaScript",37210.73,Low
+23,Bachelor's,HR,Recruiter,1,7,"Excel, Power BI, Cloud (AWS/GCP), Communication, Data Analysis, JavaScript, Python",46154.56,Low
+31,Bachelor's,Operations,Supply Chain Analyst,9,4,"Communication, Java, Python, Leadership",54379.34,Low
+42,Bachelor's,HR,HR Manager,21,5,"Communication, Leadership, Project Management, Excel, Python",90166.94,High
+28,Master's,Marketing,SEO Analyst,3,2,"JavaScript, Data Analysis",60102.99,Low
+34,PhD,IT,QA Engineer,9,4,"Project Management, SQL, Power BI, JavaScript",104146.59,High
+34,Bachelor's,Data Science,Data Scientist,12,6,"Machine Learning, Excel, Data Analysis, SQL, Python, Project Management",96772.09,High
+37,Bachelor's,Data Science,Data Scientist,14,4,"Python, Excel, Cloud (AWS/GCP), SQL",101746.51,High
+30,Master's,IT,Software Engineer,7,5,"JavaScript, Power BI, Java, Data Analysis, Leadership",90048.38,High
+28,Master's,Data Science,Data Scientist,3,4,"Data Analysis, Java, JavaScript, Leadership",90822.02,High
+24,Bachelor's,HR,HR Manager,2,6,"Machine Learning, Data Analysis, Excel, Project Management, Power BI, Java",50570.34,Low
+27,Master's,HR,HR Manager,5,3,"Communication, Power BI, Java",63090.76,Low
+32,Master's,Data Science,Data Scientist,8,6,"Communication, Leadership, Excel, Java, JavaScript, Machine Learning",90873.16,High
+35,PhD,IT,Software Engineer,8,2,"Project Management, Leadership",99232.93,High
+27,Master's,Operations,Logistics Head,4,5,"Java, Power BI, Communication, Project Management, Python",60045.06,Low
+28,High School,IT,DevOps Engineer,8,3,"JavaScript, Communication, Data Analysis",66449.22,Low
+25,Master's,Data Science,Data Analyst,1,5,"JavaScript, Leadership, Excel, Communication, Cloud (AWS/GCP)",88773.4,High
+23,Master's,Marketing,Content Writer,1,2,"Communication, Project Management",57861.67,Low
+40,High School,Marketing,Content Writer,20,7,"Leadership, Power BI, Python, Project Management, Data Analysis, Cloud (AWS/GCP), Machine Learning",80186.1,High
+25,Bachelor's,IT,Software Engineer,5,3,"Communication, Cloud (AWS/GCP), Leadership",69268.41,Low
+24,Bachelor's,Data Science,Data Analyst,3,3,"SQL, Leadership, Communication",44004.14,Low
+27,Bachelor's,IT,Software Engineer,6,2,"Power BI, Data Analysis",80704.94,High
+43,Master's,Data Science,Data Scientist,19,2,"Machine Learning, Leadership",98582.66,High
+25,Bachelor's,Marketing,Marketing Manager,5,7,"Excel, Leadership, Data Analysis, Java, SQL, JavaScript, Machine Learning",62262.91,Low
+29,Master's,HR,Recruiter,4,5,"Communication, Project Management, JavaScript, Cloud (AWS/GCP), Java",64437.77,Low
+22,Master's,Marketing,Content Writer,0,3,"Python, Cloud (AWS/GCP), SQL",46441.77,Low
+21,Bachelor's,Data Science,ML Engineer,1,2,"JavaScript, Power BI",46729.79,Low
+23,Bachelor's,IT,DevOps Engineer,2,2,"Python, Java",39459.44,Low
+27,Bachelor's,Marketing,Content Writer,5,4,"Data Analysis, Project Management, SQL, JavaScript",76376.91,High
+33,Master's,Sales,Sales Head,10,3,"Cloud (AWS/GCP), Excel, JavaScript",75415.76,High
+38,Master's,Sales,Sales Executive,15,7,"Power BI, SQL, Project Management, Cloud (AWS/GCP), Data Analysis, Python, Java",98093.96,High
+29,Bachelor's,Operations,Logistics Head,8,5,"Communication, SQL, JavaScript, Leadership, Project Management",63390.29,Low
+30,Bachelor's,HR,HR Manager,8,7,"Leadership, Java, Machine Learning, Project Management, Data Analysis, Communication, SQL",70587.37,High
+18,High School,Data Science,Data Scientist,0,4,"SQL, Data Analysis, Python, Java",55243.71,Low
+26,Bachelor's,Sales,Sales Executive,4,2,"Communication, Java",51560.16,Low
+28,Bachelor's,Finance,CFO,8,3,"Python, Machine Learning, SQL",68457.1,Low
+26,Master's,Data Science,ML Engineer,3,2,"Python, JavaScript",67393.3,Low
+21,High School,Data Science,ML Engineer,0,4,"SQL, Leadership, Java, Project Management",24164.76,Low
+29,Master's,Data Science,ML Engineer,7,5,"SQL, JavaScript, Communication, Java, Machine Learning",89041.64,High
+23,Master's,Finance,Financial Analyst,0,2,"Java, Data Analysis",60003.78,Low
+21,High School,Finance,Accountant,3,2,"Cloud (AWS/GCP), Data Analysis",41982.05,Low
+23,Master's,Operations,Operations Manager,0,7,"Leadership, Python, Cloud (AWS/GCP), Excel, JavaScript, Java, Power BI",64259.07,Low
+32,Bachelor's,Operations,Logistics Head,11,7,"Excel, Leadership, Power BI, Machine Learning, JavaScript, Python, Project Management",78297.59,High
+28,PhD,Operations,Operations Manager,2,3,"Excel, Communication, Java",66211.02,Low
+24,Master's,Sales,Sales Head,0,4,"Leadership, Cloud (AWS/GCP), Excel, Communication",56324.98,Low
+29,Master's,IT,Software Engineer,6,5,"Java, SQL, Leadership, Python, Data Analysis",89509.94,High
+26,Master's,Sales,Account Manager,2,6,"Project Management, Cloud (AWS/GCP), Communication, Excel, Leadership, Power BI",73350.4,High
+42,PhD,IT,Software Engineer,15,7,"SQL, Project Management, Java, Python, Communication, Cloud (AWS/GCP), Data Analysis",108137.34,High
+27,High School,Operations,Operations Manager,9,3,"Communication, Machine Learning, Project Management",63066.83,Low
+20,Bachelor's,Marketing,SEO Analyst,0,6,"Excel, Leadership, Data Analysis, SQL, Java, Project Management",54060.23,Low
+23,Bachelor's,Marketing,Content Writer,1,3,"Java, Communication, Data Analysis",53889.87,Low
+24,Bachelor's,Marketing,SEO Analyst,2,6,"Leadership, Cloud (AWS/GCP), Project Management, Excel, Python, Power BI",53804.97,Low
+20,Bachelor's,HR,HR Manager,0,7,"Communication, Data Analysis, Machine Learning, Excel, Java, Leadership, Cloud (AWS/GCP)",57562.96,Low
+37,Master's,Sales,Account Manager,15,7,"Python, Java, Leadership, Cloud (AWS/GCP), Project Management, Data Analysis, SQL",98093.75,High
+21,Bachelor's,HR,HR Manager,0,3,"Project Management, Communication, Leadership",44960.41,Low
+33,Master's,Data Science,Data Scientist,8,3,"Cloud (AWS/GCP), Data Analysis, Power BI",88775.15,High
+37,Master's,IT,Software Engineer,14,4,"Cloud (AWS/GCP), Power BI, Java, Data Analysis",94862.14,High
+41,Bachelor's,Marketing,Marketing Manager,18,5,"Cloud (AWS/GCP), SQL, Communication, Excel, Python",83404.65,High
+25,Bachelor's,Marketing,SEO Analyst,4,2,"Excel, Machine Learning",71379.65,High
+33,Bachelor's,Operations,Supply Chain Analyst,11,3,"Excel, Cloud (AWS/GCP), Leadership",58845.0,Low
+26,Bachelor's,Operations,Operations Manager,6,2,"Leadership, Python",74212.6,High
+29,Bachelor's,Operations,Logistics Head,8,5,"Data Analysis, Cloud (AWS/GCP), Communication, Excel, Leadership",76182.86,High
+28,High School,Operations,Supply Chain Analyst,7,6,"JavaScript, Java, Project Management, Python, Excel, SQL",52640.69,Low
+33,Bachelor's,Marketing,Content Writer,11,2,"Data Analysis, Java",79943.78,High
+25,Bachelor's,Operations,Supply Chain Analyst,5,6,"Communication, Data Analysis, Java, Leadership, Cloud (AWS/GCP), Excel",57029.26,Low
+29,Master's,HR,Recruiter,5,6,"Communication, Excel, Java, Power BI, Python, Data Analysis",78603.73,High
+34,Bachelor's,Operations,Supply Chain Analyst,12,3,"Python, SQL, Communication",72184.27,High
+25,Master's,IT,Software Engineer,2,6,"Excel, Project Management, SQL, Java, Machine Learning, Leadership",68714.5,Low
+29,Bachelor's,Data Science,Data Analyst,8,5,"Excel, Data Analysis, Java, Communication, Power BI",83297.23,High
+23,Bachelor's,Marketing,Marketing Manager,2,5,"Project Management, Python, Leadership, Excel, JavaScript",58045.81,Low
+23,Bachelor's,IT,DevOps Engineer,1,4,"Leadership, Project Management, Python, Data Analysis",56664.17,Low
+46,Bachelor's,Sales,Account Manager,24,3,"Leadership, Cloud (AWS/GCP), Machine Learning",97900.81,High
+29,Bachelor's,Data Science,Data Scientist,6,7,"Project Management, Machine Learning, Data Analysis, Python, Leadership, Communication, Excel",78572.11,High
+23,Bachelor's,Finance,Accountant,0,6,"SQL, Java, Excel, Data Analysis, Project Management, JavaScript",55832.67,Low
+23,Master's,Finance,Accountant,0,2,"Communication, Python",57986.94,Low
+36,Master's,HR,Training Specialist,12,3,"JavaScript, Communication, Power BI",73280.2,High
+39,Bachelor's,Marketing,SEO Analyst,17,6,"Cloud (AWS/GCP), SQL, JavaScript, Power BI, Data Analysis, Project Management",102727.38,High
+42,Bachelor's,HR,Training Specialist,21,3,"Communication, Leadership, Project Management",99069.2,High
+21,High School,HR,HR Manager,0,3,"JavaScript, Communication, Python",38261.73,Low
+23,Master's,Operations,Logistics Head,1,3,"Data Analysis, Machine Learning, SQL",54151.11,Low
+23,Bachelor's,HR,Recruiter,3,3,"Java, Communication, JavaScript",37506.85,Low
+46,Bachelor's,Data Science,Data Scientist,25,4,"Communication, JavaScript, Cloud (AWS/GCP), Data Analysis",136515.38,High
+23,Master's,IT,Software Engineer,1,7,"JavaScript, Cloud (AWS/GCP), Power BI, Project Management, Excel, Python, Leadership",72352.52,High
+28,Bachelor's,Finance,Financial Analyst,8,2,"Leadership, Project Management",65051.97,Low
+36,Bachelor's,Sales,Account Manager,13,5,"Project Management, SQL, Leadership, Python, Power BI",79489.34,High
+21,Bachelor's,Finance,Accountant,0,7,"Power BI, Java, Excel, Communication, Leadership, SQL, Cloud (AWS/GCP)",47538.54,Low
+31,Bachelor's,Finance,Accountant,8,6,"Machine Learning, Leadership, JavaScript, Project Management, Power BI, Communication",75053.75,High
+23,Master's,Sales,Account Manager,0,7,"Cloud (AWS/GCP), Leadership, Python, SQL, Machine Learning, Project Management, Power BI",68950.65,Low
+32,PhD,Marketing,Content Writer,8,6,"SQL, Excel, JavaScript, Project Management, Communication, Python",90543.75,High
+23,Bachelor's,Data Science,ML Engineer,2,5,"Python, SQL, Leadership, Machine Learning, Power BI",66304.85,Low
+31,PhD,Sales,Sales Executive,5,6,"Power BI, Leadership, Data Analysis, Communication, SQL, Excel",73716.45,High
+26,Master's,Data Science,Data Scientist,2,5,"Power BI, Data Analysis, Machine Learning, Project Management, Leadership",73981.53,High
+29,Master's,Marketing,SEO Analyst,6,2,"Project Management, Cloud (AWS/GCP)",71608.61,High
+24,High School,Finance,Financial Analyst,6,5,"Communication, Java, Python, SQL, Power BI",55321.53,Low
+26,High School,HR,HR Manager,7,2,"Communication, Machine Learning",49248.44,Low
+26,Bachelor's,Sales,Sales Head,6,3,"Power BI, Python, SQL",58977.1,Low
+26,Master's,Sales,Sales Executive,3,3,"Power BI, Project Management, Data Analysis",64010.83,Low
+27,Bachelor's,Sales,Account Manager,4,5,"Cloud (AWS/GCP), Python, Leadership, JavaScript, Excel",55929.03,Low
+28,Bachelor's,Marketing,SEO Analyst,5,5,"Data Analysis, Leadership, Machine Learning, Java, JavaScript",58672.1,Low
+25,Master's,Data Science,ML Engineer,0,3,"Leadership, Excel, JavaScript",65400.09,Low
+28,Bachelor's,HR,HR Manager,5,3,"Leadership, Data Analysis, Communication",53022.63,Low
+21,High School,Sales,Account Manager,3,6,"Python, Data Analysis, JavaScript, Project Management, Power BI, Leadership",39521.9,Low
+27,PhD,IT,DevOps Engineer,0,7,"Machine Learning, Power BI, Data Analysis, SQL, Cloud (AWS/GCP), Excel, Leadership",80749.1,High
+23,Bachelor's,Operations,Operations Manager,1,5,"JavaScript, Java, Leadership, Data Analysis, Project Management",41932.77,Low
+31,Bachelor's,Marketing,SEO Analyst,10,3,"Cloud (AWS/GCP), JavaScript, Machine Learning",82079.76,High
+34,Master's,Data Science,ML Engineer,11,2,"Data Analysis, Leadership",91281.52,High
+31,Bachelor's,Finance,CFO,8,4,"Communication, Power BI, Cloud (AWS/GCP), Java",47050.35,Low
+25,Master's,Finance,CFO,2,6,"Communication, JavaScript, Python, SQL, Project Management, Machine Learning",74619.5,High
+45,Master's,IT,DevOps Engineer,20,7,"Power BI, SQL, Cloud (AWS/GCP), Data Analysis, Java, Communication, Machine Learning",114865.39,High
+21,High School,HR,Training Specialist,3,6,"Power BI, SQL, Project Management, Python, JavaScript, Machine Learning",51642.64,Low
+30,Bachelor's,Data Science,ML Engineer,9,3,"SQL, Cloud (AWS/GCP), Power BI",79907.32,High
+23,High School,Operations,Logistics Head,4,4,"Project Management, Communication, Python, JavaScript",55077.62,Low
+25,PhD,IT,Software Engineer,1,6,"JavaScript, Java, Leadership, SQL, Power BI, Project Management",79229.84,High
+40,Master's,Data Science,Data Analyst,15,4,"Communication, Project Management, Python, JavaScript",100448.99,High
+26,Master's,Operations,Supply Chain Analyst,1,4,"Power BI, Leadership, Java, Python",56762.85,Low
+22,Bachelor's,Sales,Account Manager,1,6,"Leadership, Machine Learning, Power BI, Data Analysis, Cloud (AWS/GCP), Excel",61103.12,Low
+27,Bachelor's,Sales,Account Manager,7,5,"Machine Learning, SQL, Communication, JavaScript, Project Management",74884.0,High
+25,Master's,Finance,CFO,0,6,"Java, SQL, JavaScript, Cloud (AWS/GCP), Leadership, Power BI",77098.0,High
+22,Bachelor's,HR,HR Manager,1,4,"Power BI, Java, Machine Learning, Project Management",49880.03,Low
+36,Bachelor's,IT,QA Engineer,14,7,"Cloud (AWS/GCP), Leadership, Project Management, Communication, Data Analysis, Java, Python",92060.93,High
+26,Master's,Data Science,Data Scientist,3,3,"Excel, Leadership, Data Analysis",75573.48,High
+27,PhD,HR,Recruiter,3,7,"Java, SQL, Machine Learning, Excel, Communication, JavaScript, Leadership",72930.79,High
+21,Bachelor's,Marketing,Marketing Manager,1,3,"JavaScript, Communication, Data Analysis",51586.01,Low
+42,Master's,Sales,Account Manager,17,4,"SQL, Machine Learning, Data Analysis, Communication",87448.71,High
+29,Bachelor's,Marketing,Content Writer,9,6,"Power BI, Java, Data Analysis, Leadership, Communication, Excel",73978.43,High
+26,Master's,Sales,Account Manager,1,7,"Excel, Power BI, Data Analysis, Project Management, Machine Learning, Java, SQL",48339.62,Low
+29,Master's,Finance,Financial Analyst,5,7,"Project Management, JavaScript, Machine Learning, Java, Python, Communication, Excel",77897.28,High
+26,Master's,IT,Software Engineer,2,4,"Leadership, Java, Python, SQL",71985.84,High
+23,Bachelor's,Marketing,Marketing Manager,2,3,"Cloud (AWS/GCP), Machine Learning, Java",47746.7,Low
+33,Master's,HR,HR Manager,8,5,"Power BI, Java, Machine Learning, Data Analysis, JavaScript",81875.97,High
+22,Bachelor's,Sales,Account Manager,1,4,"Project Management, Leadership, Java, Machine Learning",60123.68,Low
+22,Master's,Sales,Sales Head,0,4,"SQL, Python, Project Management, Cloud (AWS/GCP)",49630.03,Low
+33,PhD,Sales,Sales Executive,6,4,"Cloud (AWS/GCP), Java, Excel, JavaScript",101326.0,High
+32,Master's,Sales,Sales Head,7,4,"Leadership, Communication, Project Management, Machine Learning",71252.26,High
+29,Master's,Finance,Accountant,4,7,"Power BI, Project Management, Leadership, Python, Communication, SQL, Machine Learning",83117.25,High
+24,Bachelor's,Finance,Financial Analyst,2,7,"JavaScript, Communication, Power BI, Project Management, SQL, Leadership, Excel",72145.28,High
+39,PhD,Marketing,Marketing Manager,13,5,"Power BI, Machine Learning, Excel, Communication, Data Analysis",99913.21,High
+25,Bachelor's,Sales,Account Manager,3,6,"Java, JavaScript, Communication, Cloud (AWS/GCP), Excel, Leadership",56383.24,Low
+34,Master's,Data Science,Data Scientist,11,5,"Leadership, Cloud (AWS/GCP), JavaScript, Machine Learning, Excel",103854.36,High
+24,Master's,Sales,Account Manager,0,4,"Communication, Data Analysis, Cloud (AWS/GCP), Java",73709.83,High
+31,Master's,Finance,CFO,6,5,"Machine Learning, Leadership, Data Analysis, Communication, Project Management",82055.48,High
+43,Master's,Marketing,Marketing Manager,20,4,"Project Management, JavaScript, Python, Leadership",106754.07,High
+26,Bachelor's,Data Science,Data Scientist,3,6,"Communication, Power BI, Cloud (AWS/GCP), Python, SQL, Project Management",87346.88,High
+21,Bachelor's,HR,Training Specialist,1,4,"Communication, Leadership, Project Management, Power BI",52906.08,Low
+41,High School,Marketing,Content Writer,20,5,"Leadership, Cloud (AWS/GCP), Excel, Java, Data Analysis",77231.07,High
+25,Master's,IT,Software Engineer,0,4,"SQL, Project Management, Machine Learning, Java",70426.62,High
+26,Master's,Marketing,Content Writer,1,7,"Data Analysis, SQL, JavaScript, Java, Project Management, Communication, Python",60687.23,Low
+26,Bachelor's,Finance,Accountant,4,3,"Communication, Data Analysis, Excel",65214.76,Low
+26,PhD,HR,Recruiter,0,7,"JavaScript, Machine Learning, Cloud (AWS/GCP), Excel, SQL, Python, Java",71997.61,High
+27,High School,Operations,Logistics Head,8,2,"Power BI, Communication",51952.61,Low
+25,Master's,Sales,Sales Head,0,3,"Excel, Cloud (AWS/GCP), Project Management",38630.57,Low
+41,Master's,IT,DevOps Engineer,19,2,"Java, Cloud (AWS/GCP)",108523.2,High
+29,Master's,HR,Training Specialist,4,5,"Java, Data Analysis, SQL, Machine Learning, Power BI",75006.13,High
+29,PhD,Operations,Logistics Head,4,3,"Data Analysis, JavaScript, Java",80983.33,High
+22,Bachelor's,IT,QA Engineer,1,4,"Power BI, Leadership, Cloud (AWS/GCP), JavaScript",54273.75,Low
+27,High School,Finance,Accountant,7,5,"Machine Learning, Communication, Cloud (AWS/GCP), Python, Leadership",64063.32,Low
+21,Bachelor's,Finance,Financial Analyst,0,3,"Project Management, Communication, Python",47760.58,Low
+26,Master's,HR,Training Specialist,2,2,"SQL, Data Analysis",76488.61,High
+23,High School,Data Science,Data Analyst,5,7,"Machine Learning, JavaScript, Power BI, Cloud (AWS/GCP), Excel, Java, SQL",56363.6,Low
+23,Bachelor's,HR,Recruiter,0,2,"Java, Communication",30719.03,Low
+21,Bachelor's,Operations,Logistics Head,1,7,"Leadership, Machine Learning, Cloud (AWS/GCP), Excel, JavaScript, Java, Python",43662.53,Low
+25,Bachelor's,HR,Recruiter,2,7,"Leadership, Power BI, Data Analysis, Communication, Excel, JavaScript, Machine Learning",59125.75,Low
+44,Bachelor's,IT,Software Engineer,24,3,"Machine Learning, JavaScript, Leadership",114094.93,High
+32,PhD,Finance,Financial Analyst,8,5,"Power BI, Leadership, SQL, Python, Project Management",91071.56,High
+32,High School,Data Science,Data Scientist,12,2,"Python, JavaScript",59834.6,Low
+42,Bachelor's,IT,DevOps Engineer,21,6,"Cloud (AWS/GCP), Communication, JavaScript, Python, Java, Power BI",96001.41,High
+42,PhD,Operations,Operations Manager,15,6,"Communication, Power BI, Leadership, Data Analysis, JavaScript, Project Management",112702.23,High
+28,Master's,Finance,Accountant,3,3,"Excel, Leadership, Power BI",69160.11,Low
+26,PhD,Sales,Sales Executive,2,6,"SQL, Project Management, Machine Learning, Java, Cloud (AWS/GCP), Excel",85029.15,High
+24,Bachelor's,Data Science,Data Analyst,2,7,"Python, Communication, Power BI, Leadership, Data Analysis, SQL, Project Management",75100.26,High
+26,PhD,Sales,Account Manager,0,5,"JavaScript, Python, Communication, Data Analysis, Excel",73830.87,High
+48,Bachelor's,IT,DevOps Engineer,25,7,"Communication, Machine Learning, Power BI, Data Analysis, SQL, Cloud (AWS/GCP), Java",120191.57,High
+24,Master's,Operations,Supply Chain Analyst,1,6,"Java, Leadership, Machine Learning, Communication, Python, Excel",74595.68,High
+20,High School,HR,Recruiter,0,6,"Python, SQL, Project Management, Leadership, JavaScript, Machine Learning",36285.48,Low
+34,Master's,Finance,Accountant,11,4,"Project Management, Machine Learning, Leadership, Cloud (AWS/GCP)",103418.27,High
+30,Master's,Data Science,Data Scientist,5,3,"Communication, Python, Java",76566.91,High
+35,Bachelor's,Operations,Operations Manager,14,5,"Machine Learning, Data Analysis, SQL, Project Management, JavaScript",76391.68,High
+27,PhD,Finance,Financial Analyst,1,7,"Project Management, Data Analysis, Cloud (AWS/GCP), SQL, Leadership, Excel, Java",82441.61,High
+26,Bachelor's,IT,DevOps Engineer,6,7,"Java, JavaScript, Python, Cloud (AWS/GCP), Excel, SQL, Data Analysis",67732.74,Low
+25,PhD,HR,Recruiter,1,2,"Power BI, Java",80337.53,High
+41,Bachelor's,Marketing,SEO Analyst,21,3,"Java, Data Analysis, Power BI",92944.89,High
+21,High School,Finance,CFO,0,3,"Data Analysis, Communication, Java",23121.32,Low
+32,Bachelor's,Operations,Operations Manager,9,2,"Python, JavaScript",61112.62,Low
+36,Master's,Data Science,ML Engineer,11,3,"Machine Learning, Java, Communication",82074.4,High
+23,Master's,IT,Software Engineer,1,3,"Project Management, Cloud (AWS/GCP), SQL",62807.44,Low
+25,High School,IT,QA Engineer,5,4,"Machine Learning, Java, Excel, Project Management",44818.61,Low
+24,Bachelor's,Data Science,ML Engineer,1,4,"SQL, Leadership, Java, Machine Learning",70650.46,High
+26,Bachelor's,IT,Software Engineer,4,7,"Project Management, JavaScript, Java, Cloud (AWS/GCP), Power BI, Excel, Data Analysis",75447.24,High
+25,Master's,IT,DevOps Engineer,0,3,"Cloud (AWS/GCP), Excel, Project Management",59456.11,Low
+21,Bachelor's,Operations,Operations Manager,1,4,"Machine Learning, Data Analysis, Project Management, Cloud (AWS/GCP)",44706.71,Low
+31,Master's,Sales,Sales Executive,6,3,"Python, Excel, Data Analysis",86179.54,High
+31,Master's,Marketing,Content Writer,9,3,"SQL, Cloud (AWS/GCP), Python",81971.05,High
+33,PhD,IT,DevOps Engineer,9,4,"Machine Learning, Communication, Python, Leadership",90864.21,High
+29,PhD,IT,DevOps Engineer,4,3,"Communication, Java, Leadership",82480.79,High
+36,Master's,Data Science,ML Engineer,11,7,"Data Analysis, Excel, JavaScript, Cloud (AWS/GCP), Leadership, Project Management, SQL",93944.42,High
+23,Bachelor's,IT,Software Engineer,2,3,"Excel, Communication, Machine Learning",43670.58,Low
+27,Bachelor's,Finance,Financial Analyst,4,7,"Excel, Java, Communication, Machine Learning, Project Management, SQL, JavaScript",72060.69,High
+22,Bachelor's,Finance,Financial Analyst,0,7,"Leadership, Excel, Java, Project Management, JavaScript, Communication, Cloud (AWS/GCP)",54766.2,Low
+20,High School,Finance,Accountant,2,2,"Cloud (AWS/GCP), Project Management",38577.24,Low
+21,High School,Data Science,ML Engineer,1,2,"Machine Learning, Data Analysis",48533.68,Low
+27,Master's,Marketing,Content Writer,2,4,"Cloud (AWS/GCP), Machine Learning, SQL, Data Analysis",75343.3,High
+27,PhD,Data Science,ML Engineer,3,7,"Python, Leadership, Communication, SQL, Java, Excel, Cloud (AWS/GCP)",90368.57,High
+32,Master's,Finance,Financial Analyst,9,2,"Project Management, Leadership",77515.96,High
+20,Bachelor's,IT,Software Engineer,0,5,"Power BI, JavaScript, SQL, Leadership, Java",62720.42,Low
+40,Master's,Finance,CFO,15,6,"Python, Machine Learning, SQL, JavaScript, Leadership, Power BI",93329.73,High
+26,Master's,Marketing,Marketing Manager,1,5,"Project Management, Excel, Machine Learning, JavaScript, Cloud (AWS/GCP)",58340.21,Low
+31,Bachelor's,Operations,Supply Chain Analyst,11,6,"Java, Python, Data Analysis, Leadership, Excel, SQL",79219.76,High
+25,Bachelor's,Marketing,SEO Analyst,4,3,"Python, Power BI, Leadership",40611.98,Low
+30,PhD,IT,QA Engineer,6,6,"JavaScript, Java, Project Management, Python, Data Analysis, Machine Learning",87640.81,High
+32,PhD,HR,HR Manager,5,3,"Excel, Communication, Java",69704.92,Low
+28,Master's,HR,Training Specialist,5,5,"Excel, Power BI, Project Management, Cloud (AWS/GCP), SQL",62602.28,Low
+23,Bachelor's,Sales,Sales Head,3,5,"Machine Learning, Java, Python, SQL, Leadership",48816.46,Low
+21,Bachelor's,Sales,Sales Head,1,6,"JavaScript, Project Management, Leadership, SQL, Data Analysis, Communication",52342.55,Low
+27,Master's,HR,Recruiter,4,7,"Cloud (AWS/GCP), Data Analysis, Java, Project Management, Leadership, Excel, Machine Learning",66782.5,Low
+29,Bachelor's,Finance,Financial Analyst,7,2,"Power BI, Data Analysis",67804.72,Low
+20,High School,Sales,Sales Executive,2,4,"SQL, JavaScript, Communication, Python",36070.7,Low
+22,Bachelor's,Sales,Sales Executive,1,4,"Project Management, JavaScript, Power BI, SQL",60604.7,Low
+23,Bachelor's,IT,QA Engineer,0,7,"SQL, Power BI, Leadership, Machine Learning, JavaScript, Java, Cloud (AWS/GCP)",78937.03,High
+36,Master's,IT,DevOps Engineer,11,5,"Data Analysis, Power BI, Java, Leadership, Project Management",89163.89,High
+33,Bachelor's,IT,Software Engineer,10,7,"Data Analysis, Communication, Project Management, Machine Learning, Power BI, Python, SQL",86267.22,High
+23,High School,Data Science,Data Analyst,3,4,"Communication, JavaScript, Project Management, Excel",51127.18,Low
+28,Master's,Finance,Accountant,5,4,"Project Management, Python, Machine Learning, Java",76033.36,High
+24,Master's,Sales,Sales Head,2,3,"JavaScript, Project Management, Java",74465.37,High
+27,Master's,Marketing,Marketing Manager,4,2,"Cloud (AWS/GCP), Java",56565.04,Low
+27,Bachelor's,HR,Training Specialist,5,7,"Project Management, Leadership, Java, Cloud (AWS/GCP), Power BI, SQL, Data Analysis",55693.31,Low
+26,Master's,HR,Recruiter,2,2,"Java, Power BI",64312.14,Low
+25,Master's,Data Science,Data Scientist,3,5,"Cloud (AWS/GCP), Python, Project Management, Machine Learning, Leadership",86034.77,High
+24,Bachelor's,HR,HR Manager,4,3,"Power BI, Java, Excel",54215.72,Low
+24,Master's,Operations,Supply Chain Analyst,1,3,"Data Analysis, Communication, JavaScript",61110.5,Low
+29,Bachelor's,Data Science,ML Engineer,9,3,"Power BI, Excel, Data Analysis",82786.68,High
+26,Bachelor's,IT,Software Engineer,3,3,"Power BI, Project Management, Cloud (AWS/GCP)",58287.2,Low
+26,High School,Finance,Accountant,5,3,"Java, Leadership, Data Analysis",54901.01,Low
+39,Master's,Marketing,Content Writer,17,5,"Project Management, Data Analysis, Leadership, SQL, Cloud (AWS/GCP)",100336.9,High
+30,Master's,Data Science,ML Engineer,6,3,"Machine Learning, Python, JavaScript",78204.52,High
+21,High School,Sales,Sales Executive,1,2,"Python, Cloud (AWS/GCP)",37692.04,Low
+24,Master's,Operations,Logistics Head,2,7,"Leadership, Data Analysis, Java, JavaScript, Power BI, Cloud (AWS/GCP), Excel",63997.42,Low
+43,Master's,Operations,Logistics Head,20,3,"SQL, Leadership, Communication",92515.72,High
+23,Master's,Marketing,SEO Analyst,0,3,"Power BI, SQL, JavaScript",42683.34,Low
+32,Bachelor's,HR,HR Manager,9,3,"Excel, Java, Project Management",68135.62,Low
+28,Bachelor's,Data Science,Data Analyst,5,6,"Leadership, Data Analysis, Communication, Power BI, Machine Learning, Cloud (AWS/GCP)",69812.2,Low
+24,High School,Marketing,SEO Analyst,4,3,"Python, Project Management, Excel",42059.3,Low
+28,Master's,Finance,Accountant,3,5,"Java, Cloud (AWS/GCP), Python, JavaScript, SQL",59168.31,Low
+28,Bachelor's,Marketing,SEO Analyst,5,6,"Leadership, Power BI, Machine Learning, Java, Python, Excel",58129.02,Low
+21,High School,Operations,Supply Chain Analyst,2,3,"Communication, JavaScript, Machine Learning",37458.17,Low
+33,Master's,HR,Recruiter,8,6,"Project Management, Leadership, Python, Java, Machine Learning, Excel",72354.95,High
+28,PhD,Finance,Accountant,1,4,"Communication, Leadership, Java, Python",69087.62,Low
+26,Master's,Finance,Accountant,1,2,"Project Management, Excel",54677.96,Low
+29,Master's,Sales,Sales Head,4,7,"Machine Learning, Power BI, Project Management, JavaScript, Java, SQL, Communication",66205.74,Low
+29,PhD,Operations,Supply Chain Analyst,2,5,"Excel, Leadership, SQL, Java, Python",78575.36,High
+27,Bachelor's,Operations,Operations Manager,5,6,"Excel, Communication, Machine Learning, JavaScript, Python, Project Management",63830.67,Low
+31,Bachelor's,Sales,Account Manager,8,7,"Leadership, Java, Cloud (AWS/GCP), SQL, Project Management, Excel, Power BI",92438.19,High
+29,Master's,Operations,Supply Chain Analyst,4,2,"Machine Learning, Communication",67085.25,Low
+28,PhD,Marketing,Marketing Manager,1,7,"Java, Leadership, Communication, Excel, Machine Learning, Power BI, JavaScript",86540.33,High
+28,Bachelor's,HR,Training Specialist,8,5,"SQL, Machine Learning, Power BI, JavaScript, Cloud (AWS/GCP)",64766.58,Low
+34,Bachelor's,Marketing,SEO Analyst,11,3,"JavaScript, Project Management, Power BI",75411.41,High
+20,Bachelor's,HR,Recruiter,0,5,"Leadership, JavaScript, Java, Python, Cloud (AWS/GCP)",41590.97,Low
+23,Bachelor's,Sales,Sales Head,1,6,"Cloud (AWS/GCP), Communication, Java, Excel, Machine Learning, SQL",46460.39,Low
+22,Bachelor's,Sales,Account Manager,0,2,"Machine Learning, Power BI",44838.92,Low
+25,PhD,Operations,Logistics Head,0,4,"SQL, Communication, Data Analysis, Excel",73988.24,High
+33,Bachelor's,Marketing,Content Writer,10,5,"JavaScript, Leadership, Power BI, Excel, Project Management",73611.88,High
+23,Master's,Marketing,SEO Analyst,1,4,"Data Analysis, Leadership, Machine Learning, SQL",49593.75,Low
+23,Bachelor's,Finance,Accountant,3,4,"Python, SQL, Java, Machine Learning",51468.28,Low
+20,High School,Data Science,Data Analyst,2,6,"Machine Learning, Excel, Java, Cloud (AWS/GCP), Leadership, Power BI",44384.51,Low
+26,Bachelor's,Operations,Logistics Head,4,6,"SQL, Cloud (AWS/GCP), Power BI, Machine Learning, Leadership, Excel",51252.7,Low
+23,Bachelor's,HR,Training Specialist,1,5,"Leadership, Data Analysis, Cloud (AWS/GCP), Excel, Machine Learning",45509.05,Low
+28,PhD,Sales,Sales Executive,3,6,"Communication, JavaScript, SQL, Cloud (AWS/GCP), Data Analysis, Java",76242.95,High
+26,Bachelor's,Operations,Operations Manager,4,3,"Communication, Power BI, Excel",50738.52,Low
+33,Master's,Finance,CFO,8,2,"Power BI, Leadership",82303.8,High
+24,Bachelor's,Finance,Accountant,3,4,"Leadership, Java, Machine Learning, SQL",67627.56,Low
+26,Master's,Operations,Logistics Head,1,7,"Cloud (AWS/GCP), Python, Machine Learning, JavaScript, Java, Data Analysis, Project Management",68102.25,Low
+24,Bachelor's,Data Science,Data Analyst,3,5,"Data Analysis, Excel, Java, Cloud (AWS/GCP), Python",76700.68,High
+27,Bachelor's,Finance,CFO,7,2,"Excel, Python",69450.4,Low
+21,Bachelor's,Sales,Sales Head,1,4,"JavaScript, Project Management, Machine Learning, Python",52418.94,Low
+30,Master's,Operations,Supply Chain Analyst,7,6,"Communication, Cloud (AWS/GCP), Leadership, JavaScript, Machine Learning, Project Management",79845.4,High
+21,Bachelor's,HR,Training Specialist,1,7,"Machine Learning, Data Analysis, Power BI, Cloud (AWS/GCP), Project Management, Excel, SQL",40456.91,Low
+32,PhD,Marketing,Content Writer,7,2,"JavaScript, Power BI",79527.36,High
+28,PhD,Data Science,ML Engineer,1,5,"Data Analysis, Excel, Machine Learning, Communication, Java",94891.1,High
+26,Master's,Sales,Account Manager,1,2,"Power BI, Cloud (AWS/GCP)",61139.38,Low
+29,High School,Finance,Accountant,8,3,"JavaScript, Python, Data Analysis",58026.47,Low
+23,Bachelor's,Marketing,Content Writer,3,6,"Cloud (AWS/GCP), Java, Power BI, JavaScript, Excel, Python",57810.83,Low
+25,Master's,IT,DevOps Engineer,0,4,"Java, SQL, Python, Leadership",77681.57,High
+22,Bachelor's,HR,Training Specialist,1,3,"Communication, SQL, Machine Learning",50754.81,Low
+22,Bachelor's,IT,DevOps Engineer,0,7,"Java, Cloud (AWS/GCP), SQL, Python, JavaScript, Leadership, Power BI",58062.08,Low
+21,Bachelor's,Sales,Sales Head,0,7,"Project Management, Cloud (AWS/GCP), Python, JavaScript, Java, SQL, Communication",59056.49,Low
+33,Bachelor's,Operations,Logistics Head,12,4,"Cloud (AWS/GCP), Java, Machine Learning, Project Management",78350.76,High
+24,Bachelor's,Sales,Sales Head,3,3,"Java, JavaScript, Data Analysis",45811.02,Low
+33,Bachelor's,IT,DevOps Engineer,13,6,"Cloud (AWS/GCP), Communication, JavaScript, Python, Machine Learning, Excel",92766.92,High
+30,Master's,Operations,Operations Manager,5,7,"Project Management, Excel, Communication, JavaScript, Java, Power BI, Leadership",69334.99,Low
+26,Master's,IT,Software Engineer,3,2,"JavaScript, SQL",50672.13,Low
+31,Bachelor's,Data Science,ML Engineer,11,6,"Data Analysis, Excel, Machine Learning, Python, Power BI, Project Management",89765.46,High
+28,Master's,HR,Training Specialist,5,6,"SQL, Java, JavaScript, Leadership, Python, Excel",81665.24,High
+26,High School,HR,HR Manager,5,4,"Data Analysis, Cloud (AWS/GCP), Java, Project Management",50241.01,Low
+29,Master's,Operations,Supply Chain Analyst,4,4,"Leadership, Power BI, Machine Learning, Cloud (AWS/GCP)",79607.77,High
+33,Bachelor's,HR,HR Manager,10,7,"Project Management, Leadership, Data Analysis, JavaScript, SQL, Java, Python",73126.0,High
+29,Master's,HR,Training Specialist,6,2,"Data Analysis, Project Management",61602.06,Low
+35,Master's,Finance,Accountant,10,6,"Cloud (AWS/GCP), Power BI, SQL, Data Analysis, Python, Machine Learning",93921.58,High
+26,Master's,Operations,Logistics Head,2,6,"JavaScript, Python, Java, Communication, Project Management, Data Analysis",70436.23,High
+40,Bachelor's,Operations,Operations Manager,19,5,"Leadership, Excel, Data Analysis, Power BI, SQL",71369.41,High
+23,Master's,Sales,Sales Executive,1,2,"Power BI, SQL",54315.17,Low
+34,Master's,Sales,Sales Executive,12,5,"Data Analysis, Power BI, Python, Excel, Cloud (AWS/GCP)",97029.64,High
+27,PhD,Sales,Account Manager,1,2,"Java, Cloud (AWS/GCP)",67974.79,Low
+25,Bachelor's,IT,QA Engineer,3,6,"Data Analysis, Communication, SQL, Excel, Python, Java",68572.65,Low
+25,Bachelor's,Operations,Operations Manager,3,5,"Leadership, Project Management, Cloud (AWS/GCP), JavaScript, Python",58259.18,Low
+24,Bachelor's,Sales,Sales Head,4,7,"Data Analysis, Excel, Project Management, JavaScript, SQL, Machine Learning, Communication",76422.77,High
+23,Bachelor's,Operations,Supply Chain Analyst,2,7,"Leadership, Machine Learning, Java, Power BI, Cloud (AWS/GCP), Communication, Data Analysis",56150.48,Low
+25,Bachelor's,Sales,Sales Head,2,2,"Python, Project Management",54104.88,Low
+30,Bachelor's,Sales,Sales Executive,10,6,"Leadership, Power BI, SQL, Communication, Cloud (AWS/GCP), JavaScript",74914.02,High
+26,Master's,Marketing,Content Writer,3,3,"Excel, SQL, Leadership",44322.62,Low
+22,Bachelor's,Operations,Supply Chain Analyst,1,4,"Machine Learning, Project Management, Python, Leadership",42807.56,Low
+26,Bachelor's,Finance,Accountant,6,7,"Data Analysis, Communication, SQL, JavaScript, Leadership, Cloud (AWS/GCP), Excel",71315.89,High
+28,Master's,HR,HR Manager,3,4,"Excel, Java, Communication, Cloud (AWS/GCP)",49540.33,Low
+30,PhD,Finance,CFO,3,2,"Data Analysis, Java",62211.55,Low
+31,Master's,IT,QA Engineer,8,5,"Java, Machine Learning, Excel, SQL, Python",83131.18,High
+25,Bachelor's,Sales,Sales Executive,2,6,"Excel, Python, Power BI, Communication, JavaScript, Cloud (AWS/GCP)",50659.32,Low
+30,Bachelor's,Finance,Accountant,7,4,"Cloud (AWS/GCP), SQL, Power BI, Project Management",49113.51,Low
+26,Master's,HR,Recruiter,2,2,"Excel, Machine Learning",72144.56,High
+25,PhD,Data Science,Data Analyst,0,3,"Data Analysis, Machine Learning, Power BI",91331.65,High
+39,Master's,Data Science,Data Scientist,15,7,"Communication, Python, Java, JavaScript, Cloud (AWS/GCP), Leadership, Machine Learning",106084.05,High
+25,Master's,IT,DevOps Engineer,1,2,"Cloud (AWS/GCP), Excel",71382.22,High
+29,Bachelor's,Data Science,Data Scientist,7,3,"SQL, Excel, Project Management",81020.9,High
+29,Master's,IT,Software Engineer,6,5,"JavaScript, Communication, Machine Learning, SQL, Leadership",75139.26,High
+23,High School,Sales,Sales Head,3,2,"Java, Communication",34985.11,Low
+24,Bachelor's,Sales,Sales Executive,3,2,"Cloud (AWS/GCP), Data Analysis",52963.79,Low
+22,High School,Marketing,Marketing Manager,2,2,"Java, Cloud (AWS/GCP)",29450.52,Low
+28,Master's,Finance,Accountant,4,6,"Project Management, Data Analysis, Leadership, Communication, JavaScript, Java",71305.39,High
+26,Master's,Operations,Logistics Head,4,6,"JavaScript, Excel, Machine Learning, Power BI, Leadership, Communication",69129.97,Low
+31,PhD,Finance,CFO,7,4,"Power BI, SQL, Python, Communication",89507.38,High
+22,High School,HR,Training Specialist,3,5,"Java, Cloud (AWS/GCP), Excel, Machine Learning, Data Analysis",43671.56,Low
+31,Master's,Sales,Account Manager,8,6,"Project Management, Excel, Communication, Python, Data Analysis, Leadership",78960.74,High
+26,Master's,HR,Recruiter,1,4,"Excel, Java, Communication, SQL",61283.46,Low
+24,High School,Finance,Financial Analyst,6,3,"SQL, Project Management, Communication",50941.93,Low
+25,Master's,Data Science,Data Analyst,0,6,"SQL, Cloud (AWS/GCP), Project Management, JavaScript, Machine Learning, Communication",75496.64,High
+27,Bachelor's,Data Science,ML Engineer,5,3,"JavaScript, Leadership, Data Analysis",83517.24,High
+21,Bachelor's,Operations,Logistics Head,0,7,"Machine Learning, Data Analysis, SQL, Python, Java, Project Management, Communication",54959.76,Low
+33,Master's,Finance,Accountant,9,3,"JavaScript, Communication, Project Management",76393.67,High
+29,Bachelor's,Operations,Supply Chain Analyst,7,6,"Cloud (AWS/GCP), Java, Python, JavaScript, Machine Learning, SQL",62492.48,Low
+22,Master's,IT,QA Engineer,0,3,"Python, Machine Learning, Data Analysis",56117.5,Low
+26,PhD,HR,Training Specialist,2,4,"Communication, Machine Learning, Java, SQL",62840.62,Low
+24,PhD,Finance,Financial Analyst,0,2,"Communication, SQL",81569.07,High
+26,Master's,Sales,Sales Head,4,2,"Python, Java",65155.8,Low
+21,Bachelor's,IT,DevOps Engineer,1,2,"Cloud (AWS/GCP), Leadership",50355.74,Low
+20,High School,Operations,Logistics Head,2,4,"Data Analysis, JavaScript, Project Management, SQL",29419.86,Low
+26,PhD,Operations,Logistics Head,0,2,"JavaScript, Cloud (AWS/GCP)",61772.41,Low
+22,High School,Data Science,ML Engineer,2,3,"Communication, JavaScript, SQL",48986.57,Low
+29,Master's,IT,DevOps Engineer,4,6,"Project Management, Cloud (AWS/GCP), Leadership, SQL, Data Analysis, Machine Learning",87038.42,High
+27,Bachelor's,Data Science,Data Scientist,4,7,"Python, Data Analysis, Java, Project Management, SQL, Cloud (AWS/GCP), Power BI",66950.57,Low
+28,Master's,Finance,Financial Analyst,4,6,"Leadership, Project Management, SQL, Communication, Cloud (AWS/GCP), Excel",76138.11,High
+24,High School,HR,Recruiter,5,2,"Java, Excel",41804.78,Low
+22,Bachelor's,HR,Training Specialist,2,2,"Machine Learning, Project Management",54027.0,Low
+24,Master's,Finance,CFO,2,7,"Excel, Machine Learning, Leadership, Java, Cloud (AWS/GCP), SQL, Data Analysis",64707.52,Low
+26,PhD,Marketing,Marketing Manager,2,3,"Data Analysis, Leadership, Java",56886.06,Low
+32,Bachelor's,Operations,Logistics Head,9,7,"Leadership, Data Analysis, Excel, JavaScript, SQL, Communication, Cloud (AWS/GCP)",71114.0,High
+37,Bachelor's,Data Science,Data Scientist,14,6,"Power BI, JavaScript, Machine Learning, Leadership, SQL, Data Analysis",79244.8,High
+35,PhD,Marketing,Content Writer,10,3,"Communication, JavaScript, Excel",97536.1,High
+32,Master's,Marketing,Content Writer,7,3,"Cloud (AWS/GCP), Power BI, Communication",67616.0,Low
+44,Master's,HR,Recruiter,20,5,"Python, SQL, JavaScript, Excel, Cloud (AWS/GCP)",106877.22,High
+24,Bachelor's,Operations,Operations Manager,1,2,"Cloud (AWS/GCP), Leadership",46402.17,Low
+32,Bachelor's,IT,DevOps Engineer,9,4,"Machine Learning, Leadership, Power BI, JavaScript",70126.5,High
+28,Bachelor's,Finance,Accountant,7,4,"JavaScript, Project Management, Python, Leadership",72995.77,High
+24,Bachelor's,Data Science,Data Analyst,1,4,"Communication, Python, Machine Learning, JavaScript",54839.39,Low
+34,Bachelor's,IT,Software Engineer,11,7,"Power BI, Communication, Java, Leadership, Machine Learning, JavaScript, Python",81655.97,High
+45,Bachelor's,HR,HR Manager,25,4,"Data Analysis, Project Management, Cloud (AWS/GCP), Python",106724.49,High
+27,Bachelor's,Sales,Sales Executive,4,6,"Communication, JavaScript, Python, Data Analysis, Java, Machine Learning",50530.94,Low
+27,Master's,Sales,Sales Executive,4,7,"Project Management, Power BI, Communication, Leadership, Machine Learning, SQL, JavaScript",62405.79,Low
+33,Master's,IT,QA Engineer,11,7,"Cloud (AWS/GCP), SQL, Power BI, Java, JavaScript, Machine Learning, Communication",92655.71,High
+41,High School,Operations,Logistics Head,20,2,"Python, Leadership",80985.74,High
+24,Master's,HR,Recruiter,1,6,"Project Management, Data Analysis, Excel, Python, Machine Learning, SQL",65926.38,Low
+45,Bachelor's,Operations,Operations Manager,25,5,"Project Management, JavaScript, Leadership, Python, Communication",110805.89,High
+29,Master's,IT,DevOps Engineer,5,7,"Power BI, Data Analysis, SQL, Cloud (AWS/GCP), Project Management, Leadership, Python",99420.43,High
+32,Bachelor's,IT,QA Engineer,10,7,"Java, Project Management, Python, Cloud (AWS/GCP), JavaScript, Excel, Machine Learning",92125.7,High
+20,Bachelor's,Marketing,Marketing Manager,0,6,"Power BI, JavaScript, Communication, Python, Data Analysis, Excel",43603.56,Low
+37,Bachelor's,Sales,Account Manager,16,5,"Power BI, Data Analysis, Project Management, Python, Cloud (AWS/GCP)",92616.26,High
+22,High School,Data Science,Data Analyst,3,2,"Java, Communication",39837.45,Low
+27,Master's,Operations,Supply Chain Analyst,2,6,"Cloud (AWS/GCP), Java, Leadership, Excel, Project Management, JavaScript",66381.38,Low
+35,Master's,Sales,Sales Head,11,7,"Python, SQL, Cloud (AWS/GCP), Excel, JavaScript, Communication, Power BI",77827.91,High
+21,Bachelor's,Operations,Logistics Head,0,2,"Data Analysis, Java",39807.95,Low
+31,Bachelor's,Operations,Operations Manager,8,4,"SQL, Communication, Data Analysis, Power BI",69958.97,Low
+24,Bachelor's,Sales,Account Manager,2,4,"Power BI, SQL, Project Management, Communication",49168.72,Low
+28,Bachelor's,Operations,Logistics Head,7,3,"Data Analysis, SQL, Power BI",74961.47,High
+24,Master's,Data Science,Data Scientist,0,4,"Python, Data Analysis, Communication, Machine Learning",68978.99,Low
+32,High School,Operations,Operations Manager,14,4,"Java, Excel, Power BI, Leadership",67526.03,Low
+22,Bachelor's,Finance,Accountant,2,5,"JavaScript, Project Management, Leadership, SQL, Communication",58097.02,Low
+24,Master's,Marketing,Marketing Manager,0,2,"Data Analysis, Excel",48983.71,Low
+27,Master's,Operations,Logistics Head,5,6,"Excel, Communication, SQL, Machine Learning, Data Analysis, Java",78565.56,High
+30,High School,Sales,Sales Executive,10,6,"Communication, JavaScript, Java, Cloud (AWS/GCP), SQL, Project Management",57685.86,Low
+26,PhD,HR,Recruiter,0,3,"Python, Power BI, Java",72385.45,High
+26,Master's,Sales,Account Manager,2,4,"Power BI, JavaScript, Python, Leadership",59438.45,Low
+36,Bachelor's,Operations,Operations Manager,15,5,"Cloud (AWS/GCP), Leadership, Communication, SQL, Java",87614.66,High
+28,Bachelor's,HR,HR Manager,7,6,"Cloud (AWS/GCP), Communication, Data Analysis, Machine Learning, SQL, Leadership",71422.87,High
+30,Master's,Sales,Account Manager,6,3,"Excel, Leadership, JavaScript",66977.3,Low
+22,High School,HR,Training Specialist,3,3,"Project Management, Leadership, Java",23630.42,Low
+30,Bachelor's,Finance,Accountant,8,4,"Java, Python, Project Management, Communication",61614.44,Low
+28,Bachelor's,Operations,Logistics Head,7,2,"Java, Data Analysis",55735.96,Low
+23,Bachelor's,HR,Training Specialist,3,5,"JavaScript, Java, Power BI, Cloud (AWS/GCP), Data Analysis",72487.88,High
+31,Master's,Operations,Logistics Head,7,4,"Python, Data Analysis, SQL, Java",64819.87,Low
+19,High School,IT,DevOps Engineer,1,4,"Data Analysis, Excel, Power BI, JavaScript",49103.98,Low
+36,Master's,Operations,Logistics Head,11,4,"Java, Cloud (AWS/GCP), Leadership, Project Management",79463.16,High
+23,Master's,HR,Training Specialist,1,3,"Machine Learning, Excel, Cloud (AWS/GCP)",60522.54,Low
+25,Bachelor's,Data Science,ML Engineer,3,6,"JavaScript, SQL, Power BI, Communication, Cloud (AWS/GCP), Excel",74724.52,High
+28,Bachelor's,Marketing,Content Writer,6,5,"Excel, Power BI, Communication, Python, JavaScript",54621.1,Low
+26,Master's,Sales,Sales Executive,4,6,"Leadership, Excel, Power BI, SQL, Python, Communication",71671.9,High
+26,Master's,Marketing,SEO Analyst,3,5,"Excel, Machine Learning, Leadership, Power BI, Communication",62536.11,Low
+29,Bachelor's,Finance,Accountant,8,5,"JavaScript, SQL, Project Management, Excel, Leadership",60885.01,Low
+38,Master's,Sales,Sales Executive,15,7,"Machine Learning, Leadership, JavaScript, Python, Excel, Project Management, SQL",92967.67,High
+21,Bachelor's,HR,Recruiter,0,7,"Python, Data Analysis, SQL, Machine Learning, Power BI, Communication, Cloud (AWS/GCP)",44237.94,Low
+30,PhD,Data Science,ML Engineer,6,2,"Project Management, Python",101024.7,High
+25,Bachelor's,Sales,Sales Head,3,4,"JavaScript, Excel, Machine Learning, Java",44401.61,Low
+23,Bachelor's,Finance,Accountant,3,6,"Excel, Power BI, Machine Learning, Project Management, Python, Cloud (AWS/GCP)",56464.41,Low
+27,Bachelor's,Data Science,ML Engineer,6,5,"Cloud (AWS/GCP), Java, Communication, Project Management, Excel",66651.57,Low
+39,High School,Data Science,Data Analyst,20,5,"Communication, Python, Data Analysis, JavaScript, Java",92577.34,High
+21,Bachelor's,HR,Training Specialist,0,3,"Cloud (AWS/GCP), Excel, JavaScript",42501.83,Low
+27,Master's,Marketing,Content Writer,2,6,"Cloud (AWS/GCP), JavaScript, Power BI, Python, SQL, Java",66335.07,Low
+25,Master's,Sales,Sales Head,0,2,"Excel, Cloud (AWS/GCP)",60135.32,Low
+20,Bachelor's,Marketing,Marketing Manager,0,3,"Data Analysis, SQL, Java",48877.34,Low
+24,Master's,Finance,Financial Analyst,1,7,"Communication, JavaScript, Project Management, Python, SQL, Excel, Machine Learning",76620.11,High
+23,Master's,Operations,Operations Manager,0,6,"Communication, Data Analysis, Leadership, Project Management, SQL, Excel",64795.06,Low
+31,Master's,HR,HR Manager,8,6,"Python, SQL, Excel, Leadership, Power BI, Machine Learning",63232.71,Low
+24,Bachelor's,Sales,Account Manager,4,5,"Data Analysis, Leadership, Cloud (AWS/GCP), Machine Learning, Project Management",62033.37,Low
+26,Bachelor's,HR,Training Specialist,4,5,"Machine Learning, Java, Excel, JavaScript, Cloud (AWS/GCP)",60233.41,Low
+23,Bachelor's,Sales,Sales Head,0,7,"Java, Cloud (AWS/GCP), Data Analysis, Excel, Communication, JavaScript, Project Management",61464.95,Low
+20,Bachelor's,Sales,Sales Head,0,6,"SQL, Java, Project Management, Data Analysis, Leadership, Machine Learning",53731.18,Low
+38,PhD,Sales,Sales Executive,12,7,"JavaScript, Excel, SQL, Project Management, Python, Cloud (AWS/GCP), Leadership",103207.28,High
+31,PhD,Operations,Logistics Head,4,3,"SQL, Power BI, Java",87992.31,High
+29,Master's,Sales,Account Manager,7,6,"Data Analysis, JavaScript, Leadership, Power BI, Machine Learning, Python",85825.13,High
+25,Bachelor's,Sales,Sales Executive,5,7,"JavaScript, Excel, Communication, Power BI, Python, Machine Learning, Java",71514.56,High
+34,PhD,Marketing,SEO Analyst,9,4,"Python, Excel, Leadership, Project Management",85175.21,High
+21,High School,Data Science,Data Analyst,1,5,"Machine Learning, Excel, Power BI, Data Analysis, Communication",50685.45,Low
+25,Bachelor's,Data Science,Data Scientist,5,6,"Communication, Python, JavaScript, Data Analysis, Cloud (AWS/GCP), Machine Learning",67498.51,Low
+38,Master's,Sales,Sales Head,13,7,"JavaScript, Machine Learning, Power BI, Data Analysis, Leadership, Python, Java",101907.03,High
+27,High School,IT,Software Engineer,9,7,"JavaScript, Power BI, Project Management, SQL, Excel, Cloud (AWS/GCP), Communication",75989.81,High
+34,High School,Operations,Logistics Head,13,5,"Communication, Cloud (AWS/GCP), Machine Learning, Leadership, Power BI",60718.41,Low
+33,Master's,IT,DevOps Engineer,9,2,"JavaScript, Machine Learning",85666.96,High
+22,Bachelor's,Marketing,Content Writer,2,6,"Power BI, Cloud (AWS/GCP), Communication, Python, Java, JavaScript",52000.16,Low
+22,Master's,Marketing,Marketing Manager,0,7,"Project Management, Java, Leadership, Power BI, Data Analysis, SQL, Cloud (AWS/GCP)",62491.46,Low
+31,Bachelor's,Sales,Sales Head,8,2,"JavaScript, Machine Learning",68521.86,Low
+37,Master's,Sales,Sales Head,13,5,"Java, Communication, Data Analysis, Power BI, Machine Learning",90114.36,High
+29,Master's,Finance,Financial Analyst,5,5,"Cloud (AWS/GCP), JavaScript, Data Analysis, Leadership, SQL",75242.5,High
+20,Bachelor's,Finance,CFO,0,2,"Leadership, JavaScript",45654.46,Low
+27,PhD,Data Science,ML Engineer,1,5,"Machine Learning, JavaScript, Cloud (AWS/GCP), Project Management, Java",83254.86,High
+27,Bachelor's,Finance,Financial Analyst,6,5,"Excel, Cloud (AWS/GCP), Machine Learning, Data Analysis, Java",64627.51,Low
+31,PhD,IT,QA Engineer,5,2,"Cloud (AWS/GCP), Project Management",80741.38,High

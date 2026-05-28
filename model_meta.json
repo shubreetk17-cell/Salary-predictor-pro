@@ -1,0 +1,34 @@
+{
+  "features": [
+    "Age",
+    "Education_Enc",
+    "Experience_Years",
+    "Num_Skills",
+    "Department_Enc"
+  ],
+  "accuracy": 79.33,
+  "cv_accuracy": 81.27,
+  "cv_std": 2.04,
+  "departments": [
+    "Data Science",
+    "Finance",
+    "HR",
+    "IT",
+    "Marketing",
+    "Operations",
+    "Sales"
+  ],
+  "feature_importances": {
+    "Age": 0.6645602528669217,
+    "Education_Enc": 0.13059181835634392,
+    "Experience_Years": 0.025830932622013074,
+    "Num_Skills": 0.07040264422747329,
+    "Department_Enc": 0.10861435192724798
+  },
+  "classes": [
+    "High",
+    "Low"
+  ],
+  "tree_depth": 8,
+  "n_leaves": 56
+}
